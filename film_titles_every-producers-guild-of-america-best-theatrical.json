@@ -1,5 +1,15 @@
 [
   {
+    "Title": "Driving Miss Daisy",
+    "Year": "1989",
+    "ID": "51687"
+  },
+  {
+    "Title": "The Silence of the Lambs",
+    "Year": "1991",
+    "ID": "51782"
+  },
+  {
     "Title": "Dances with Wolves",
     "Year": "1990",
     "ID": "51539"
@@ -8,11 +18,6 @@
     "Title": "Forrest Gump",
     "Year": "1994",
     "ID": "2704"
-  },
-  {
-    "Title": "The Silence of the Lambs",
-    "Year": "1991",
-    "ID": "51782"
   },
   {
     "Title": "Schindler's List",
@@ -25,9 +30,9 @@
     "ID": "45348"
   },
   {
-    "Title": "Driving Miss Daisy",
-    "Year": "1989",
-    "ID": "51687"
+    "Title": "Apollo 13",
+    "Year": "1995",
+    "ID": "51551"
   },
   {
     "Title": "The English Patient",
@@ -45,19 +50,14 @@
     "ID": "51952"
   },
   {
+    "Title": "American Beauty",
+    "Year": "1999",
+    "ID": "2703"
+  },
+  {
     "Title": "Titanic",
     "Year": "1997",
     "ID": "51524"
-  },
-  {
-    "Title": "Apollo 13",
-    "Year": "1995",
-    "ID": "51551"
-  },
-  {
-    "Title": "The Lord of the Rings: The Return of the King",
-    "Year": "2003",
-    "ID": "51928"
   },
   {
     "Title": "Chicago",
@@ -65,49 +65,14 @@
     "ID": "50960"
   },
   {
+    "Title": "The Lord of the Rings: The Return of the King",
+    "Year": "2003",
+    "ID": "51928"
+  },
+  {
     "Title": "Brokeback Mountain",
     "Year": "2005",
     "ID": "51909"
-  },
-  {
-    "Title": "Little Miss Sunshine",
-    "Year": "2006",
-    "ID": "51379"
-  },
-  {
-    "Title": "Moulin Rouge!",
-    "Year": "2001",
-    "ID": "51328"
-  },
-  {
-    "Title": "American Beauty",
-    "Year": "1999",
-    "ID": "2703"
-  },
-  {
-    "Title": "Slumdog Millionaire",
-    "Year": "2008",
-    "ID": "44613"
-  },
-  {
-    "Title": "The Hurt Locker",
-    "Year": "2008",
-    "ID": "44741"
-  },
-  {
-    "Title": "The Artist",
-    "Year": "2011",
-    "ID": "61707"
-  },
-  {
-    "Title": "The King's Speech",
-    "Year": "2010",
-    "ID": "5363"
-  },
-  {
-    "Title": "Argo",
-    "Year": "2012",
-    "ID": "52501"
   },
   {
     "Title": "No Country for Old Men",
@@ -120,9 +85,34 @@
     "ID": "50207"
   },
   {
-    "Title": "Birdman or (The Unexpected Virtue of Ignorance)",
-    "Year": "2014",
-    "ID": "139795"
+    "Title": "Moulin Rouge!",
+    "Year": "2001",
+    "ID": "51328"
+  },
+  {
+    "Title": "The Hurt Locker",
+    "Year": "2008",
+    "ID": "44741"
+  },
+  {
+    "Title": "Slumdog Millionaire",
+    "Year": "2008",
+    "ID": "44613"
+  },
+  {
+    "Title": "Argo",
+    "Year": "2012",
+    "ID": "52501"
+  },
+  {
+    "Title": "The King's Speech",
+    "Year": "2010",
+    "ID": "5363"
+  },
+  {
+    "Title": "The Artist",
+    "Year": "2011",
+    "ID": "61707"
   },
   {
     "Title": "12 Years a Slave",
@@ -140,9 +130,19 @@
     "ID": "246013"
   },
   {
-    "Title": "La La Land",
-    "Year": "2016",
-    "ID": "240344"
+    "Title": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "Year": "2014",
+    "ID": "139795"
+  },
+  {
+    "Title": "Little Miss Sunshine",
+    "Year": "2006",
+    "ID": "51379"
+  },
+  {
+    "Title": "The Shape of Water",
+    "Year": "2017",
+    "ID": "333308"
   },
   {
     "Title": "Green Book",
@@ -155,14 +155,9 @@
     "ID": "460155"
   },
   {
-    "Title": "Everything Everywhere All at Once",
-    "Year": "2022",
-    "ID": "474474"
-  },
-  {
-    "Title": "Oppenheimer",
-    "Year": "2023",
-    "ID": "784328"
+    "Title": "La La Land",
+    "Year": "2016",
+    "ID": "240344"
   },
   {
     "Title": "CODA",
@@ -170,9 +165,14 @@
     "ID": "695473"
   },
   {
-    "Title": "The Shape of Water",
-    "Year": "2017",
-    "ID": "333308"
+    "Title": "Oppenheimer",
+    "Year": "2023",
+    "ID": "784328"
+  },
+  {
+    "Title": "Everything Everywhere All at Once",
+    "Year": "2022",
+    "ID": "474474"
   },
   {
     "Title": "Nomadland",
