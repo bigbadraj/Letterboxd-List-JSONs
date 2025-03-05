@@ -1,8 +1,8 @@
 [
   {
-    "Title": "Barbie",
-    "Year": "2023",
-    "ID": "277064"
+    "Title": "Companion",
+    "Year": "2025",
+    "ID": "977172"
   },
   {
     "Title": "Soul",
@@ -15,19 +15,9 @@
     "ID": "426406"
   },
   {
-    "Title": "Companion",
-    "Year": "2025",
-    "ID": "977172"
-  },
-  {
-    "Title": "Dune",
-    "Year": "2021",
-    "ID": "371378"
-  },
-  {
-    "Title": "Spider-Man: Into the Spider-Verse",
-    "Year": "2018",
-    "ID": "251943"
+    "Title": "Barbie",
+    "Year": "2023",
+    "ID": "277064"
   },
   {
     "Title": "Everything Everywhere All at Once",
@@ -35,9 +25,19 @@
     "ID": "474474"
   },
   {
+    "Title": "The Substance",
+    "Year": "2024",
+    "ID": "838140"
+  },
+  {
     "Title": "Get Out",
     "Year": "2017",
     "ID": "353117"
+  },
+  {
+    "Title": "Dune",
+    "Year": "2021",
+    "ID": "371378"
   },
   {
     "Title": "Inside Out",
@@ -45,19 +45,9 @@
     "ID": "113284"
   },
   {
-    "Title": "The Substance",
-    "Year": "2024",
-    "ID": "838140"
-  },
-  {
-    "Title": "La La Land",
-    "Year": "2016",
-    "ID": "240344"
-  },
-  {
-    "Title": "The Wolf of Wall Street",
-    "Year": "2013",
-    "ID": "86114"
+    "Title": "Interstellar",
+    "Year": "2014",
+    "ID": "117621"
   },
   {
     "Title": "Django Unchained",
@@ -70,9 +60,9 @@
     "ID": "277"
   },
   {
-    "Title": "Interstellar",
-    "Year": "2014",
-    "ID": "117621"
+    "Title": "Spider-Man: Into the Spider-Verse",
+    "Year": "2018",
+    "ID": "251943"
   },
   {
     "Title": "Inception",
@@ -80,9 +70,9 @@
     "ID": "34722"
   },
   {
-    "Title": "Ratatouille",
-    "Year": "2007",
-    "ID": "50558"
+    "Title": "La La Land",
+    "Year": "2016",
+    "ID": "240344"
   },
   {
     "Title": "Inglourious Basterds",
@@ -90,19 +80,14 @@
     "ID": "41352"
   },
   {
-    "Title": "Little Miss Sunshine",
-    "Year": "2006",
-    "ID": "51379"
-  },
-  {
     "Title": "The Dark Knight",
     "Year": "2008",
     "ID": "51896"
   },
   {
-    "Title": "Pride & Prejudice",
-    "Year": "2005",
-    "ID": "49390"
+    "Title": "The Wolf of Wall Street",
+    "Year": "2013",
+    "ID": "86114"
   },
   {
     "Title": "Eternal Sunshine of the Spotless Mind",
@@ -110,14 +95,9 @@
     "ID": "2683"
   },
   {
-    "Title": "Kill Bill: Vol. 1",
-    "Year": "2003",
-    "ID": "2694"
-  },
-  {
-    "Title": "Spirited Away",
-    "Year": "2001",
-    "ID": "51921"
+    "Title": "Ratatouille",
+    "Year": "2007",
+    "ID": "50558"
   },
   {
     "Title": "Catch Me If You Can",
@@ -125,19 +105,24 @@
     "ID": "51484"
   },
   {
+    "Title": "Spirited Away",
+    "Year": "2001",
+    "ID": "51921"
+  },
+  {
+    "Title": "Pride & Prejudice",
+    "Year": "2005",
+    "ID": "49390"
+  },
+  {
     "Title": "Fight Club",
     "Year": "1999",
     "ID": "51568"
   },
   {
-    "Title": "American Psycho",
-    "Year": "2000",
-    "ID": "51097"
-  },
-  {
-    "Title": "The Truman Show",
-    "Year": "1998",
-    "ID": "27256"
+    "Title": "Little Miss Sunshine",
+    "Year": "2006",
+    "ID": "51379"
   },
   {
     "Title": "Good Will Hunting",
@@ -145,9 +130,24 @@
     "ID": "51621"
   },
   {
+    "Title": "American Psycho",
+    "Year": "2000",
+    "ID": "51097"
+  },
+  {
     "Title": "Scream",
     "Year": "1996",
     "ID": "49455"
+  },
+  {
+    "Title": "Se7en",
+    "Year": "1995",
+    "ID": "51345"
+  },
+  {
+    "Title": "Kill Bill: Vol. 1",
+    "Year": "2003",
+    "ID": "2694"
   },
   {
     "Title": "Jurassic Park",
@@ -155,24 +155,29 @@
     "ID": "51733"
   },
   {
-    "Title": "The Silence of the Lambs",
-    "Year": "1991",
-    "ID": "51782"
-  },
-  {
     "Title": "Pulp Fiction",
     "Year": "1994",
     "ID": "51444"
   },
   {
+    "Title": "The Silence of the Lambs",
+    "Year": "1991",
+    "ID": "51782"
+  },
+  {
+    "Title": "The Truman Show",
+    "Year": "1998",
+    "ID": "27256"
+  },
+  {
+    "Title": "Dead Poets Society",
+    "Year": "1989",
+    "ID": "51846"
+  },
+  {
     "Title": "Reservoir Dogs",
     "Year": "1992",
     "ID": "51610"
-  },
-  {
-    "Title": "Se7en",
-    "Year": "1995",
-    "ID": "51345"
   },
   {
     "Title": "GoodFellas",
@@ -185,54 +190,9 @@
     "ID": "47756"
   },
   {
-    "Title": "Dead Poets Society",
-    "Year": "1989",
-    "ID": "51846"
-  },
-  {
-    "Title": "Full Metal Jacket",
-    "Year": "1987",
-    "ID": "51521"
-  },
-  {
     "Title": "Back to the Future",
     "Year": "1985",
     "ID": "51945"
-  },
-  {
-    "Title": "Paris, Texas",
-    "Year": "1984",
-    "ID": "51469"
-  },
-  {
-    "Title": "Return of the Jedi",
-    "Year": "1983",
-    "ID": "50712"
-  },
-  {
-    "Title": "Raiders of the Lost Ark",
-    "Year": "1981",
-    "ID": "51965"
-  },
-  {
-    "Title": "The Shining",
-    "Year": "1980",
-    "ID": "51432"
-  },
-  {
-    "Title": "Blade Runner",
-    "Year": "1982",
-    "ID": "51972"
-  },
-  {
-    "Title": "Alien",
-    "Year": "1979",
-    "ID": "51714"
-  },
-  {
-    "Title": "Taxi Driver",
-    "Year": "1976",
-    "ID": "51947"
   },
   {
     "Title": "Ferris Bueller's Day Off",
@@ -240,14 +200,34 @@
     "ID": "47219"
   },
   {
+    "Title": "Paris, Texas",
+    "Year": "1984",
+    "ID": "51469"
+  },
+  {
+    "Title": "Full Metal Jacket",
+    "Year": "1987",
+    "ID": "51521"
+  },
+  {
+    "Title": "The Shining",
+    "Year": "1980",
+    "ID": "51432"
+  },
+  {
+    "Title": "Raiders of the Lost Ark",
+    "Year": "1981",
+    "ID": "51965"
+  },
+  {
     "Title": "Halloween",
     "Year": "1978",
     "ID": "60298"
   },
   {
-    "Title": "The Exorcist",
-    "Year": "1973",
-    "ID": "47048"
+    "Title": "Blade Runner",
+    "Year": "1982",
+    "ID": "51972"
   },
   {
     "Title": "Star Wars",
@@ -255,9 +235,29 @@
     "ID": "2706"
   },
   {
+    "Title": "Taxi Driver",
+    "Year": "1976",
+    "ID": "51947"
+  },
+  {
+    "Title": "Alien",
+    "Year": "1979",
+    "ID": "51714"
+  },
+  {
     "Title": "The Godfather Part II",
     "Year": "1974",
     "ID": "51816"
+  },
+  {
+    "Title": "The Exorcist",
+    "Year": "1973",
+    "ID": "47048"
+  },
+  {
+    "Title": "Return of the Jedi",
+    "Year": "1983",
+    "ID": "50712"
   },
   {
     "Title": "A Clockwork Orange",
@@ -265,39 +265,14 @@
     "ID": "51867"
   },
   {
-    "Title": "The Godfather",
-    "Year": "1972",
-    "ID": "51818"
-  },
-  {
     "Title": "Jaws",
     "Year": "1975",
     "ID": "51542"
   },
   {
-    "Title": "2001: A Space Odyssey",
-    "Year": "1968",
-    "ID": "51987"
-  },
-  {
-    "Title": "The Graduate",
-    "Year": "1967",
-    "ID": "27183"
-  },
-  {
-    "Title": "The Sound of Music",
-    "Year": "1965",
-    "ID": "42580"
-  },
-  {
-    "Title": "The Aristocats",
-    "Year": "1970",
-    "ID": "46537"
-  },
-  {
-    "Title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
-    "Year": "1964",
-    "ID": "51218"
+    "Title": "The Godfather",
+    "Year": "1972",
+    "ID": "51818"
   },
   {
     "Title": "Midnight Cowboy",
@@ -305,9 +280,29 @@
     "ID": "49856"
   },
   {
-    "Title": "Lawrence of Arabia",
-    "Year": "1962",
-    "ID": "60299"
+    "Title": "2001: A Space Odyssey",
+    "Year": "1968",
+    "ID": "51987"
+  },
+  {
+    "Title": "The Aristocats",
+    "Year": "1970",
+    "ID": "46537"
+  },
+  {
+    "Title": "The Sound of Music",
+    "Year": "1965",
+    "ID": "42580"
+  },
+  {
+    "Title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "Year": "1964",
+    "ID": "51218"
+  },
+  {
+    "Title": "The Graduate",
+    "Year": "1967",
+    "ID": "27183"
   },
   {
     "Title": "The Good, the Bad and the Ugly",
@@ -315,44 +310,14 @@
     "ID": "51666"
   },
   {
-    "Title": "The Birds",
-    "Year": "1963",
-    "ID": "51549"
-  },
-  {
     "Title": "Psycho",
     "Year": "1960",
     "ID": "51578"
   },
   {
-    "Title": "Breakfast at Tiffany's",
-    "Year": "1961",
-    "ID": "51887"
-  },
-  {
-    "Title": "Some Like It Hot",
-    "Year": "1959",
-    "ID": "51817"
-  },
-  {
-    "Title": "12 Angry Men",
-    "Year": "1957",
-    "ID": "51700"
-  },
-  {
-    "Title": "The Night of the Hunter",
-    "Year": "1955",
-    "ID": "49860"
-  },
-  {
-    "Title": "The Killing",
-    "Year": "1956",
-    "ID": "51809"
-  },
-  {
-    "Title": "Rear Window",
-    "Year": "1954",
-    "ID": "51552"
+    "Title": "The Birds",
+    "Year": "1963",
+    "ID": "51549"
   },
   {
     "Title": "Vertigo",
@@ -360,14 +325,39 @@
     "ID": "51669"
   },
   {
-    "Title": "Sunset Boulevard",
-    "Year": "1950",
-    "ID": "51522"
+    "Title": "Breakfast at Tiffany's",
+    "Year": "1961",
+    "ID": "51887"
   },
   {
-    "Title": "Roman Holiday",
-    "Year": "1953",
-    "ID": "51348"
+    "Title": "Lawrence of Arabia",
+    "Year": "1962",
+    "ID": "60299"
+  },
+  {
+    "Title": "The Killing",
+    "Year": "1956",
+    "ID": "51809"
+  },
+  {
+    "Title": "The Night of the Hunter",
+    "Year": "1955",
+    "ID": "49860"
+  },
+  {
+    "Title": "12 Angry Men",
+    "Year": "1957",
+    "ID": "51700"
+  },
+  {
+    "Title": "Rear Window",
+    "Year": "1954",
+    "ID": "51552"
+  },
+  {
+    "Title": "Some Like It Hot",
+    "Year": "1959",
+    "ID": "51817"
   },
   {
     "Title": "Singin' in the Rain",
@@ -375,24 +365,19 @@
     "ID": "51280"
   },
   {
+    "Title": "Roman Holiday",
+    "Year": "1953",
+    "ID": "51348"
+  },
+  {
     "Title": "Alice in Wonderland",
     "Year": "1951",
     "ID": "44808"
   },
   {
-    "Title": "Black Narcissus",
-    "Year": "1947",
-    "ID": "41591"
-  },
-  {
-    "Title": "Rope",
-    "Year": "1948",
-    "ID": "50954"
-  },
-  {
-    "Title": "Brief Encounter",
-    "Year": "1945",
-    "ID": "51301"
+    "Title": "Sunset Boulevard",
+    "Year": "1950",
+    "ID": "51522"
   },
   {
     "Title": "The Third Man",
@@ -405,14 +390,34 @@
     "ID": "50949"
   },
   {
-    "Title": "Double Indemnity",
-    "Year": "1944",
-    "ID": "51173"
+    "Title": "Brief Encounter",
+    "Year": "1945",
+    "ID": "51301"
+  },
+  {
+    "Title": "Black Narcissus",
+    "Year": "1947",
+    "ID": "41591"
+  },
+  {
+    "Title": "Rope",
+    "Year": "1948",
+    "ID": "50954"
   },
   {
     "Title": "Meshes of the Afternoon",
     "Year": "1943",
     "ID": "34848"
+  },
+  {
+    "Title": "Casablanca",
+    "Year": "1942",
+    "ID": "51770"
+  },
+  {
+    "Title": "Double Indemnity",
+    "Year": "1944",
+    "ID": "51173"
   },
   {
     "Title": "Citizen Kane",
@@ -425,9 +430,9 @@
     "ID": "51494"
   },
   {
-    "Title": "Casablanca",
-    "Year": "1942",
-    "ID": "51770"
+    "Title": "Snow White and the Seven Dwarfs",
+    "Year": "1937",
+    "ID": "51682"
   },
   {
     "Title": "Bringing Up Baby",
@@ -440,34 +445,9 @@
     "ID": "45797"
   },
   {
-    "Title": "Snow White and the Seven Dwarfs",
-    "Year": "1937",
-    "ID": "51682"
-  },
-  {
     "Title": "It Happened One Night",
     "Year": "1934",
     "ID": "49893"
-  },
-  {
-    "Title": "Bride of Frankenstein",
-    "Year": "1935",
-    "ID": "51827"
-  },
-  {
-    "Title": "Modern Times",
-    "Year": "1936",
-    "ID": "49889"
-  },
-  {
-    "Title": "M",
-    "Year": "1931",
-    "ID": "51320"
-  },
-  {
-    "Title": "Freaks",
-    "Year": "1932",
-    "ID": "51915"
   },
   {
     "Title": "King Kong",
@@ -475,14 +455,29 @@
     "ID": "51812"
   },
   {
+    "Title": "M",
+    "Year": "1931",
+    "ID": "51320"
+  },
+  {
+    "Title": "Bride of Frankenstein",
+    "Year": "1935",
+    "ID": "51827"
+  },
+  {
+    "Title": "Freaks",
+    "Year": "1932",
+    "ID": "51915"
+  },
+  {
     "Title": "Un Chien Andalou",
     "Year": "1929",
     "ID": "51498"
   },
   {
-    "Title": "Metropolis",
-    "Year": "1927",
-    "ID": "2698"
+    "Title": "Modern Times",
+    "Year": "1936",
+    "ID": "49889"
   },
   {
     "Title": "The Passion of Joan of Arc",
@@ -495,9 +490,19 @@
     "ID": "51908"
   },
   {
+    "Title": "Metropolis",
+    "Year": "1927",
+    "ID": "2698"
+  },
+  {
     "Title": "The General",
     "Year": "1926",
     "ID": "51202"
+  },
+  {
+    "Title": "Safety Last!",
+    "Year": "1923",
+    "ID": "37801"
   },
   {
     "Title": "Sherlock Jr.",
@@ -505,19 +510,19 @@
     "ID": "51177"
   },
   {
-    "Title": "The Kid",
-    "Year": "1921",
-    "ID": "46549"
-  },
-  {
     "Title": "Nosferatu",
     "Year": "1922",
     "ID": "51471"
   },
   {
-    "Title": "Safety Last!",
-    "Year": "1923",
-    "ID": "37801"
+    "Title": "The Kid",
+    "Year": "1921",
+    "ID": "46549"
+  },
+  {
+    "Title": "Broken Blossoms",
+    "Year": "1919",
+    "ID": "51253"
   },
   {
     "Title": "The Cabinet of Dr. Caligari",
@@ -530,24 +535,14 @@
     "ID": "51481"
   },
   {
-    "Title": "Broken Blossoms",
-    "Year": "1919",
-    "ID": "51253"
-  },
-  {
-    "Title": "The Immigrant",
-    "Year": "1917",
-    "ID": "17759"
+    "Title": "Intolerance: Love's Struggle Throughout the Ages",
+    "Year": "1916",
+    "ID": "49912"
   },
   {
     "Title": "A Dog's Life",
     "Year": "1918",
     "ID": "28095"
-  },
-  {
-    "Title": "Intolerance: Love's Struggle Throughout the Ages",
-    "Year": "1916",
-    "ID": "49912"
   },
   {
     "Title": "The Birth of a Nation",
@@ -560,14 +555,19 @@
     "ID": "85271"
   },
   {
+    "Title": "Cabiria",
+    "Year": "1914",
+    "ID": "48932"
+  },
+  {
     "Title": "The Cameraman's Revenge",
     "Year": "1912",
     "ID": "75735"
   },
   {
-    "Title": "Cabiria",
-    "Year": "1914",
-    "ID": "48932"
+    "Title": "The Immigrant",
+    "Year": "1917",
+    "ID": "17759"
   },
   {
     "Title": "Dante's Inferno",
@@ -585,14 +585,14 @@
     "ID": "16323"
   },
   {
-    "Title": "Fantasmagorie",
-    "Year": "1908",
-    "ID": "71740"
-  },
-  {
     "Title": "The Dancing Pig",
     "Year": "1907",
     "ID": "108226"
+  },
+  {
+    "Title": "Fantasmagorie",
+    "Year": "1908",
+    "ID": "71740"
   },
   {
     "Title": "The Consequences of Feminism",
@@ -605,14 +605,14 @@
     "ID": "20833"
   },
   {
-    "Title": "The Impossible Voyage",
-    "Year": "1904",
-    "ID": "49995"
-  },
-  {
     "Title": "A Trip to the Moon",
     "Year": "1902",
     "ID": "51377"
+  },
+  {
+    "Title": "The Impossible Voyage",
+    "Year": "1904",
+    "ID": "49995"
   },
   {
     "Title": "The Man with the Rubber Head",
@@ -620,29 +620,14 @@
     "ID": "16315"
   },
   {
-    "Title": "Joan of Arc",
-    "Year": "1900",
-    "ID": "85627"
-  },
-  {
     "Title": "The Great Train Robbery",
     "Year": "1903",
     "ID": "48719"
   },
   {
-    "Title": "Cinderella",
-    "Year": "1899",
-    "ID": "90921"
-  },
-  {
-    "Title": "The Astronomer's Dream",
-    "Year": "1898",
-    "ID": "84736"
-  },
-  {
-    "Title": "Serpentine Dance",
-    "Year": "1897",
-    "ID": "120877"
+    "Title": "Joan of Arc",
+    "Year": "1900",
+    "ID": "85627"
   },
   {
     "Title": "The Arrival of a Train at La Ciotat",
@@ -650,9 +635,19 @@
     "ID": "51891"
   },
   {
-    "Title": "Blacksmithing Scene",
-    "Year": "1893",
-    "ID": "41471"
+    "Title": "Cinderella",
+    "Year": "1899",
+    "ID": "90921"
+  },
+  {
+    "Title": "Serpentine Dance",
+    "Year": "1897",
+    "ID": "120877"
+  },
+  {
+    "Title": "The Astronomer's Dream",
+    "Year": "1898",
+    "ID": "84736"
   },
   {
     "Title": "Workers Leaving the Lumière Factory",
@@ -660,14 +655,14 @@
     "ID": "51378"
   },
   {
-    "Title": "Dickson Experimental Sound Film",
-    "Year": "1894",
-    "ID": "84533"
-  },
-  {
     "Title": "Poor Pierrot",
     "Year": "1892",
     "ID": "74222"
+  },
+  {
+    "Title": "Dickson Experimental Sound Film",
+    "Year": "1894",
+    "ID": "84533"
   },
   {
     "Title": "Newark Athlete",
@@ -675,14 +670,19 @@
     "ID": "84973"
   },
   {
+    "Title": "Blacksmithing Scene",
+    "Year": "1893",
+    "ID": "41471"
+  },
+  {
     "Title": "Monkeyshines, No. 1",
     "Year": "1890",
     "ID": "30339"
   },
   {
-    "Title": "Hyde Park Corner",
-    "Year": "1889",
-    "ID": "286557"
+    "Title": "Man Walking Around a Corner",
+    "Year": "1887",
+    "ID": "119146"
   },
   {
     "Title": "Roundhay Garden Scene",
@@ -690,9 +690,9 @@
     "ID": "41534"
   },
   {
-    "Title": "Man Walking Around a Corner",
-    "Year": "1887",
-    "ID": "119146"
+    "Title": "Hyde Park Corner",
+    "Year": "1889",
+    "ID": "286557"
   },
   {
     "Title": "The Kiss",
