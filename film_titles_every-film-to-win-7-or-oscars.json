@@ -1,8 +1,23 @@
 [
   {
+    "Title": "Titanic",
+    "Year": "1997",
+    "ID": "51524"
+  },
+  {
     "Title": "Ben-Hur",
     "Year": "1959",
     "ID": "51459"
+  },
+  {
+    "Title": "The English Patient",
+    "Year": "1996",
+    "ID": "51681"
+  },
+  {
+    "Title": "West Side Story",
+    "Year": "1961",
+    "ID": "50826"
   },
   {
     "Title": "Gigi",
@@ -13,31 +28,6 @@
     "Title": "The Last Emperor",
     "Year": "1987",
     "ID": "51406"
-  },
-  {
-    "Title": "Slumdog Millionaire",
-    "Year": "2008",
-    "ID": "44613"
-  },
-  {
-    "Title": "West Side Story",
-    "Year": "1961",
-    "ID": "50826"
-  },
-  {
-    "Title": "The English Patient",
-    "Year": "1996",
-    "ID": "51681"
-  },
-  {
-    "Title": "Gandhi",
-    "Year": "1982",
-    "ID": "51369"
-  },
-  {
-    "Title": "Titanic",
-    "Year": "1997",
-    "ID": "51524"
   },
   {
     "Title": "Amadeus",
@@ -55,9 +45,19 @@
     "ID": "45309"
   },
   {
+    "Title": "Slumdog Millionaire",
+    "Year": "2008",
+    "ID": "44613"
+  },
+  {
     "Title": "Gone with the Wind",
     "Year": "1939",
     "ID": "51382"
+  },
+  {
+    "Title": "On the Waterfront",
+    "Year": "1954",
+    "ID": "51470"
   },
   {
     "Title": "My Fair Lady",
@@ -70,14 +70,9 @@
     "ID": "474474"
   },
   {
-    "Title": "On the Waterfront",
-    "Year": "1954",
-    "ID": "51470"
-  },
-  {
-    "Title": "Schindler's List",
-    "Year": "1993",
-    "ID": "51671"
+    "Title": "Shakespeare in Love",
+    "Year": "1998",
+    "ID": "50674"
   },
   {
     "Title": "Gravity",
@@ -85,14 +80,24 @@
     "ID": "16529"
   },
   {
+    "Title": "Gandhi",
+    "Year": "1982",
+    "ID": "51369"
+  },
+  {
+    "Title": "Schindler's List",
+    "Year": "1993",
+    "ID": "51671"
+  },
+  {
+    "Title": "The Sting",
+    "Year": "1973",
+    "ID": "47315"
+  },
+  {
     "Title": "Oppenheimer",
     "Year": "2023",
     "ID": "784328"
-  },
-  {
-    "Title": "Shakespeare in Love",
-    "Year": "1998",
-    "ID": "50674"
   },
   {
     "Title": "Out of Africa",
@@ -105,9 +110,9 @@
     "ID": "51539"
   },
   {
-    "Title": "The Bridge on the River Kwai",
-    "Year": "1957",
-    "ID": "51326"
+    "Title": "The Best Years of Our Lives",
+    "Year": "1946",
+    "ID": "51265"
   },
   {
     "Title": "Patton",
@@ -120,23 +125,18 @@
     "ID": "40855"
   },
   {
-    "Title": "The Sting",
-    "Year": "1973",
-    "ID": "47315"
-  },
-  {
-    "Title": "The Lord of the Rings: The Return of the King",
-    "Year": "2003",
-    "ID": "51928"
-  },
-  {
-    "Title": "The Best Years of Our Lives",
-    "Year": "1946",
-    "ID": "51265"
+    "Title": "The Bridge on the River Kwai",
+    "Year": "1957",
+    "ID": "51326"
   },
   {
     "Title": "Lawrence of Arabia",
     "Year": "1962",
     "ID": "60299"
+  },
+  {
+    "Title": "The Lord of the Rings: The Return of the King",
+    "Year": "2003",
+    "ID": "51928"
   }
 ]
