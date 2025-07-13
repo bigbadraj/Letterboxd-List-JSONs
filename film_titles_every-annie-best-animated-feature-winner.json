@@ -1,18 +1,13 @@
 [
   {
-    "Title": "Aladdin",
-    "Year": "1992",
-    "ID": "51340"
-  },
-  {
     "Title": "Beauty and the Beast",
     "Year": "1991",
     "ID": "46622"
   },
   {
-    "Title": "Toy Story",
-    "Year": "1995",
-    "ID": "51290"
+    "Title": "Aladdin",
+    "Year": "1992",
+    "ID": "51340"
   },
   {
     "Title": "The Lion King",
@@ -20,9 +15,14 @@
     "ID": "47677"
   },
   {
-    "Title": "Cats Don't Dance",
-    "Year": "1997",
-    "ID": "36614"
+    "Title": "Pocahontas",
+    "Year": "1995",
+    "ID": "46142"
+  },
+  {
+    "Title": "Toy Story",
+    "Year": "1995",
+    "ID": "51290"
   },
   {
     "Title": "Mulan",
@@ -35,19 +35,9 @@
     "ID": "46280"
   },
   {
-    "Title": "Toy Story 2",
-    "Year": "1999",
-    "ID": "51289"
-  },
-  {
-    "Title": "Pocahontas",
-    "Year": "1995",
-    "ID": "46142"
-  },
-  {
-    "Title": "Shrek",
-    "Year": "2001",
-    "ID": "51344"
+    "Title": "Cats Don't Dance",
+    "Year": "1997",
+    "ID": "36614"
   },
   {
     "Title": "Spirited Away",
@@ -55,9 +45,24 @@
     "ID": "51921"
   },
   {
+    "Title": "Toy Story 2",
+    "Year": "1999",
+    "ID": "51289"
+  },
+  {
+    "Title": "Shrek",
+    "Year": "2001",
+    "ID": "51344"
+  },
+  {
     "Title": "Finding Nemo",
     "Year": "2003",
     "ID": "2705"
+  },
+  {
+    "Title": "Ratatouille",
+    "Year": "2007",
+    "ID": "50558"
   },
   {
     "Title": "The Incredibles",
@@ -80,11 +85,6 @@
     "ID": "47098"
   },
   {
-    "Title": "Ratatouille",
-    "Year": "2007",
-    "ID": "50558"
-  },
-  {
     "Title": "Up",
     "Year": "2009",
     "ID": "43302"
@@ -105,6 +105,11 @@
     "ID": "69154"
   },
   {
+    "Title": "How to Train Your Dragon 2",
+    "Year": "2014",
+    "ID": "69142"
+  },
+  {
     "Title": "Frozen",
     "Year": "2013",
     "ID": "87948"
@@ -120,6 +125,11 @@
     "ID": "113284"
   },
   {
+    "Title": "Spider-Man: Into the Spider-Verse",
+    "Year": "2018",
+    "ID": "251943"
+  },
+  {
     "Title": "Coco",
     "Year": "2017",
     "ID": "285509"
@@ -130,9 +140,14 @@
     "ID": "438751"
   },
   {
-    "Title": "How to Train Your Dragon 2",
-    "Year": "2014",
-    "ID": "69142"
+    "Title": "Spider-Man: Across the Spider-Verse",
+    "Year": "2023",
+    "ID": "497631"
+  },
+  {
+    "Title": "The Mitchells vs. the Machines",
+    "Year": "2021",
+    "ID": "431888"
   },
   {
     "Title": "Soul",
@@ -140,14 +155,9 @@
     "ID": "438511"
   },
   {
-    "Title": "Spider-Man: Into the Spider-Verse",
-    "Year": "2018",
-    "ID": "251943"
-  },
-  {
-    "Title": "Spider-Man: Across the Spider-Verse",
-    "Year": "2023",
-    "ID": "497631"
+    "Title": "Boy & the World",
+    "Year": "2013",
+    "ID": "157902"
   },
   {
     "Title": "The Wild Robot",
@@ -165,24 +175,9 @@
     "ID": "267286"
   },
   {
-    "Title": "Boy & the World",
-    "Year": "2013",
-    "ID": "157902"
-  },
-  {
-    "Title": "The Mitchells vs. the Machines",
-    "Year": "2021",
-    "ID": "431888"
-  },
-  {
-    "Title": "I Lost My Body",
-    "Year": "2019",
-    "ID": "514702"
-  },
-  {
-    "Title": "Mirai",
-    "Year": "2018",
-    "ID": "406196"
+    "Title": "Wolfwalkers",
+    "Year": "2020",
+    "ID": "373808"
   },
   {
     "Title": "The Breadwinner",
@@ -190,9 +185,14 @@
     "ID": "368165"
   },
   {
-    "Title": "Wolfwalkers",
-    "Year": "2020",
-    "ID": "373808"
+    "Title": "Mirai",
+    "Year": "2018",
+    "ID": "406196"
+  },
+  {
+    "Title": "I Lost My Body",
+    "Year": "2019",
+    "ID": "514702"
   },
   {
     "Title": "Marcel the Shell with Shoes On",
