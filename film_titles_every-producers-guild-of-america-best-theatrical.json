@@ -1,10 +1,5 @@
 [
   {
-    "Title": "Driving Miss Daisy",
-    "Year": "1989",
-    "ID": "51687"
-  },
-  {
     "Title": "Dances with Wolves",
     "Year": "1990",
     "ID": "51539"
@@ -20,6 +15,11 @@
     "ID": "51782"
   },
   {
+    "Title": "Driving Miss Daisy",
+    "Year": "1989",
+    "ID": "51687"
+  },
+  {
     "Title": "Forrest Gump",
     "Year": "1994",
     "ID": "2704"
@@ -30,19 +30,9 @@
     "ID": "45348"
   },
   {
-    "Title": "Apollo 13",
-    "Year": "1995",
-    "ID": "51551"
-  },
-  {
     "Title": "Saving Private Ryan",
     "Year": "1998",
     "ID": "51295"
-  },
-  {
-    "Title": "American Beauty",
-    "Year": "1999",
-    "ID": "2703"
   },
   {
     "Title": "The English Patient",
@@ -50,29 +40,14 @@
     "ID": "51681"
   },
   {
-    "Title": "Moulin Rouge!",
-    "Year": "2001",
-    "ID": "51328"
+    "Title": "Apollo 13",
+    "Year": "1995",
+    "ID": "51551"
   },
   {
-    "Title": "Gladiator",
-    "Year": "2000",
-    "ID": "51952"
-  },
-  {
-    "Title": "The Lord of the Rings: The Return of the King",
-    "Year": "2003",
-    "ID": "51928"
-  },
-  {
-    "Title": "The Aviator",
-    "Year": "2004",
-    "ID": "50207"
-  },
-  {
-    "Title": "Chicago",
-    "Year": "2002",
-    "ID": "50960"
+    "Title": "American Beauty",
+    "Year": "1999",
+    "ID": "2703"
   },
   {
     "Title": "Titanic",
@@ -80,14 +55,29 @@
     "ID": "51524"
   },
   {
-    "Title": "Brokeback Mountain",
-    "Year": "2005",
-    "ID": "51909"
+    "Title": "The Lord of the Rings: The Return of the King",
+    "Year": "2003",
+    "ID": "51928"
   },
   {
-    "Title": "Little Miss Sunshine",
-    "Year": "2006",
-    "ID": "51379"
+    "Title": "Gladiator",
+    "Year": "2000",
+    "ID": "51952"
+  },
+  {
+    "Title": "Moulin Rouge!",
+    "Year": "2001",
+    "ID": "51328"
+  },
+  {
+    "Title": "Chicago",
+    "Year": "2002",
+    "ID": "50960"
+  },
+  {
+    "Title": "The Aviator",
+    "Year": "2004",
+    "ID": "50207"
   },
   {
     "Title": "No Country for Old Men",
@@ -95,19 +85,24 @@
     "ID": "48140"
   },
   {
-    "Title": "Slumdog Millionaire",
-    "Year": "2008",
-    "ID": "44613"
-  },
-  {
     "Title": "The Hurt Locker",
     "Year": "2008",
     "ID": "44741"
   },
   {
-    "Title": "The King's Speech",
-    "Year": "2010",
-    "ID": "5363"
+    "Title": "Brokeback Mountain",
+    "Year": "2005",
+    "ID": "51909"
+  },
+  {
+    "Title": "Slumdog Millionaire",
+    "Year": "2008",
+    "ID": "44613"
+  },
+  {
+    "Title": "Little Miss Sunshine",
+    "Year": "2006",
+    "ID": "51379"
   },
   {
     "Title": "The Artist",
@@ -115,14 +110,9 @@
     "ID": "61707"
   },
   {
-    "Title": "12 Years a Slave",
-    "Year": "2013",
-    "ID": "62671"
-  },
-  {
-    "Title": "Gravity",
-    "Year": "2013",
-    "ID": "16529"
+    "Title": "The King's Speech",
+    "Year": "2010",
+    "ID": "5363"
   },
   {
     "Title": "Birdman or (The Unexpected Virtue of Ignorance)",
@@ -130,9 +120,19 @@
     "ID": "139795"
   },
   {
+    "Title": "Gravity",
+    "Year": "2013",
+    "ID": "16529"
+  },
+  {
     "Title": "Argo",
     "Year": "2012",
     "ID": "52501"
+  },
+  {
+    "Title": "12 Years a Slave",
+    "Year": "2013",
+    "ID": "62671"
   },
   {
     "Title": "The Shape of Water",
@@ -145,14 +145,19 @@
     "ID": "246013"
   },
   {
-    "Title": "Green Book",
-    "Year": "2018",
-    "ID": "420703"
-  },
-  {
     "Title": "1917",
     "Year": "2019",
     "ID": "460155"
+  },
+  {
+    "Title": "La La Land",
+    "Year": "2016",
+    "ID": "240344"
+  },
+  {
+    "Title": "Green Book",
+    "Year": "2018",
+    "ID": "420703"
   },
   {
     "Title": "Nomadland",
@@ -165,16 +170,6 @@
     "ID": "695473"
   },
   {
-    "Title": "La La Land",
-    "Year": "2016",
-    "ID": "240344"
-  },
-  {
-    "Title": "Oppenheimer",
-    "Year": "2023",
-    "ID": "784328"
-  },
-  {
     "Title": "Everything Everywhere All at Once",
     "Year": "2022",
     "ID": "474474"
@@ -183,5 +178,10 @@
     "Title": "Anora",
     "Year": "2024",
     "ID": "959540"
+  },
+  {
+    "Title": "Oppenheimer",
+    "Year": "2023",
+    "ID": "784328"
   }
 ]
