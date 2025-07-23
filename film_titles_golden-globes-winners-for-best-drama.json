@@ -1,18 +1,8 @@
 [
   {
-    "Title": "The Lord of the Rings: The Return of the King",
-    "Year": "2003",
-    "ID": "51928"
-  },
-  {
-    "Title": "Brokeback Mountain",
-    "Year": "2005",
-    "ID": "51909"
-  },
-  {
-    "Title": "Amadeus",
-    "Year": "1984",
-    "ID": "51777"
+    "Title": "Titanic",
+    "Year": "1997",
+    "ID": "51524"
   },
   {
     "Title": "The Godfather",
@@ -20,14 +10,29 @@
     "ID": "51818"
   },
   {
-    "Title": "Titanic",
-    "Year": "1997",
-    "ID": "51524"
+    "Title": "The Lord of the Rings: The Return of the King",
+    "Year": "2003",
+    "ID": "51928"
   },
   {
     "Title": "The Social Network",
     "Year": "2010",
     "ID": "26711"
+  },
+  {
+    "Title": "Amadeus",
+    "Year": "1984",
+    "ID": "51777"
+  },
+  {
+    "Title": "Brokeback Mountain",
+    "Year": "2005",
+    "ID": "51909"
+  },
+  {
+    "Title": "Rocky",
+    "Year": "1976",
+    "ID": "51090"
   },
   {
     "Title": "The Exorcist",
@@ -40,24 +45,14 @@
     "ID": "784328"
   },
   {
-    "Title": "Rocky",
-    "Year": "1976",
-    "ID": "51090"
-  },
-  {
-    "Title": "E.T. the Extra-Terrestrial",
-    "Year": "1982",
-    "ID": "51520"
-  },
-  {
     "Title": "Schindler's List",
     "Year": "1993",
     "ID": "51671"
   },
   {
-    "Title": "Avatar",
-    "Year": "2009",
-    "ID": "39304"
+    "Title": "E.T. the Extra-Terrestrial",
+    "Year": "1982",
+    "ID": "51520"
   },
   {
     "Title": "The Power of the Dog",
@@ -80,14 +75,19 @@
     "ID": "71927"
   },
   {
-    "Title": "On the Waterfront",
-    "Year": "1954",
-    "ID": "51470"
+    "Title": "Avatar",
+    "Year": "2009",
+    "ID": "39304"
   },
   {
     "Title": "Ordinary People",
     "Year": "1980",
     "ID": "41474"
+  },
+  {
+    "Title": "On the Waterfront",
+    "Year": "1954",
+    "ID": "51470"
   },
   {
     "Title": "Chinatown",
@@ -100,11 +100,6 @@
     "ID": "509662"
   },
   {
-    "Title": "The Hours",
-    "Year": "2002",
-    "ID": "51531"
-  },
-  {
     "Title": "The Fabelmans",
     "Year": "2022",
     "ID": "721288"
@@ -113,21 +108,6 @@
     "Title": "The Last Emperor",
     "Year": "1987",
     "ID": "51406"
-  },
-  {
-    "Title": "12 Years a Slave",
-    "Year": "2013",
-    "ID": "62671"
-  },
-  {
-    "Title": "One Flew Over the Cuckoo's Nest",
-    "Year": "1975",
-    "ID": "51600"
-  },
-  {
-    "Title": "Atonement",
-    "Year": "2007",
-    "ID": "49391"
   },
   {
     "Title": "Moonlight",
@@ -140,19 +120,29 @@
     "ID": "45653"
   },
   {
+    "Title": "The Hours",
+    "Year": "2002",
+    "ID": "51531"
+  },
+  {
+    "Title": "One Flew Over the Cuckoo's Nest",
+    "Year": "1975",
+    "ID": "51600"
+  },
+  {
+    "Title": "Atonement",
+    "Year": "2007",
+    "ID": "49391"
+  },
+  {
+    "Title": "12 Years a Slave",
+    "Year": "2013",
+    "ID": "62671"
+  },
+  {
     "Title": "Lawrence of Arabia",
     "Year": "1962",
     "ID": "60299"
-  },
-  {
-    "Title": "The Lost Weekend",
-    "Year": "1945",
-    "ID": "33546"
-  },
-  {
-    "Title": "Slumdog Millionaire",
-    "Year": "2008",
-    "ID": "44613"
   },
   {
     "Title": "Argo",
@@ -160,9 +150,24 @@
     "ID": "52501"
   },
   {
+    "Title": "The Lost Weekend",
+    "Year": "1945",
+    "ID": "33546"
+  },
+  {
+    "Title": "Anne of the Thousand Days",
+    "Year": "1969",
+    "ID": "37838"
+  },
+  {
     "Title": "Born on the Fourth of July",
     "Year": "1989",
     "ID": "50196"
+  },
+  {
+    "Title": "Slumdog Millionaire",
+    "Year": "2008",
+    "ID": "44613"
   },
   {
     "Title": "A Beautiful Mind",
@@ -175,14 +180,9 @@
     "ID": "39948"
   },
   {
-    "Title": "Anne of the Thousand Days",
-    "Year": "1969",
-    "ID": "37838"
-  },
-  {
-    "Title": "The French Connection",
-    "Year": "1971",
-    "ID": "51164"
+    "Title": "The Treasure of the Sierra Madre",
+    "Year": "1948",
+    "ID": "49881"
   },
   {
     "Title": "Kramer vs. Kramer",
@@ -190,14 +190,9 @@
     "ID": "6538"
   },
   {
-    "Title": "The Treasure of the Sierra Madre",
-    "Year": "1948",
-    "ID": "49881"
-  },
-  {
-    "Title": "Spartacus",
-    "Year": "1960",
-    "ID": "51196"
+    "Title": "The French Connection",
+    "Year": "1971",
+    "ID": "51164"
   },
   {
     "Title": "Sense and Sensibility",
@@ -205,14 +200,24 @@
     "ID": "49232"
   },
   {
+    "Title": "American Beauty",
+    "Year": "1999",
+    "ID": "2703"
+  },
+  {
     "Title": "Doctor Zhivago",
     "Year": "1965",
     "ID": "51245"
   },
   {
-    "Title": "American Beauty",
-    "Year": "1999",
-    "ID": "2703"
+    "Title": "Spartacus",
+    "Year": "1960",
+    "ID": "51196"
+  },
+  {
+    "Title": "Platoon",
+    "Year": "1986",
+    "ID": "51360"
   },
   {
     "Title": "The Aviator",
@@ -225,24 +230,9 @@
     "ID": "42389"
   },
   {
-    "Title": "All the King's Men",
-    "Year": "1949",
-    "ID": "36076"
-  },
-  {
-    "Title": "Platoon",
-    "Year": "1986",
-    "ID": "51360"
-  },
-  {
     "Title": "The English Patient",
     "Year": "1996",
     "ID": "51681"
-  },
-  {
-    "Title": "The Bridge on the River Kwai",
-    "Year": "1957",
-    "ID": "51326"
   },
   {
     "Title": "Rain Man",
@@ -250,19 +240,9 @@
     "ID": "51705"
   },
   {
-    "Title": "The Best Years of Our Lives",
-    "Year": "1946",
-    "ID": "51265"
-  },
-  {
-    "Title": "Gentleman's Agreement",
-    "Year": "1947",
-    "ID": "29623"
-  },
-  {
-    "Title": "The Turning Point",
-    "Year": "1977",
-    "ID": "5406"
+    "Title": "All the King's Men",
+    "Year": "1949",
+    "ID": "36076"
   },
   {
     "Title": "Dances with Wolves",
@@ -270,14 +250,24 @@
     "ID": "51539"
   },
   {
+    "Title": "The Bridge on the River Kwai",
+    "Year": "1957",
+    "ID": "51326"
+  },
+  {
+    "Title": "The Best Years of Our Lives",
+    "Year": "1946",
+    "ID": "51265"
+  },
+  {
     "Title": "A Place in the Sun",
     "Year": "1951",
     "ID": "35881"
   },
   {
-    "Title": "East of Eden",
-    "Year": "1955",
-    "ID": "51836"
+    "Title": "Gentleman's Agreement",
+    "Year": "1947",
+    "ID": "29623"
   },
   {
     "Title": "The Revenant",
@@ -285,19 +275,24 @@
     "ID": "207224"
   },
   {
+    "Title": "The Turning Point",
+    "Year": "1977",
+    "ID": "5406"
+  },
+  {
+    "Title": "East of Eden",
+    "Year": "1955",
+    "ID": "51836"
+  },
+  {
     "Title": "Forrest Gump",
     "Year": "1994",
     "ID": "2704"
   },
   {
-    "Title": "The Defiant Ones",
-    "Year": "1958",
-    "ID": "45321"
-  },
-  {
-    "Title": "The Descendants",
-    "Year": "2011",
-    "ID": "1768"
+    "Title": "Love Story",
+    "Year": "1970",
+    "ID": "47382"
   },
   {
     "Title": "The Guns of Navarone",
@@ -305,9 +300,14 @@
     "ID": "45781"
   },
   {
-    "Title": "Love Story",
-    "Year": "1970",
-    "ID": "47382"
+    "Title": "The Descendants",
+    "Year": "2011",
+    "ID": "1768"
+  },
+  {
+    "Title": "The Defiant Ones",
+    "Year": "1958",
+    "ID": "45321"
   },
   {
     "Title": "Three Billboards Outside Ebbing, Missouri",
@@ -320,14 +320,14 @@
     "ID": "44984"
   },
   {
-    "Title": "Johnny Belinda",
-    "Year": "1948",
-    "ID": "4751"
-  },
-  {
     "Title": "1917",
     "Year": "2019",
     "ID": "460155"
+  },
+  {
+    "Title": "Johnny Belinda",
+    "Year": "1948",
+    "ID": "4751"
   },
   {
     "Title": "Ben-Hur",
@@ -335,9 +335,9 @@
     "ID": "51459"
   },
   {
-    "Title": "Bugsy",
-    "Year": "1991",
-    "ID": "46324"
+    "Title": "A Man for All Seasons",
+    "Year": "1966",
+    "ID": "51278"
   },
   {
     "Title": "In the Heat of the Night",
@@ -345,14 +345,9 @@
     "ID": "46041"
   },
   {
-    "Title": "Midnight Express",
-    "Year": "1978",
-    "ID": "45407"
-  },
-  {
-    "Title": "A Man for All Seasons",
-    "Year": "1966",
-    "ID": "51278"
+    "Title": "Bugsy",
+    "Year": "1991",
+    "ID": "46324"
   },
   {
     "Title": "The Song of Bernadette",
@@ -363,6 +358,11 @@
     "Title": "Babel",
     "Year": "2006",
     "ID": "51140"
+  },
+  {
+    "Title": "Midnight Express",
+    "Year": "1978",
+    "ID": "45407"
   },
   {
     "Title": "Bohemian Rhapsody",
@@ -390,6 +390,11 @@
     "ID": "40855"
   },
   {
+    "Title": "The Greatest Show on Earth",
+    "Year": "1952",
+    "ID": "34736"
+  },
+  {
     "Title": "The Robe",
     "Year": "1953",
     "ID": "32438"
@@ -398,11 +403,6 @@
     "Title": "Scent of a Woman",
     "Year": "1992",
     "ID": "47123"
-  },
-  {
-    "Title": "The Greatest Show on Earth",
-    "Year": "1952",
-    "ID": "34736"
   },
   {
     "Title": "The Brutalist",
