@@ -1,10 +1,5 @@
 [
   {
-    "Title": "Blow-Up",
-    "Year": "1966",
-    "ID": "51163"
-  },
-  {
     "Title": "Z",
     "Year": "1969",
     "ID": "50133"
@@ -15,14 +10,24 @@
     "ID": "35361"
   },
   {
-    "Title": "M*A*S*H",
-    "Year": "1970",
-    "ID": "51473"
-  },
-  {
     "Title": "Persona",
     "Year": "1966",
     "ID": "51355"
+  },
+  {
+    "Title": "Blow-Up",
+    "Year": "1966",
+    "ID": "51163"
+  },
+  {
+    "Title": "Day for Night",
+    "Year": "1973",
+    "ID": "50869"
+  },
+  {
+    "Title": "M*A*S*H",
+    "Year": "1970",
+    "ID": "51473"
   },
   {
     "Title": "Claire's Knee",
@@ -35,9 +40,9 @@
     "ID": "49228"
   },
   {
-    "Title": "Day for Night",
-    "Year": "1973",
-    "ID": "50869"
+    "Title": "Annie Hall",
+    "Year": "1977",
+    "ID": "51423"
   },
   {
     "Title": "Nashville",
@@ -45,14 +50,9 @@
     "ID": "49852"
   },
   {
-    "Title": "Annie Hall",
-    "Year": "1977",
-    "ID": "51423"
-  },
-  {
-    "Title": "All the President's Men",
-    "Year": "1976",
-    "ID": "51261"
+    "Title": "Breaking Away",
+    "Year": "1979",
+    "ID": "39127"
   },
   {
     "Title": "Get Out Your Handkerchiefs",
@@ -60,9 +60,9 @@
     "ID": "49427"
   },
   {
-    "Title": "Breaking Away",
-    "Year": "1979",
-    "ID": "39127"
+    "Title": "All the President's Men",
+    "Year": "1976",
+    "ID": "51261"
   },
   {
     "Title": "Atlantic City",
@@ -70,14 +70,9 @@
     "ID": "37139"
   },
   {
-    "Title": "The Night of the Shooting Stars",
-    "Year": "1982",
-    "ID": "22936"
-  },
-  {
-    "Title": "Stranger Than Paradise",
-    "Year": "1984",
-    "ID": "51633"
+    "Title": "Melvin and Howard",
+    "Year": "1980",
+    "ID": "25845"
   },
   {
     "Title": "Tootsie",
@@ -85,9 +80,9 @@
     "ID": "47025"
   },
   {
-    "Title": "Melvin and Howard",
-    "Year": "1980",
-    "ID": "25845"
+    "Title": "Stranger Than Paradise",
+    "Year": "1984",
+    "ID": "51633"
   },
   {
     "Title": "Ran",
@@ -95,14 +90,14 @@
     "ID": "45108"
   },
   {
+    "Title": "The Dead",
+    "Year": "1987",
+    "ID": "25182"
+  },
+  {
     "Title": "Blue Velvet",
     "Year": "1986",
     "ID": "51359"
-  },
-  {
-    "Title": "Drugstore Cowboy",
-    "Year": "1989",
-    "ID": "51628"
   },
   {
     "Title": "GoodFellas",
@@ -110,14 +105,14 @@
     "ID": "51383"
   },
   {
-    "Title": "The Dead",
-    "Year": "1987",
-    "ID": "25182"
+    "Title": "The Night of the Shooting Stars",
+    "Year": "1982",
+    "ID": "22936"
   },
   {
-    "Title": "Life Is Sweet",
-    "Year": "1990",
-    "ID": "27558"
+    "Title": "Drugstore Cowboy",
+    "Year": "1989",
+    "ID": "51628"
   },
   {
     "Title": "The Unbearable Lightness of Being",
@@ -130,24 +125,14 @@
     "ID": "2685"
   },
   {
-    "Title": "Pulp Fiction",
-    "Year": "1994",
-    "ID": "51444"
-  },
-  {
     "Title": "Schindler's List",
     "Year": "1993",
     "ID": "51671"
   },
   {
-    "Title": "L.A. Confidential",
-    "Year": "1997",
-    "ID": "50509"
-  },
-  {
-    "Title": "Babe",
-    "Year": "1995",
-    "ID": "47003"
+    "Title": "Life Is Sweet",
+    "Year": "1990",
+    "ID": "27558"
   },
   {
     "Title": "Breaking the Waves",
@@ -155,9 +140,14 @@
     "ID": "51906"
   },
   {
-    "Title": "Being John Malkovich",
-    "Year": "1999",
-    "ID": "51618"
+    "Title": "L.A. Confidential",
+    "Year": "1997",
+    "ID": "50509"
+  },
+  {
+    "Title": "Pulp Fiction",
+    "Year": "1994",
+    "ID": "51444"
   },
   {
     "Title": "Out of Sight",
@@ -168,6 +158,16 @@
     "Title": "Yi Yi",
     "Year": "2000",
     "ID": "35988"
+  },
+  {
+    "Title": "Babe",
+    "Year": "1995",
+    "ID": "47003"
+  },
+  {
+    "Title": "Being John Malkovich",
+    "Year": "1999",
+    "ID": "51618"
   },
   {
     "Title": "The Pianist",
@@ -195,16 +195,6 @@
     "ID": "51047"
   },
   {
-    "Title": "There Will Be Blood",
-    "Year": "2007",
-    "ID": "48044"
-  },
-  {
-    "Title": "Waltz with Bashir",
-    "Year": "2008",
-    "ID": "47539"
-  },
-  {
     "Title": "Million Dollar Baby",
     "Year": "2004",
     "ID": "51979"
@@ -220,9 +210,14 @@
     "ID": "44741"
   },
   {
-    "Title": "The Social Network",
-    "Year": "2010",
-    "ID": "26711"
+    "Title": "Waltz with Bashir",
+    "Year": "2008",
+    "ID": "47539"
+  },
+  {
+    "Title": "There Will Be Blood",
+    "Year": "2007",
+    "ID": "48044"
   },
   {
     "Title": "Melancholia",
@@ -230,9 +225,9 @@
     "ID": "4549"
   },
   {
-    "Title": "Amour",
-    "Year": "2012",
-    "ID": "73359"
+    "Title": "The Social Network",
+    "Year": "2010",
+    "ID": "26711"
   },
   {
     "Title": "Inside Llewyn Davis",
@@ -245,14 +240,9 @@
     "ID": "312205"
   },
   {
-    "Title": "Goodbye to Language",
-    "Year": "2014",
-    "ID": "91404"
-  },
-  {
-    "Title": "Spotlight",
-    "Year": "2015",
-    "ID": "241430"
+    "Title": "Amour",
+    "Year": "2012",
+    "ID": "73359"
   },
   {
     "Title": "Lady Bird",
@@ -260,14 +250,14 @@
     "ID": "326279"
   },
   {
-    "Title": "Drive My Car",
-    "Year": "2021",
-    "ID": "679291"
+    "Title": "Spotlight",
+    "Year": "2015",
+    "ID": "241430"
   },
   {
-    "Title": "The Rider",
-    "Year": "2017",
-    "ID": "385389"
+    "Title": "Goodbye to Language",
+    "Year": "2014",
+    "ID": "91404"
   },
   {
     "Title": "Nomadland",
@@ -278,6 +268,11 @@
     "Title": "Parasite",
     "Year": "2019",
     "ID": "426406"
+  },
+  {
+    "Title": "Drive My Car",
+    "Year": "2021",
+    "ID": "679291"
   },
   {
     "Title": "TÁR",
@@ -293,5 +288,10 @@
     "Title": "Nickel Boys",
     "Year": "2024",
     "ID": "926589"
+  },
+  {
+    "Title": "The Rider",
+    "Year": "2017",
+    "ID": "385389"
   }
 ]
