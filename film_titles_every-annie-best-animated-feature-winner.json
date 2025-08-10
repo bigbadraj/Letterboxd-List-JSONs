@@ -1,13 +1,13 @@
 [
   {
+    "Title": "The Lion King",
+    "Year": "1994",
+    "ID": "47677"
+  },
+  {
     "Title": "Aladdin",
     "Year": "1992",
     "ID": "51340"
-  },
-  {
-    "Title": "Pocahontas",
-    "Year": "1995",
-    "ID": "46142"
   },
   {
     "Title": "Toy Story",
@@ -15,9 +15,9 @@
     "ID": "51290"
   },
   {
-    "Title": "The Lion King",
-    "Year": "1994",
-    "ID": "47677"
+    "Title": "Pocahontas",
+    "Year": "1995",
+    "ID": "46142"
   },
   {
     "Title": "Beauty and the Beast",
@@ -30,29 +30,19 @@
     "ID": "46001"
   },
   {
-    "Title": "The Iron Giant",
-    "Year": "1999",
-    "ID": "46280"
-  },
-  {
-    "Title": "Cats Don't Dance",
-    "Year": "1997",
-    "ID": "36614"
-  },
-  {
     "Title": "Spirited Away",
     "Year": "2001",
     "ID": "51921"
   },
   {
+    "Title": "The Iron Giant",
+    "Year": "1999",
+    "ID": "46280"
+  },
+  {
     "Title": "Shrek",
     "Year": "2001",
     "ID": "51344"
-  },
-  {
-    "Title": "Toy Story 2",
-    "Year": "1999",
-    "ID": "51289"
   },
   {
     "Title": "The Incredibles",
@@ -65,9 +55,9 @@
     "ID": "2705"
   },
   {
-    "Title": "Ratatouille",
-    "Year": "2007",
-    "ID": "50558"
+    "Title": "Toy Story 2",
+    "Year": "1999",
+    "ID": "51289"
   },
   {
     "Title": "Wallace & Gromit: The Curse of the Were-Rabbit",
@@ -75,24 +65,24 @@
     "ID": "51584"
   },
   {
-    "Title": "Kung Fu Panda",
-    "Year": "2008",
-    "ID": "47098"
-  },
-  {
     "Title": "Cars",
     "Year": "2006",
     "ID": "51233"
   },
   {
-    "Title": "How to Train Your Dragon",
-    "Year": "2010",
-    "ID": "46460"
+    "Title": "Kung Fu Panda",
+    "Year": "2008",
+    "ID": "47098"
   },
   {
-    "Title": "Rango",
-    "Year": "2011",
-    "ID": "20307"
+    "Title": "Ratatouille",
+    "Year": "2007",
+    "ID": "50558"
+  },
+  {
+    "Title": "Cats Don't Dance",
+    "Year": "1997",
+    "ID": "36614"
   },
   {
     "Title": "Up",
@@ -100,14 +90,14 @@
     "ID": "43302"
   },
   {
+    "Title": "How to Train Your Dragon",
+    "Year": "2010",
+    "ID": "46460"
+  },
+  {
     "Title": "Wreck-It Ralph",
     "Year": "2012",
     "ID": "69154"
-  },
-  {
-    "Title": "How to Train Your Dragon 2",
-    "Year": "2014",
-    "ID": "69142"
   },
   {
     "Title": "Frozen",
@@ -115,14 +105,14 @@
     "ID": "87948"
   },
   {
-    "Title": "Inside Out",
-    "Year": "2015",
-    "ID": "113284"
+    "Title": "How to Train Your Dragon 2",
+    "Year": "2014",
+    "ID": "69142"
   },
   {
-    "Title": "Zootopia",
-    "Year": "2016",
-    "ID": "192410"
+    "Title": "Rango",
+    "Year": "2011",
+    "ID": "20307"
   },
   {
     "Title": "Coco",
@@ -130,19 +120,19 @@
     "ID": "285509"
   },
   {
-    "Title": "Spider-Man: Into the Spider-Verse",
-    "Year": "2018",
-    "ID": "251943"
-  },
-  {
     "Title": "Klaus",
     "Year": "2019",
     "ID": "438751"
   },
   {
-    "Title": "Soul",
-    "Year": "2020",
-    "ID": "438511"
+    "Title": "Spider-Man: Into the Spider-Verse",
+    "Year": "2018",
+    "ID": "251943"
+  },
+  {
+    "Title": "Inside Out",
+    "Year": "2015",
+    "ID": "113284"
   },
   {
     "Title": "Spider-Man: Across the Spider-Verse",
@@ -150,14 +140,19 @@
     "ID": "497631"
   },
   {
+    "Title": "Soul",
+    "Year": "2020",
+    "ID": "438511"
+  },
+  {
+    "Title": "Zootopia",
+    "Year": "2016",
+    "ID": "192410"
+  },
+  {
     "Title": "The Mitchells vs. the Machines",
     "Year": "2021",
     "ID": "431888"
-  },
-  {
-    "Title": "The Wild Robot",
-    "Year": "2024",
-    "ID": "1071196"
   },
   {
     "Title": "Boy & the World",
@@ -170,6 +165,11 @@
     "ID": "484263"
   },
   {
+    "Title": "The Wild Robot",
+    "Year": "2024",
+    "ID": "1071196"
+  },
+  {
     "Title": "The Red Turtle",
     "Year": "2016",
     "ID": "267286"
@@ -180,14 +180,9 @@
     "ID": "368165"
   },
   {
-    "Title": "Mirai",
-    "Year": "2018",
-    "ID": "406196"
-  },
-  {
-    "Title": "Marcel the Shell with Shoes On",
-    "Year": "2021",
-    "ID": "781326"
+    "Title": "Wolfwalkers",
+    "Year": "2020",
+    "ID": "373808"
   },
   {
     "Title": "I Lost My Body",
@@ -195,14 +190,19 @@
     "ID": "514702"
   },
   {
-    "Title": "Wolfwalkers",
-    "Year": "2020",
-    "ID": "373808"
-  },
-  {
     "Title": "Flee",
     "Year": "2021",
     "ID": "605193"
+  },
+  {
+    "Title": "Marcel the Shell with Shoes On",
+    "Year": "2021",
+    "ID": "781326"
+  },
+  {
+    "Title": "Mirai",
+    "Year": "2018",
+    "ID": "406196"
   },
   {
     "Title": "Flow",
