@@ -1,8 +1,13 @@
 [
   {
-    "Title": "The English Patient",
-    "Year": "1996",
-    "ID": "51681"
+    "Title": "Ben-Hur",
+    "Year": "1959",
+    "ID": "51459"
+  },
+  {
+    "Title": "Gigi",
+    "Year": "1958",
+    "ID": "41088"
   },
   {
     "Title": "West Side Story",
@@ -10,19 +15,9 @@
     "ID": "50826"
   },
   {
-    "Title": "Ben-Hur",
-    "Year": "1959",
-    "ID": "51459"
-  },
-  {
     "Title": "Titanic",
     "Year": "1997",
     "ID": "51524"
-  },
-  {
-    "Title": "The Last Emperor",
-    "Year": "1987",
-    "ID": "51406"
   },
   {
     "Title": "Slumdog Millionaire",
@@ -35,9 +30,14 @@
     "ID": "51777"
   },
   {
-    "Title": "Gigi",
-    "Year": "1958",
-    "ID": "41088"
+    "Title": "The Last Emperor",
+    "Year": "1987",
+    "ID": "51406"
+  },
+  {
+    "Title": "The English Patient",
+    "Year": "1996",
+    "ID": "51681"
   },
   {
     "Title": "Cabaret",
@@ -45,24 +45,9 @@
     "ID": "45900"
   },
   {
-    "Title": "From Here to Eternity",
-    "Year": "1953",
-    "ID": "45309"
-  },
-  {
-    "Title": "Gone with the Wind",
-    "Year": "1939",
-    "ID": "51382"
-  },
-  {
     "Title": "My Fair Lady",
     "Year": "1964",
     "ID": "45593"
-  },
-  {
-    "Title": "Gandhi",
-    "Year": "1982",
-    "ID": "51369"
   },
   {
     "Title": "On the Waterfront",
@@ -70,9 +55,24 @@
     "ID": "51470"
   },
   {
+    "Title": "Gone with the Wind",
+    "Year": "1939",
+    "ID": "51382"
+  },
+  {
+    "Title": "From Here to Eternity",
+    "Year": "1953",
+    "ID": "45309"
+  },
+  {
     "Title": "Oppenheimer",
     "Year": "2023",
     "ID": "784328"
+  },
+  {
+    "Title": "Everything Everywhere All at Once",
+    "Year": "2022",
+    "ID": "474474"
   },
   {
     "Title": "Gravity",
@@ -80,9 +80,14 @@
     "ID": "16529"
   },
   {
-    "Title": "Everything Everywhere All at Once",
-    "Year": "2022",
-    "ID": "474474"
+    "Title": "Gandhi",
+    "Year": "1982",
+    "ID": "51369"
+  },
+  {
+    "Title": "Shakespeare in Love",
+    "Year": "1998",
+    "ID": "50674"
   },
   {
     "Title": "Schindler's List",
@@ -95,24 +100,14 @@
     "ID": "51539"
   },
   {
-    "Title": "The Sting",
-    "Year": "1973",
-    "ID": "47315"
-  },
-  {
-    "Title": "Shakespeare in Love",
-    "Year": "1998",
-    "ID": "50674"
-  },
-  {
-    "Title": "Patton",
-    "Year": "1970",
-    "ID": "45507"
-  },
-  {
     "Title": "Out of Africa",
     "Year": "1985",
     "ID": "51515"
+  },
+  {
+    "Title": "The Sting",
+    "Year": "1973",
+    "ID": "47315"
   },
   {
     "Title": "The Best Years of Our Lives",
@@ -120,9 +115,19 @@
     "ID": "51265"
   },
   {
+    "Title": "Patton",
+    "Year": "1970",
+    "ID": "45507"
+  },
+  {
     "Title": "The Bridge on the River Kwai",
     "Year": "1957",
     "ID": "51326"
+  },
+  {
+    "Title": "Lawrence of Arabia",
+    "Year": "1962",
+    "ID": "60299"
   },
   {
     "Title": "Dune",
@@ -135,11 +140,6 @@
     "ID": "240344"
   },
   {
-    "Title": "Lawrence of Arabia",
-    "Year": "1962",
-    "ID": "60299"
-  },
-  {
     "Title": "Going My Way",
     "Year": "1944",
     "ID": "40855"
@@ -148,11 +148,6 @@
     "Title": "The Hurt Locker",
     "Year": "2008",
     "ID": "44741"
-  },
-  {
-    "Title": "Mad Max: Fury Road",
-    "Year": "2015",
-    "ID": "62780"
   },
   {
     "Title": "Chicago",
@@ -165,14 +160,14 @@
     "ID": "2704"
   },
   {
-    "Title": "Star Wars",
-    "Year": "1977",
-    "ID": "2706"
-  },
-  {
     "Title": "The Godfather Part II",
     "Year": "1974",
     "ID": "51816"
+  },
+  {
+    "Title": "Mad Max: Fury Road",
+    "Year": "2015",
+    "ID": "62780"
   },
   {
     "Title": "A Man for All Seasons",
@@ -185,14 +180,14 @@
     "ID": "51421"
   },
   {
+    "Title": "Star Wars",
+    "Year": "1977",
+    "ID": "2706"
+  },
+  {
     "Title": "An American in Paris",
     "Year": "1951",
     "ID": "50102"
-  },
-  {
-    "Title": "Mrs. Miniver",
-    "Year": "1942",
-    "ID": "34581"
   },
   {
     "Title": "A Place in the Sun",
@@ -200,14 +195,14 @@
     "ID": "35881"
   },
   {
+    "Title": "Mrs. Miniver",
+    "Year": "1942",
+    "ID": "34581"
+  },
+  {
     "Title": "The Artist",
     "Year": "2011",
     "ID": "61707"
-  },
-  {
-    "Title": "Hugo",
-    "Year": "2011",
-    "ID": "20374"
   },
   {
     "Title": "The Aviator",
@@ -215,9 +210,9 @@
     "ID": "50207"
   },
   {
-    "Title": "Saving Private Ryan",
-    "Year": "1998",
-    "ID": "51295"
+    "Title": "Gladiator",
+    "Year": "2000",
+    "ID": "51952"
   },
   {
     "Title": "American Beauty",
@@ -225,14 +220,19 @@
     "ID": "2703"
   },
   {
-    "Title": "Gladiator",
-    "Year": "2000",
-    "ID": "51952"
+    "Title": "Saving Private Ryan",
+    "Year": "1998",
+    "ID": "51295"
   },
   {
     "Title": "Braveheart",
     "Year": "1995",
     "ID": "51855"
+  },
+  {
+    "Title": "Hugo",
+    "Year": "2011",
+    "ID": "20374"
   },
   {
     "Title": "Terms of Endearment",
@@ -250,14 +250,19 @@
     "ID": "45017"
   },
   {
+    "Title": "One Flew Over the Cuckoo's Nest",
+    "Year": "1975",
+    "ID": "51600"
+  },
+  {
     "Title": "Kramer vs. Kramer",
     "Year": "1979",
     "ID": "6538"
   },
   {
-    "Title": "One Flew Over the Cuckoo's Nest",
-    "Year": "1975",
-    "ID": "51600"
+    "Title": "Oliver!",
+    "Year": "1968",
+    "ID": "40690"
   },
   {
     "Title": "The French Connection",
@@ -275,24 +280,9 @@
     "ID": "46041"
   },
   {
-    "Title": "Oliver!",
-    "Year": "1968",
-    "ID": "40690"
-  },
-  {
-    "Title": "The Apartment",
-    "Year": "1960",
-    "ID": "51774"
-  },
-  {
     "Title": "The Sound of Music",
     "Year": "1965",
     "ID": "42580"
-  },
-  {
-    "Title": "Around the World in Eighty Days",
-    "Year": "1956",
-    "ID": "50026"
   },
   {
     "Title": "Doctor Zhivago",
@@ -300,19 +290,14 @@
     "ID": "51245"
   },
   {
-    "Title": "The King and I",
-    "Year": "1956",
-    "ID": "41520"
-  },
-  {
-    "Title": "It Happened One Night",
-    "Year": "1934",
-    "ID": "49893"
-  },
-  {
     "Title": "The Bad and the Beautiful",
     "Year": "1952",
     "ID": "30391"
+  },
+  {
+    "Title": "Around the World in Eighty Days",
+    "Year": "1956",
+    "ID": "50026"
   },
   {
     "Title": "How Green Was My Valley",
@@ -320,9 +305,19 @@
     "ID": "21880"
   },
   {
-    "Title": "The Lord of the Rings: The Return of the King",
-    "Year": "2003",
-    "ID": "51928"
+    "Title": "The Apartment",
+    "Year": "1960",
+    "ID": "51774"
+  },
+  {
+    "Title": "It Happened One Night",
+    "Year": "1934",
+    "ID": "49893"
+  },
+  {
+    "Title": "Mary Poppins",
+    "Year": "1964",
+    "ID": "51662"
   },
   {
     "Title": "Wilson",
@@ -330,13 +325,18 @@
     "ID": "70514"
   },
   {
+    "Title": "The Lord of the Rings: The Return of the King",
+    "Year": "2003",
+    "ID": "51928"
+  },
+  {
+    "Title": "The King and I",
+    "Year": "1956",
+    "ID": "41520"
+  },
+  {
     "Title": "Anora",
     "Year": "2024",
     "ID": "959540"
-  },
-  {
-    "Title": "Mary Poppins",
-    "Year": "1964",
-    "ID": "51662"
   }
 ]
