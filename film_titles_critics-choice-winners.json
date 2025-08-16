@@ -1,5 +1,10 @@
 [
   {
+    "Title": "L.A. Confidential",
+    "Year": "1997",
+    "ID": "50509"
+  },
+  {
     "Title": "Sense and Sensibility",
     "Year": "1995",
     "ID": "49232"
@@ -10,9 +15,9 @@
     "ID": "2703"
   },
   {
-    "Title": "L.A. Confidential",
-    "Year": "1997",
-    "ID": "50509"
+    "Title": "Fargo",
+    "Year": "1996",
+    "ID": "51781"
   },
   {
     "Title": "Saving Private Ryan",
@@ -25,29 +30,9 @@
     "ID": "51952"
   },
   {
-    "Title": "A Beautiful Mind",
-    "Year": "2001",
-    "ID": "51648"
-  },
-  {
-    "Title": "Fargo",
-    "Year": "1996",
-    "ID": "51781"
-  },
-  {
     "Title": "Chicago",
     "Year": "2002",
     "ID": "50960"
-  },
-  {
-    "Title": "The Lord of the Rings: The Return of the King",
-    "Year": "2003",
-    "ID": "51928"
-  },
-  {
-    "Title": "The Departed",
-    "Year": "2006",
-    "ID": "51042"
   },
   {
     "Title": "Sideways",
@@ -55,14 +40,14 @@
     "ID": "46929"
   },
   {
-    "Title": "No Country for Old Men",
-    "Year": "2007",
-    "ID": "48140"
+    "Title": "A Beautiful Mind",
+    "Year": "2001",
+    "ID": "51648"
   },
   {
-    "Title": "Slumdog Millionaire",
-    "Year": "2008",
-    "ID": "44613"
+    "Title": "The Lord of the Rings: The Return of the King",
+    "Year": "2003",
+    "ID": "51928"
   },
   {
     "Title": "Brokeback Mountain",
@@ -70,9 +55,19 @@
     "ID": "51909"
   },
   {
+    "Title": "Slumdog Millionaire",
+    "Year": "2008",
+    "ID": "44613"
+  },
+  {
     "Title": "The Hurt Locker",
     "Year": "2008",
     "ID": "44741"
+  },
+  {
+    "Title": "The Departed",
+    "Year": "2006",
+    "ID": "51042"
   },
   {
     "Title": "The Social Network",
@@ -80,9 +75,9 @@
     "ID": "26711"
   },
   {
-    "Title": "The Artist",
-    "Year": "2011",
-    "ID": "61707"
+    "Title": "No Country for Old Men",
+    "Year": "2007",
+    "ID": "48140"
   },
   {
     "Title": "Argo",
@@ -105,9 +100,19 @@
     "ID": "241430"
   },
   {
+    "Title": "La La Land",
+    "Year": "2016",
+    "ID": "240344"
+  },
+  {
     "Title": "The Shape of Water",
     "Year": "2017",
     "ID": "333308"
+  },
+  {
+    "Title": "The Artist",
+    "Year": "2011",
+    "ID": "61707"
   },
   {
     "Title": "Roma",
@@ -130,23 +135,18 @@
     "ID": "527841"
   },
   {
-    "Title": "La La Land",
-    "Year": "2016",
-    "ID": "240344"
-  },
-  {
     "Title": "Everything Everywhere All at Once",
     "Year": "2022",
     "ID": "474474"
   },
   {
-    "Title": "Anora",
-    "Year": "2024",
-    "ID": "959540"
-  },
-  {
     "Title": "Oppenheimer",
     "Year": "2023",
     "ID": "784328"
+  },
+  {
+    "Title": "Anora",
+    "Year": "2024",
+    "ID": "959540"
   }
 ]
