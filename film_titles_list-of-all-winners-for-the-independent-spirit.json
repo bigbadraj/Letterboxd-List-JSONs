@@ -1,5 +1,10 @@
 [
   {
+    "Title": "After Hours",
+    "Year": "1985",
+    "ID": "45842"
+  },
+  {
     "Title": "Platoon",
     "Year": "1986",
     "ID": "51360"
@@ -8,16 +13,6 @@
     "Title": "sex, lies, and videotape",
     "Year": "1989",
     "ID": "51052"
-  },
-  {
-    "Title": "After Hours",
-    "Year": "1985",
-    "ID": "45842"
-  },
-  {
-    "Title": "River's Edge",
-    "Year": "1986",
-    "ID": "38486"
   },
   {
     "Title": "The Grifters",
@@ -30,9 +25,14 @@
     "ID": "33091"
   },
   {
-    "Title": "The Player",
-    "Year": "1992",
-    "ID": "46263"
+    "Title": "River's Edge",
+    "Year": "1986",
+    "ID": "38486"
+  },
+  {
+    "Title": "Short Cuts",
+    "Year": "1993",
+    "ID": "51431"
   },
   {
     "Title": "Pulp Fiction",
@@ -45,14 +45,24 @@
     "ID": "51781"
   },
   {
+    "Title": "The Player",
+    "Year": "1992",
+    "ID": "46263"
+  },
+  {
     "Title": "Leaving Las Vegas",
     "Year": "1995",
     "ID": "51650"
   },
   {
-    "Title": "Short Cuts",
-    "Year": "1993",
-    "ID": "51431"
+    "Title": "Crouching Tiger, Hidden Dragon",
+    "Year": "2000",
+    "ID": "51905"
+  },
+  {
+    "Title": "Gods and Monsters",
+    "Year": "1998",
+    "ID": "49932"
   },
   {
     "Title": "Rambling Rose",
@@ -65,24 +75,14 @@
     "ID": "51973"
   },
   {
-    "Title": "The Apostle",
-    "Year": "1997",
-    "ID": "50028"
-  },
-  {
     "Title": "Election",
     "Year": "1999",
     "ID": "47146"
   },
   {
-    "Title": "Lost in Translation",
-    "Year": "2003",
-    "ID": "51898"
-  },
-  {
-    "Title": "Gods and Monsters",
-    "Year": "1998",
-    "ID": "49932"
+    "Title": "The Apostle",
+    "Year": "1997",
+    "ID": "50028"
   },
   {
     "Title": "Sideways",
@@ -90,24 +90,19 @@
     "ID": "46929"
   },
   {
-    "Title": "Far from Heaven",
-    "Year": "2002",
-    "ID": "45966"
-  },
-  {
-    "Title": "Crouching Tiger, Hidden Dragon",
-    "Year": "2000",
-    "ID": "51905"
-  },
-  {
     "Title": "Brokeback Mountain",
     "Year": "2005",
     "ID": "51909"
   },
   {
-    "Title": "Black Swan",
-    "Year": "2010",
-    "ID": "20956"
+    "Title": "Far from Heaven",
+    "Year": "2002",
+    "ID": "45966"
+  },
+  {
+    "Title": "Lost in Translation",
+    "Year": "2003",
+    "ID": "51898"
   },
   {
     "Title": "Little Miss Sunshine",
@@ -115,19 +110,24 @@
     "ID": "51379"
   },
   {
-    "Title": "Juno",
-    "Year": "2007",
-    "ID": "48051"
-  },
-  {
     "Title": "The Artist",
     "Year": "2011",
     "ID": "61707"
   },
   {
+    "Title": "Juno",
+    "Year": "2007",
+    "ID": "48051"
+  },
+  {
     "Title": "The Wrestler",
     "Year": "2008",
     "ID": "44740"
+  },
+  {
+    "Title": "Black Swan",
+    "Year": "2010",
+    "ID": "20956"
   },
   {
     "Title": "Precious",
@@ -140,16 +140,6 @@
     "ID": "62671"
   },
   {
-    "Title": "Silver Linings Playbook",
-    "Year": "2012",
-    "ID": "69151"
-  },
-  {
-    "Title": "Spotlight",
-    "Year": "2015",
-    "ID": "241430"
-  },
-  {
     "Title": "Birdman or (The Unexpected Virtue of Ignorance)",
     "Year": "2014",
     "ID": "139795"
@@ -160,19 +150,14 @@
     "ID": "312205"
   },
   {
-    "Title": "Get Out",
-    "Year": "2017",
-    "ID": "353117"
+    "Title": "Silver Linings Playbook",
+    "Year": "2012",
+    "ID": "69151"
   },
   {
-    "Title": "Everything Everywhere All at Once",
-    "Year": "2022",
-    "ID": "474474"
-  },
-  {
-    "Title": "The Farewell",
-    "Year": "2019",
-    "ID": "493697"
+    "Title": "Spotlight",
+    "Year": "2015",
+    "ID": "241430"
   },
   {
     "Title": "Nomadland",
@@ -180,14 +165,24 @@
     "ID": "509662"
   },
   {
-    "Title": "The Lost Daughter",
-    "Year": "2021",
-    "ID": "483008"
+    "Title": "Get Out",
+    "Year": "2017",
+    "ID": "353117"
   },
   {
     "Title": "If Beale Street Could Talk",
     "Year": "2018",
     "ID": "397578"
+  },
+  {
+    "Title": "The Farewell",
+    "Year": "2019",
+    "ID": "493697"
+  },
+  {
+    "Title": "Everything Everywhere All at Once",
+    "Year": "2022",
+    "ID": "474474"
   },
   {
     "Title": "Past Lives",
@@ -198,5 +193,10 @@
     "Title": "Anora",
     "Year": "2024",
     "ID": "959540"
+  },
+  {
+    "Title": "The Lost Daughter",
+    "Year": "2021",
+    "ID": "483008"
   }
 ]
