@@ -1,5 +1,25 @@
 [
   {
+    "Title": "Star Wars",
+    "Year": "1977",
+    "ID": "2706"
+  },
+  {
+    "Title": "Logan's Run",
+    "Year": "1976",
+    "ID": "45881"
+  },
+  {
+    "Title": "Soylent Green",
+    "Year": "1973",
+    "ID": "44799"
+  },
+  {
+    "Title": "The Empire Strikes Back",
+    "Year": "1980",
+    "ID": "50713"
+  },
+  {
     "Title": "Slaughterhouse-Five",
     "Year": "1972",
     "ID": "36691"
@@ -10,24 +30,9 @@
     "ID": "45260"
   },
   {
-    "Title": "The Empire Strikes Back",
+    "Title": "Superman II",
     "Year": "1980",
-    "ID": "50713"
-  },
-  {
-    "Title": "Logan's Run",
-    "Year": "1976",
-    "ID": "45881"
-  },
-  {
-    "Title": "Star Wars",
-    "Year": "1977",
-    "ID": "2706"
-  },
-  {
-    "Title": "Soylent Green",
-    "Year": "1973",
-    "ID": "44799"
+    "ID": "47693"
   },
   {
     "Title": "E.T. the Extra-Terrestrial",
@@ -35,19 +40,9 @@
     "ID": "51520"
   },
   {
-    "Title": "Superman",
-    "Year": "1978",
-    "ID": "50681"
-  },
-  {
-    "Title": "The Terminator",
-    "Year": "1984",
-    "ID": "51838"
-  },
-  {
-    "Title": "Superman II",
-    "Year": "1980",
-    "ID": "47693"
+    "Title": "Return of the Jedi",
+    "Year": "1983",
+    "ID": "50712"
   },
   {
     "Title": "Back to the Future",
@@ -55,19 +50,19 @@
     "ID": "51945"
   },
   {
+    "Title": "Superman",
+    "Year": "1978",
+    "ID": "50681"
+  },
+  {
     "Title": "RoboCop",
     "Year": "1987",
     "ID": "48797"
   },
   {
-    "Title": "Return of the Jedi",
-    "Year": "1983",
-    "ID": "50712"
-  },
-  {
-    "Title": "Alien Nation",
-    "Year": "1988",
-    "ID": "46521"
+    "Title": "The Terminator",
+    "Year": "1984",
+    "ID": "51838"
   },
   {
     "Title": "Total Recall",
@@ -75,19 +70,14 @@
     "ID": "51291"
   },
   {
+    "Title": "Alien Nation",
+    "Year": "1988",
+    "ID": "46521"
+  },
+  {
     "Title": "Terminator 2: Judgment Day",
     "Year": "1991",
     "ID": "51776"
-  },
-  {
-    "Title": "Stargate",
-    "Year": "1994",
-    "ID": "50471"
-  },
-  {
-    "Title": "Jurassic Park",
-    "Year": "1993",
-    "ID": "51733"
   },
   {
     "Title": "Star Trek VI: The Undiscovered Country",
@@ -95,9 +85,14 @@
     "ID": "51877"
   },
   {
-    "Title": "Independence Day",
-    "Year": "1996",
-    "ID": "51519"
+    "Title": "Jurassic Park",
+    "Year": "1993",
+    "ID": "51733"
+  },
+  {
+    "Title": "Stargate",
+    "Year": "1994",
+    "ID": "50471"
   },
   {
     "Title": "Twelve Monkeys",
@@ -105,9 +100,19 @@
     "ID": "51986"
   },
   {
-    "Title": "Men in Black",
-    "Year": "1997",
-    "ID": "51514"
+    "Title": "Dark City",
+    "Year": "1998",
+    "ID": "50160"
+  },
+  {
+    "Title": "Independence Day",
+    "Year": "1996",
+    "ID": "51519"
+  },
+  {
+    "Title": "A.I. Artificial Intelligence",
+    "Year": "2001",
+    "ID": "51480"
   },
   {
     "Title": "Armageddon",
@@ -115,9 +120,9 @@
     "ID": "51955"
   },
   {
-    "Title": "Dark City",
-    "Year": "1998",
-    "ID": "50160"
+    "Title": "Men in Black",
+    "Year": "1997",
+    "ID": "51514"
   },
   {
     "Title": "The Matrix",
@@ -130,24 +135,9 @@
     "ID": "27723"
   },
   {
-    "Title": "A.I. Artificial Intelligence",
-    "Year": "2001",
-    "ID": "51480"
-  },
-  {
     "Title": "Eternal Sunshine of the Spotless Mind",
     "Year": "2004",
     "ID": "2683"
-  },
-  {
-    "Title": "Children of Men",
-    "Year": "2006",
-    "ID": "46911"
-  },
-  {
-    "Title": "Avatar",
-    "Year": "2009",
-    "ID": "39304"
   },
   {
     "Title": "Minority Report",
@@ -165,34 +155,19 @@
     "ID": "50709"
   },
   {
+    "Title": "Avatar",
+    "Year": "2009",
+    "ID": "39304"
+  },
+  {
+    "Title": "Children of Men",
+    "Year": "2006",
+    "ID": "46911"
+  },
+  {
     "Title": "Iron Man",
     "Year": "2008",
     "ID": "50825"
-  },
-  {
-    "Title": "Gravity",
-    "Year": "2013",
-    "ID": "16529"
-  },
-  {
-    "Title": "Interstellar",
-    "Year": "2014",
-    "ID": "117621"
-  },
-  {
-    "Title": "Inception",
-    "Year": "2010",
-    "ID": "34722"
-  },
-  {
-    "Title": "Rise of the Planet of the Apes",
-    "Year": "2011",
-    "ID": "4948"
-  },
-  {
-    "Title": "Star Wars: The Force Awakens",
-    "Year": "2015",
-    "ID": "107418"
   },
   {
     "Title": "The Avengers",
@@ -200,14 +175,39 @@
     "ID": "36778"
   },
   {
+    "Title": "Interstellar",
+    "Year": "2014",
+    "ID": "117621"
+  },
+  {
+    "Title": "Rise of the Planet of the Apes",
+    "Year": "2011",
+    "ID": "4948"
+  },
+  {
+    "Title": "Inception",
+    "Year": "2010",
+    "ID": "34722"
+  },
+  {
+    "Title": "Gravity",
+    "Year": "2013",
+    "ID": "16529"
+  },
+  {
+    "Title": "Blade Runner 2049",
+    "Year": "2017",
+    "ID": "265439"
+  },
+  {
+    "Title": "Star Wars: The Force Awakens",
+    "Year": "2015",
+    "ID": "107418"
+  },
+  {
     "Title": "Star Wars: The Rise of Skywalker",
     "Year": "2019",
     "ID": "131984"
-  },
-  {
-    "Title": "Rogue One: A Star Wars Story",
-    "Year": "2016",
-    "ID": "258128"
   },
   {
     "Title": "Ready Player One",
@@ -215,14 +215,14 @@
     "ID": "261866"
   },
   {
+    "Title": "Rogue One: A Star Wars Story",
+    "Year": "2016",
+    "ID": "258128"
+  },
+  {
     "Title": "Nope",
     "Year": "2022",
     "ID": "682547"
-  },
-  {
-    "Title": "Blade Runner 2049",
-    "Year": "2017",
-    "ID": "265439"
   },
   {
     "Title": "Cloverfield",
@@ -235,14 +235,14 @@
     "ID": "51714"
   },
   {
-    "Title": "Dune: Part Two",
-    "Year": "2024",
-    "ID": "617443"
-  },
-  {
     "Title": "Avatar: The Way of Water",
     "Year": "2022",
     "ID": "63058"
+  },
+  {
+    "Title": "Dune: Part Two",
+    "Year": "2024",
+    "ID": "617443"
   },
   {
     "Title": "Aliens",
