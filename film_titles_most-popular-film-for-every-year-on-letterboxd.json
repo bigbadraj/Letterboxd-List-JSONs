@@ -1,1 +1,717 @@
-[]
+[
+  {
+    "Title": "Sinners",
+    "Year": "2025",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Substance",
+    "Year": "2024",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Barbie",
+    "Year": "2023",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Everything Everywhere All at Once",
+    "Year": "2022",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Dune",
+    "Year": "2021",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Soul",
+    "Year": "2020",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Parasite",
+    "Year": "2019",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Spider-Man: Into the Spider-Verse",
+    "Year": "2018",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Get Out",
+    "Year": "2017",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "La La Land",
+    "Year": "2016",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Inside Out",
+    "Year": "2015",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Interstellar",
+    "Year": "2014",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Wolf of Wall Street",
+    "Year": "2013",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Perks of Being a Wallflower",
+    "Year": "2012",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Drive",
+    "Year": "2011",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Inception",
+    "Year": "2010",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Inglourious Basterds",
+    "Year": "2009",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Dark Knight",
+    "Year": "2008",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Ratatouille",
+    "Year": "2007",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Little Miss Sunshine",
+    "Year": "2006",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Pride & Prejudice",
+    "Year": "2005",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Eternal Sunshine of the Spotless Mind",
+    "Year": "2004",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Kill Bill: Vol. 1",
+    "Year": "2003",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Catch Me If You Can",
+    "Year": "2002",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Spirited Away",
+    "Year": "2001",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "American Psycho",
+    "Year": "2000",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Fight Club",
+    "Year": "1999",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Truman Show",
+    "Year": "1998",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Good Will Hunting",
+    "Year": "1997",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Scream",
+    "Year": "1996",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Se7en",
+    "Year": "1995",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Pulp Fiction",
+    "Year": "1994",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Jurassic Park",
+    "Year": "1993",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Reservoir Dogs",
+    "Year": "1992",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Silence of the Lambs",
+    "Year": "1991",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "GoodFellas",
+    "Year": "1990",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Dead Poets Society",
+    "Year": "1989",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "My Neighbor Totoro",
+    "Year": "1988",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Full Metal Jacket",
+    "Year": "1987",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Ferris Bueller's Day Off",
+    "Year": "1986",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Back to the Future",
+    "Year": "1985",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Paris, Texas",
+    "Year": "1984",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Scarface",
+    "Year": "1983",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Blade Runner",
+    "Year": "1982",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Raiders of the Lost Ark",
+    "Year": "1981",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Shining",
+    "Year": "1980",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Alien",
+    "Year": "1979",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Halloween",
+    "Year": "1978",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Star Wars",
+    "Year": "1977",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Taxi Driver",
+    "Year": "1976",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Jaws",
+    "Year": "1975",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Godfather Part II",
+    "Year": "1974",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Exorcist",
+    "Year": "1973",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Godfather",
+    "Year": "1972",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "A Clockwork Orange",
+    "Year": "1971",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Aristocats",
+    "Year": "1970",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Midnight Cowboy",
+    "Year": "1969",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "2001: A Space Odyssey",
+    "Year": "1968",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Graduate",
+    "Year": "1967",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Good, the Bad and the Ugly",
+    "Year": "1966",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Sound of Music",
+    "Year": "1965",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "Year": "1964",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Birds",
+    "Year": "1963",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Lawrence of Arabia",
+    "Year": "1962",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Breakfast at Tiffany's",
+    "Year": "1961",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Psycho",
+    "Year": "1960",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Some Like It Hot",
+    "Year": "1959",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Vertigo",
+    "Year": "1958",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "12 Angry Men",
+    "Year": "1957",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Killing",
+    "Year": "1956",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Night of the Hunter",
+    "Year": "1955",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Rear Window",
+    "Year": "1954",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Roman Holiday",
+    "Year": "1953",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Singin' in the Rain",
+    "Year": "1952",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Alice in Wonderland",
+    "Year": "1951",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Sunset Boulevard",
+    "Year": "1950",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Third Man",
+    "Year": "1949",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Rope",
+    "Year": "1948",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Black Narcissus",
+    "Year": "1947",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "It's a Wonderful Life",
+    "Year": "1946",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Brief Encounter",
+    "Year": "1945",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Double Indemnity",
+    "Year": "1944",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Meshes of the Afternoon",
+    "Year": "1943",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Casablanca",
+    "Year": "1942",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Citizen Kane",
+    "Year": "1941",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Pinocchio",
+    "Year": "1940",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Wizard of Oz",
+    "Year": "1939",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Bringing Up Baby",
+    "Year": "1938",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Snow White and the Seven Dwarfs",
+    "Year": "1937",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Modern Times",
+    "Year": "1936",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Bride of Frankenstein",
+    "Year": "1935",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "It Happened One Night",
+    "Year": "1934",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "King Kong",
+    "Year": "1933",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Freaks",
+    "Year": "1932",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "M",
+    "Year": "1931",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "All Quiet on the Western Front",
+    "Year": "1930",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Un Chien Andalou",
+    "Year": "1929",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Passion of Joan of Arc",
+    "Year": "1928",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Metropolis",
+    "Year": "1927",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The General",
+    "Year": "1926",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Battleship Potemkin",
+    "Year": "1925",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Sherlock Jr.",
+    "Year": "1924",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Safety Last!",
+    "Year": "1923",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Nosferatu",
+    "Year": "1922",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Kid",
+    "Year": "1921",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Cabinet of Dr. Caligari",
+    "Year": "1920",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Broken Blossoms",
+    "Year": "1919",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "A Dog's Life",
+    "Year": "1918",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Immigrant",
+    "Year": "1917",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Intolerance: Love's Struggle Throughout the Ages",
+    "Year": "1916",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Birth of a Nation",
+    "Year": "1915",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Cabiria",
+    "Year": "1914",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Suspense.",
+    "Year": "1913",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Cameraman's Revenge",
+    "Year": "1912",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Dante's Inferno",
+    "Year": "1911",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Frankenstein",
+    "Year": "1910",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "A Corner in Wheat",
+    "Year": "1909",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Fantasmagorie",
+    "Year": "1908",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Dancing Pig",
+    "Year": "1907",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Consequences of Feminism",
+    "Year": "1906",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Black Imp",
+    "Year": "1905",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Impossible Voyage",
+    "Year": "1904",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Great Train Robbery",
+    "Year": "1903",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "A Trip to the Moon",
+    "Year": "1902",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Man with the Rubber Head",
+    "Year": "1901",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Joan of Arc",
+    "Year": "1900",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Cinderella",
+    "Year": "1899",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Astronomer's Dream",
+    "Year": "1898",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Serpentine Dance",
+    "Year": "1897",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Arrival of a Train at La Ciotat",
+    "Year": "1896",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Workers Leaving the Lumière Factory",
+    "Year": "1895",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Dickson Experimental Sound Film",
+    "Year": "1894",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Blacksmithing Scene",
+    "Year": "1893",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Poor Pierrot",
+    "Year": "1892",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Newark Athlete",
+    "Year": "1891",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Monkeyshines, No. 1",
+    "Year": "1890",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Hyde Park Corner",
+    "Year": "1889",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Roundhay Garden Scene",
+    "Year": "1888",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Man Walking Around a Corner",
+    "Year": "1887",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "L'Homme Machine",
+    "Year": "1885",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "The Kiss",
+    "Year": "1882",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Sallie Gardner at a Gallop",
+    "Year": "1878",
+    "ID": "Unknown"
+  },
+  {
+    "Title": "Passage of Venus",
+    "Year": "1874",
+    "ID": "Unknown"
+  }
+]
