@@ -1,0 +1,548 @@
+[
+    {
+        "ListNumber": 1,
+        "Title": "Star Wars: The Force Awakens",
+        "Year": "2015",
+        "ID": "star-wars-the-force-awakens"
+    },
+    {
+        "ListNumber": 2,
+        "Title": "Jurassic World: Fallen Kingdom",
+        "Year": "2018",
+        "ID": "jurassic-world-fallen-kingdom"
+    },
+    {
+        "ListNumber": 3,
+        "Title": "Pirates of the Caribbean: On Stranger Tides",
+        "Year": "2011",
+        "ID": "pirates-of-the-caribbean-on-stranger-tides"
+    },
+    {
+        "ListNumber": 4,
+        "Title": "Star Wars: The Rise of Skywalker",
+        "Year": "2019",
+        "ID": "star-wars-the-rise-of-skywalker"
+    },
+    {
+        "ListNumber": 5,
+        "Title": "Jurassic World Dominion",
+        "Year": "2022",
+        "ID": "jurassic-world-dominion"
+    },
+    {
+        "ListNumber": 6,
+        "Title": "Avengers: Age of Ultron",
+        "Year": "2015",
+        "ID": "avengers-age-of-ultron"
+    },
+    {
+        "ListNumber": 7,
+        "Title": "Pirates of the Caribbean: At World's End",
+        "Year": "2007",
+        "ID": "pirates-of-the-caribbean-at-worlds-end"
+    },
+    {
+        "ListNumber": 8,
+        "Title": "Avengers: Endgame",
+        "Year": "2019",
+        "ID": "avengers-endgame"
+    },
+    {
+        "ListNumber": 9,
+        "Title": "Avatar: The Way of Water",
+        "Year": "2022",
+        "ID": "avatar-the-way-of-water"
+    },
+    {
+        "ListNumber": 10,
+        "Title": "Avengers: Infinity War",
+        "Year": "2018",
+        "ID": "avengers-infinity-war"
+    },
+    {
+        "ListNumber": 11,
+        "Title": "Titanic",
+        "Year": "1997",
+        "ID": "titanic-1997"
+    },
+    {
+        "ListNumber": 12,
+        "Title": "Spider-Man 3",
+        "Year": "2007",
+        "ID": "spider-man-3"
+    },
+    {
+        "ListNumber": 13,
+        "Title": "Fast X",
+        "Year": "2023",
+        "ID": "fast-x"
+    },
+    {
+        "ListNumber": 14,
+        "Title": "Justice League",
+        "Year": "2017",
+        "ID": "justice-league"
+    },
+    {
+        "ListNumber": 15,
+        "Title": "Star Wars: The Last Jedi",
+        "Year": "2017",
+        "ID": "star-wars-the-last-jedi"
+    },
+    {
+        "ListNumber": 16,
+        "Title": "Doctor Strange in the Multiverse of Madness",
+        "Year": "2022",
+        "ID": "doctor-strange-in-the-multiverse-of-madness"
+    },
+    {
+        "ListNumber": 17,
+        "Title": "Tangled",
+        "Year": "2010",
+        "ID": "tangled-2010"
+    },
+    {
+        "ListNumber": 18,
+        "Title": "Harry Potter and the Half-Blood Prince",
+        "Year": "2009",
+        "ID": "harry-potter-and-the-half-blood-prince"
+    },
+    {
+        "ListNumber": 19,
+        "Title": "John Carter",
+        "Year": "2012",
+        "ID": "john-carter"
+    },
+    {
+        "ListNumber": 20,
+        "Title": "Waterworld",
+        "Year": "1995",
+        "ID": "waterworld"
+    },
+    {
+        "ListNumber": 21,
+        "Title": "Pirates of the Caribbean: Dead Man's Chest",
+        "Year": "2006",
+        "ID": "pirates-of-the-caribbean-dead-mans-chest"
+    },
+    {
+        "ListNumber": 22,
+        "Title": "Avatar",
+        "Year": "2009",
+        "ID": "avatar"
+    },
+    {
+        "ListNumber": 23,
+        "Title": "Batman v Superman: Dawn of Justice",
+        "Year": "2016",
+        "ID": "batman-v-superman-dawn-of-justice"
+    },
+    {
+        "ListNumber": 24,
+        "Title": "Ant-Man and the Wasp: Quantumania",
+        "Year": "2023",
+        "ID": "ant-man-and-the-wasp-quantumania"
+    },
+    {
+        "ListNumber": 25,
+        "Title": "Solo: A Star Wars Story",
+        "Year": "2018",
+        "ID": "solo-a-star-wars-story"
+    },
+    {
+        "ListNumber": 26,
+        "Title": "Indiana Jones and the Dial of Destiny",
+        "Year": "2023",
+        "ID": "indiana-jones-and-the-dial-of-destiny"
+    },
+    {
+        "ListNumber": 27,
+        "Title": "King Kong",
+        "Year": "2005",
+        "ID": "king-kong-2005"
+    },
+    {
+        "ListNumber": 28,
+        "Title": "Spider-Man 2",
+        "Year": "2004",
+        "ID": "spider-man-2"
+    },
+    {
+        "ListNumber": 29,
+        "Title": "Furious 7",
+        "Year": "2015",
+        "ID": "furious-7"
+    },
+    {
+        "ListNumber": 30,
+        "Title": "The Chronicles of Narnia: Prince Caspian",
+        "Year": "2008",
+        "ID": "the-chronicles-of-narnia-prince-caspian"
+    },
+    {
+        "ListNumber": 31,
+        "Title": "X-Men: The Last Stand",
+        "Year": "2006",
+        "ID": "x-men-the-last-stand"
+    },
+    {
+        "ListNumber": 32,
+        "Title": "Beauty and the Beast",
+        "Year": "2017",
+        "ID": "beauty-and-the-beast-2017"
+    },
+    {
+        "ListNumber": 33,
+        "Title": "Spectre",
+        "Year": "2015",
+        "ID": "spectre-2015"
+    },
+    {
+        "ListNumber": 34,
+        "Title": "Wild Wild West",
+        "Year": "1999",
+        "ID": "wild-wild-west"
+    },
+    {
+        "ListNumber": 35,
+        "Title": "The Fate of the Furious",
+        "Year": "2017",
+        "ID": "the-fate-of-the-furious"
+    },
+    {
+        "ListNumber": 36,
+        "Title": "The Electric State",
+        "Year": "2025",
+        "ID": "the-electric-state"
+    },
+    {
+        "ListNumber": 37,
+        "Title": "Cleopatra",
+        "Year": "1963",
+        "ID": "cleopatra-1963"
+    },
+    {
+        "ListNumber": 38,
+        "Title": "Superman Returns",
+        "Year": "2006",
+        "ID": "superman-returns"
+    },
+    {
+        "ListNumber": 39,
+        "Title": "The Marvels",
+        "Year": "2023",
+        "ID": "the-marvels"
+    },
+    {
+        "ListNumber": 40,
+        "Title": "The Dark Knight Rises",
+        "Year": "2012",
+        "ID": "the-dark-knight-rises"
+    },
+    {
+        "ListNumber": 41,
+        "Title": "The Lion King",
+        "Year": "2019",
+        "ID": "the-lion-king-2019"
+    },
+    {
+        "ListNumber": 42,
+        "Title": "Rogue One: A Star Wars Story",
+        "Year": "2016",
+        "ID": "rogue-one-a-star-wars-story"
+    },
+    {
+        "ListNumber": 43,
+        "Title": "The Lone Ranger",
+        "Year": "2013",
+        "ID": "the-lone-ranger"
+    },
+    {
+        "ListNumber": 44,
+        "Title": "Man of Steel",
+        "Year": "2013",
+        "ID": "man-of-steel"
+    },
+    {
+        "ListNumber": 45,
+        "Title": "The Avengers",
+        "Year": "2012",
+        "ID": "the-avengers-2012"
+    },
+    {
+        "ListNumber": 46,
+        "Title": "Captain America: Civil War",
+        "Year": "2016",
+        "ID": "captain-america-civil-war"
+    },
+    {
+        "ListNumber": 47,
+        "Title": "Maleficent",
+        "Year": "2014",
+        "ID": "maleficent"
+    },
+    {
+        "ListNumber": 48,
+        "Title": "Mission: Impossible – The Final Reckoning",
+        "Year": "2025",
+        "ID": "mission-impossible-the-final-reckoning"
+    },
+    {
+        "ListNumber": 49,
+        "Title": "Mission: Impossible – Dead Reckoning",
+        "Year": "2023",
+        "ID": "mission-impossible-dead-reckoning"
+    },
+    {
+        "ListNumber": 50,
+        "Title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+        "Year": "2017",
+        "ID": "pirates-of-the-caribbean-dead-men-tell-no-tales"
+    },
+    {
+        "ListNumber": 51,
+        "Title": "Men in Black 3",
+        "Year": "2012",
+        "ID": "men-in-black-3"
+    },
+    {
+        "ListNumber": 52,
+        "Title": "Eternals",
+        "Year": "2021",
+        "ID": "eternals"
+    },
+    {
+        "ListNumber": 53,
+        "Title": "Transformers: Revenge of the Fallen",
+        "Year": "2009",
+        "ID": "transformers-revenge-of-the-fallen"
+    },
+    {
+        "ListNumber": 54,
+        "Title": "2012",
+        "Year": "2009",
+        "ID": "2012"
+    },
+    {
+        "ListNumber": 55,
+        "Title": "Terminator Salvation",
+        "Year": "2009",
+        "ID": "terminator-salvation"
+    },
+    {
+        "ListNumber": 56,
+        "Title": "The Hobbit: The Desolation of Smaug",
+        "Year": "2013",
+        "ID": "the-hobbit-the-desolation-of-smaug"
+    },
+    {
+        "ListNumber": 57,
+        "Title": "Quantum of Solace",
+        "Year": "2008",
+        "ID": "quantum-of-solace"
+    },
+    {
+        "ListNumber": 58,
+        "Title": "Troy",
+        "Year": "2004",
+        "ID": "troy"
+    },
+    {
+        "ListNumber": 59,
+        "Title": "Oz the Great and Powerful",
+        "Year": "2013",
+        "ID": "oz-the-great-and-powerful"
+    },
+    {
+        "ListNumber": 60,
+        "Title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "Year": "2005",
+        "ID": "the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe"
+    },
+    {
+        "ListNumber": 61,
+        "Title": "No Time to Die",
+        "Year": "2021",
+        "ID": "no-time-to-die-2021"
+    },
+    {
+        "ListNumber": 62,
+        "Title": "Toy Story 3",
+        "Year": "2010",
+        "ID": "toy-story-3"
+    },
+    {
+        "ListNumber": 63,
+        "Title": "Black Widow",
+        "Year": "2021",
+        "ID": "black-widow-2021"
+    },
+    {
+        "ListNumber": 64,
+        "Title": "Battleship",
+        "Year": "2012",
+        "ID": "battleship"
+    },
+    {
+        "ListNumber": 65,
+        "Title": "Terminator 3: Rise of the Machines",
+        "Year": "2003",
+        "ID": "terminator-3-rise-of-the-machines"
+    },
+    {
+        "ListNumber": 66,
+        "Title": "Green Lantern",
+        "Year": "2011",
+        "ID": "green-lantern"
+    },
+    {
+        "ListNumber": 67,
+        "Title": "Cars 2",
+        "Year": "2011",
+        "ID": "cars-2"
+    },
+    {
+        "ListNumber": 68,
+        "Title": "Transformers: Age of Extinction",
+        "Year": "2014",
+        "ID": "transformers-age-of-extinction"
+    },
+    {
+        "ListNumber": 69,
+        "Title": "Transformers: The Last Knight",
+        "Year": "2017",
+        "ID": "transformers-the-last-knight"
+    },
+    {
+        "ListNumber": 70,
+        "Title": "Dawn of the Planet of the Apes",
+        "Year": "2014",
+        "ID": "dawn-of-the-planet-of-the-apes"
+    },
+    {
+        "ListNumber": 71,
+        "Title": "The Hobbit: The Battle of the Five Armies",
+        "Year": "2014",
+        "ID": "the-hobbit-the-battle-of-the-five-armies"
+    },
+    {
+        "ListNumber": 72,
+        "Title": "The Amazing Spider-Man",
+        "Year": "2012",
+        "ID": "the-amazing-spider-man"
+    },
+    {
+        "ListNumber": 73,
+        "Title": "The Hobbit: An Unexpected Journey",
+        "Year": "2012",
+        "ID": "the-hobbit-an-unexpected-journey"
+    },
+    {
+        "ListNumber": 74,
+        "Title": "The Golden Compass",
+        "Year": "2007",
+        "ID": "the-golden-compass"
+    },
+    {
+        "ListNumber": 75,
+        "Title": "Transformers: Dark of the Moon",
+        "Year": "2011",
+        "ID": "transformers-dark-of-the-moon"
+    },
+    {
+        "ListNumber": 76,
+        "Title": "X-Men: Days of Future Past",
+        "Year": "2014",
+        "ID": "x-men-days-of-future-past"
+    },
+    {
+        "ListNumber": 77,
+        "Title": "Armageddon",
+        "Year": "1998",
+        "ID": "armageddon"
+    },
+    {
+        "ListNumber": 78,
+        "Title": "Indiana Jones and the Kingdom of the Crystal Skull",
+        "Year": "2008",
+        "ID": "indiana-jones-and-the-kingdom-of-the-crystal-skull"
+    },
+    {
+        "ListNumber": 79,
+        "Title": "The Dark Knight",
+        "Year": "2008",
+        "ID": "the-dark-knight"
+    },
+    {
+        "ListNumber": 80,
+        "Title": "Iron Man 3",
+        "Year": "2013",
+        "ID": "iron-man-3"
+    },
+    {
+        "ListNumber": 81,
+        "Title": "Monsters University",
+        "Year": "2013",
+        "ID": "monsters-university"
+    },
+    {
+        "ListNumber": 82,
+        "Title": "Thor: Love and Thunder",
+        "Year": "2022",
+        "ID": "thor-love-and-thunder"
+    },
+    {
+        "ListNumber": 83,
+        "Title": "Black Panther: Wakanda Forever",
+        "Year": "2022",
+        "ID": "black-panther-wakanda-forever"
+    },
+    {
+        "ListNumber": 84,
+        "Title": "Snow White",
+        "Year": "2025",
+        "ID": "snow-white-2025"
+    },
+    {
+        "ListNumber": 85,
+        "Title": "Van Helsing",
+        "Year": "2004",
+        "ID": "van-helsing"
+    },
+    {
+        "ListNumber": 86,
+        "Title": "The Polar Express",
+        "Year": "2004",
+        "ID": "the-polar-express"
+    },
+    {
+        "ListNumber": 87,
+        "Title": "The Amazing Spider-Man 2",
+        "Year": "2014",
+        "ID": "the-amazing-spider-man-2"
+    },
+    {
+        "ListNumber": 88,
+        "Title": "Exodus: Gods and Kings",
+        "Year": "2014",
+        "ID": "exodus-gods-and-kings"
+    },
+    {
+        "ListNumber": 89,
+        "Title": "Evan Almighty",
+        "Year": "2007",
+        "ID": "evan-almighty"
+    },
+    {
+        "ListNumber": 90,
+        "Title": "Superman",
+        "Year": "1978",
+        "ID": "superman"
+    },
+    {
+        "ListNumber": 91,
+        "Title": "WALL·E",
+        "Year": "2008",
+        "ID": "walle"
+    }
+]
