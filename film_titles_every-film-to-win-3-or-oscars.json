@@ -1,0 +1,972 @@
+[
+    {
+        "Title": "Titanic",
+        "Year": "1997",
+        "ID": "titanic-1997"
+    },
+    {
+        "Title": "Ben-Hur",
+        "Year": "1959",
+        "ID": "ben-hur-1959"
+    },
+    {
+        "Title": "West Side Story",
+        "Year": "1961",
+        "ID": "west-side-story"
+    },
+    {
+        "Title": "The English Patient",
+        "Year": "1996",
+        "ID": "the-english-patient"
+    },
+    {
+        "Title": "The Last Emperor",
+        "Year": "1987",
+        "ID": "the-last-emperor"
+    },
+    {
+        "Title": "Gigi",
+        "Year": "1958",
+        "ID": "gigi"
+    },
+    {
+        "Title": "Slumdog Millionaire",
+        "Year": "2008",
+        "ID": "slumdog-millionaire"
+    },
+    {
+        "Title": "Amadeus",
+        "Year": "1984",
+        "ID": "amadeus"
+    },
+    {
+        "Title": "Gandhi",
+        "Year": "1982",
+        "ID": "gandhi"
+    },
+    {
+        "Title": "Cabaret",
+        "Year": "1972",
+        "ID": "cabaret"
+    },
+    {
+        "Title": "From Here to Eternity",
+        "Year": "1953",
+        "ID": "from-here-to-eternity"
+    },
+    {
+        "Title": "Gone with the Wind",
+        "Year": "1939",
+        "ID": "gone-with-the-wind"
+    },
+    {
+        "Title": "My Fair Lady",
+        "Year": "1964",
+        "ID": "my-fair-lady"
+    },
+    {
+        "Title": "On the Waterfront",
+        "Year": "1954",
+        "ID": "on-the-waterfront"
+    },
+    {
+        "Title": "Oppenheimer",
+        "Year": "2023",
+        "ID": "oppenheimer-2023"
+    },
+    {
+        "Title": "Everything Everywhere All at Once",
+        "Year": "2022",
+        "ID": "everything-everywhere-all-at-once"
+    },
+    {
+        "Title": "Gravity",
+        "Year": "2013",
+        "ID": "gravity-2013"
+    },
+    {
+        "Title": "Shakespeare in Love",
+        "Year": "1998",
+        "ID": "shakespeare-in-love"
+    },
+    {
+        "Title": "Schindler's List",
+        "Year": "1993",
+        "ID": "schindlers-list"
+    },
+    {
+        "Title": "Dances with Wolves",
+        "Year": "1990",
+        "ID": "dances-with-wolves"
+    },
+    {
+        "Title": "Out of Africa",
+        "Year": "1985",
+        "ID": "out-of-africa"
+    },
+    {
+        "Title": "The Sting",
+        "Year": "1973",
+        "ID": "the-sting"
+    },
+    {
+        "Title": "Patton",
+        "Year": "1969",
+        "ID": "patton"
+    },
+    {
+        "Title": "The Best Years of Our Lives",
+        "Year": "1946",
+        "ID": "the-best-years-of-our-lives"
+    },
+    {
+        "Title": "The Bridge on the River Kwai",
+        "Year": "1957",
+        "ID": "the-bridge-on-the-river-kwai"
+    },
+    {
+        "Title": "Going My Way",
+        "Year": "1944",
+        "ID": "going-my-way"
+    },
+    {
+        "Title": "Lawrence of Arabia",
+        "Year": "1962",
+        "ID": "lawrence-of-arabia"
+    },
+    {
+        "Title": "Dune",
+        "Year": "2021",
+        "ID": "dune-2021"
+    },
+    {
+        "Title": "La La Land",
+        "Year": "2016",
+        "ID": "la-la-land"
+    },
+    {
+        "Title": "Mad Max: Fury Road",
+        "Year": "2015",
+        "ID": "mad-max-fury-road"
+    },
+    {
+        "Title": "The Hurt Locker",
+        "Year": "2008",
+        "ID": "the-hurt-locker"
+    },
+    {
+        "Title": "Chicago",
+        "Year": "2002",
+        "ID": "chicago"
+    },
+    {
+        "Title": "Forrest Gump",
+        "Year": "1994",
+        "ID": "forrest-gump"
+    },
+    {
+        "Title": "Star Wars",
+        "Year": "1977",
+        "ID": "star-wars"
+    },
+    {
+        "Title": "The Godfather Part II",
+        "Year": "1974",
+        "ID": "the-godfather-part-ii"
+    },
+    {
+        "Title": "A Man for All Seasons",
+        "Year": "1966",
+        "ID": "a-man-for-all-seasons"
+    },
+    {
+        "Title": "All About Eve",
+        "Year": "1950",
+        "ID": "all-about-eve"
+    },
+    {
+        "Title": "An American in Paris",
+        "Year": "1951",
+        "ID": "an-american-in-paris"
+    },
+    {
+        "Title": "Mrs. Miniver",
+        "Year": "1942",
+        "ID": "mrs-miniver"
+    },
+    {
+        "Title": "A Place in the Sun",
+        "Year": "1951",
+        "ID": "a-place-in-the-sun"
+    },
+    {
+        "Title": "The Artist",
+        "Year": "2011",
+        "ID": "the-artist"
+    },
+    {
+        "Title": "Hugo",
+        "Year": "2011",
+        "ID": "hugo"
+    },
+    {
+        "Title": "The Aviator",
+        "Year": "2004",
+        "ID": "the-aviator"
+    },
+    {
+        "Title": "Gladiator",
+        "Year": "2000",
+        "ID": "gladiator-2000"
+    },
+    {
+        "Title": "American Beauty",
+        "Year": "1999",
+        "ID": "american-beauty"
+    },
+    {
+        "Title": "Saving Private Ryan",
+        "Year": "1998",
+        "ID": "saving-private-ryan"
+    },
+    {
+        "Title": "Braveheart",
+        "Year": "1995",
+        "ID": "braveheart"
+    },
+    {
+        "Title": "The Silence of the Lambs",
+        "Year": "1991",
+        "ID": "the-silence-of-the-lambs"
+    },
+    {
+        "Title": "Terms of Endearment",
+        "Year": "1983",
+        "ID": "terms-of-endearment"
+    },
+    {
+        "Title": "Kramer vs. Kramer",
+        "Year": "1979",
+        "ID": "kramer-vs-kramer"
+    },
+    {
+        "Title": "The Deer Hunter",
+        "Year": "1978",
+        "ID": "the-deer-hunter"
+    },
+    {
+        "Title": "One Flew Over the Cuckoo's Nest",
+        "Year": "1975",
+        "ID": "one-flew-over-the-cuckoos-nest"
+    },
+    {
+        "Title": "The French Connection",
+        "Year": "1971",
+        "ID": "the-french-connection"
+    },
+    {
+        "Title": "Oliver!",
+        "Year": "1968",
+        "ID": "oliver"
+    },
+    {
+        "Title": "In the Heat of the Night",
+        "Year": "1967",
+        "ID": "in-the-heat-of-the-night"
+    },
+    {
+        "Title": "Who's Afraid of Virginia Woolf?",
+        "Year": "1966",
+        "ID": "whos-afraid-of-virginia-woolf"
+    },
+    {
+        "Title": "The Sound of Music",
+        "Year": "1965",
+        "ID": "the-sound-of-music"
+    },
+    {
+        "Title": "Doctor Zhivago",
+        "Year": "1965",
+        "ID": "doctor-zhivago"
+    },
+    {
+        "Title": "The Apartment",
+        "Year": "1960",
+        "ID": "the-apartment"
+    },
+    {
+        "Title": "Around the World in Eighty Days",
+        "Year": "1956",
+        "ID": "around-the-world-in-eighty-days"
+    },
+    {
+        "Title": "The Bad and the Beautiful",
+        "Year": "1952",
+        "ID": "the-bad-and-the-beautiful"
+    },
+    {
+        "Title": "How Green Was My Valley",
+        "Year": "1941",
+        "ID": "how-green-was-my-valley"
+    },
+    {
+        "Title": "It Happened One Night",
+        "Year": "1934",
+        "ID": "it-happened-one-night"
+    },
+    {
+        "Title": "The King and I",
+        "Year": "1956",
+        "ID": "the-king-and-i"
+    },
+    {
+        "Title": "Mary Poppins",
+        "Year": "1964",
+        "ID": "mary-poppins"
+    },
+    {
+        "Title": "Wilson",
+        "Year": "1944",
+        "ID": "wilson"
+    },
+    {
+        "Title": "Poor Things",
+        "Year": "2023",
+        "ID": "poor-things-2023"
+    },
+    {
+        "Title": "All Quiet on the Western Front",
+        "Year": "2022",
+        "ID": "all-quiet-on-the-western-front-2022"
+    },
+    {
+        "Title": "Parasite",
+        "Year": "2019",
+        "ID": "parasite-2019"
+    },
+    {
+        "Title": "Bohemian Rhapsody",
+        "Year": "2018",
+        "ID": "bohemian-rhapsody"
+    },
+    {
+        "Title": "The Shape of Water",
+        "Year": "2017",
+        "ID": "the-shape-of-water"
+    },
+    {
+        "Title": "Birdman or (The Unexpected Virtue of Ignorance)",
+        "Year": "2014",
+        "ID": "birdman-or-the-unexpected-virtue-of-ignorance"
+    },
+    {
+        "Title": "The Grand Budapest Hotel",
+        "Year": "2014",
+        "ID": "the-grand-budapest-hotel"
+    },
+    {
+        "Title": "Life of Pi",
+        "Year": "2012",
+        "ID": "life-of-pi"
+    },
+    {
+        "Title": "The King's Speech",
+        "Year": "2010",
+        "ID": "the-kings-speech"
+    },
+    {
+        "Title": "Inception",
+        "Year": "2010",
+        "ID": "inception"
+    },
+    {
+        "Title": "No Country for Old Men",
+        "Year": "2007",
+        "ID": "no-country-for-old-men"
+    },
+    {
+        "Title": "The Departed",
+        "Year": "2006",
+        "ID": "the-departed"
+    },
+    {
+        "Title": "Million Dollar Baby",
+        "Year": "2004",
+        "ID": "million-dollar-baby"
+    },
+    {
+        "Title": "A Beautiful Mind",
+        "Year": "2001",
+        "ID": "a-beautiful-mind"
+    },
+    {
+        "Title": "The Lord of the Rings: The Fellowship of the Ring",
+        "Year": "2001",
+        "ID": "the-lord-of-the-rings-the-fellowship-of-the-ring"
+    },
+    {
+        "Title": "Crouching Tiger, Hidden Dragon",
+        "Year": "2000",
+        "ID": "crouching-tiger-hidden-dragon"
+    },
+    {
+        "Title": "Traffic",
+        "Year": "2000",
+        "ID": "traffic"
+    },
+    {
+        "Title": "The Matrix",
+        "Year": "1999",
+        "ID": "the-matrix"
+    },
+    {
+        "Title": "Unforgiven",
+        "Year": "1992",
+        "ID": "unforgiven"
+    },
+    {
+        "Title": "Terminator 2: Judgment Day",
+        "Year": "1991",
+        "ID": "terminator-2-judgment-day"
+    },
+    {
+        "Title": "Driving Miss Daisy",
+        "Year": "1989",
+        "ID": "driving-miss-daisy"
+    },
+    {
+        "Title": "Rain Man",
+        "Year": "1988",
+        "ID": "rain-man"
+    },
+    {
+        "Title": "Platoon",
+        "Year": "1986",
+        "ID": "platoon"
+    },
+    {
+        "Title": "The Right Stuff",
+        "Year": "1983",
+        "ID": "the-right-stuff"
+    },
+    {
+        "Title": "Fanny and Alexander",
+        "Year": "1982",
+        "ID": "fanny-and-alexander"
+    },
+    {
+        "Title": "E.T. the Extra-Terrestrial",
+        "Year": "1982",
+        "ID": "et-the-extra-terrestrial"
+    },
+    {
+        "Title": "Chariots of Fire",
+        "Year": "1981",
+        "ID": "chariots-of-fire"
+    },
+    {
+        "Title": "Raiders of the Lost Ark",
+        "Year": "1981",
+        "ID": "raiders-of-the-lost-ark"
+    },
+    {
+        "Title": "Ordinary People",
+        "Year": "1980",
+        "ID": "ordinary-people"
+    },
+    {
+        "Title": "All That Jazz",
+        "Year": "1979",
+        "ID": "all-that-jazz"
+    },
+    {
+        "Title": "Annie Hall",
+        "Year": "1977",
+        "ID": "annie-hall"
+    },
+    {
+        "Title": "Network",
+        "Year": "1976",
+        "ID": "network"
+    },
+    {
+        "Title": "All the President's Men",
+        "Year": "1976",
+        "ID": "all-the-presidents-men"
+    },
+    {
+        "Title": "Barry Lyndon",
+        "Year": "1975",
+        "ID": "barry-lyndon"
+    },
+    {
+        "Title": "Butch Cassidy and the Sundance Kid",
+        "Year": "1969",
+        "ID": "butch-cassidy-and-the-sundance-kid"
+    },
+    {
+        "Title": "Anthony Adverse",
+        "Year": "1936",
+        "ID": "anthony-adverse"
+    },
+    {
+        "Title": "Cleopatra",
+        "Year": "1963",
+        "ID": "cleopatra-1963"
+    },
+    {
+        "Title": "Hamlet",
+        "Year": "1948",
+        "ID": "hamlet"
+    },
+    {
+        "Title": "The Heiress",
+        "Year": "1949",
+        "ID": "the-heiress"
+    },
+    {
+        "Title": "High Noon",
+        "Year": "1952",
+        "ID": "high-noon"
+    },
+    {
+        "Title": "The Informer",
+        "Year": "1935",
+        "ID": "the-informer"
+    },
+    {
+        "Title": "The Lost Weekend",
+        "Year": "1945",
+        "ID": "the-lost-weekend"
+    },
+    {
+        "Title": "Marty",
+        "Year": "1955",
+        "ID": "marty"
+    },
+    {
+        "Title": "Sayonara",
+        "Year": "1957",
+        "ID": "sayonara"
+    },
+    {
+        "Title": "The Song of Bernadette",
+        "Year": "1943",
+        "ID": "the-song-of-bernadette"
+    },
+    {
+        "Title": "Spartacus",
+        "Year": "1960",
+        "ID": "spartacus"
+    },
+    {
+        "Title": "A Streetcar Named Desire",
+        "Year": "1951",
+        "ID": "a-streetcar-named-desire"
+    },
+    {
+        "Title": "Tom Jones",
+        "Year": "1963",
+        "ID": "tom-jones"
+    },
+    {
+        "Title": "CODA",
+        "Year": "2021",
+        "ID": "coda-2021"
+    },
+    {
+        "Title": "Nomadland",
+        "Year": "2020",
+        "ID": "nomadland"
+    },
+    {
+        "Title": "1917",
+        "Year": "2019",
+        "ID": "1917"
+    },
+    {
+        "Title": "Green Book",
+        "Year": "2018",
+        "ID": "green-book"
+    },
+    {
+        "Title": "Roma",
+        "Year": "2018",
+        "ID": "roma-2018"
+    },
+    {
+        "Title": "Black Panther",
+        "Year": "2018",
+        "ID": "black-panther"
+    },
+    {
+        "Title": "Dunkirk",
+        "Year": "2017",
+        "ID": "dunkirk-2017"
+    },
+    {
+        "Title": "Moonlight",
+        "Year": "2016",
+        "ID": "moonlight-2016"
+    },
+    {
+        "Title": "The Revenant",
+        "Year": "2015",
+        "ID": "the-revenant-2015"
+    },
+    {
+        "Title": "Whiplash",
+        "Year": "2014",
+        "ID": "whiplash-2014"
+    },
+    {
+        "Title": "12 Years a Slave",
+        "Year": "2013",
+        "ID": "12-years-a-slave"
+    },
+    {
+        "Title": "Dallas Buyers Club",
+        "Year": "2013",
+        "ID": "dallas-buyers-club"
+    },
+    {
+        "Title": "Argo",
+        "Year": "2012",
+        "ID": "argo"
+    },
+    {
+        "Title": "Les Misérables",
+        "Year": "2012",
+        "ID": "les-miserables-2012"
+    },
+    {
+        "Title": "The Social Network",
+        "Year": "2010",
+        "ID": "the-social-network"
+    },
+    {
+        "Title": "Avatar",
+        "Year": "2009",
+        "ID": "avatar"
+    },
+    {
+        "Title": "The Curious Case of Benjamin Button",
+        "Year": "2008",
+        "ID": "the-curious-case-of-benjamin-button"
+    },
+    {
+        "Title": "The Bourne Ultimatum",
+        "Year": "2007",
+        "ID": "the-bourne-ultimatum"
+    },
+    {
+        "Title": "Pan's Labyrinth",
+        "Year": "2006",
+        "ID": "pans-labyrinth"
+    },
+    {
+        "Title": "Crash",
+        "Year": "2004",
+        "ID": "crash-2004"
+    },
+    {
+        "Title": "Brokeback Mountain",
+        "Year": "2005",
+        "ID": "brokeback-mountain"
+    },
+    {
+        "Title": "Memoirs of a Geisha",
+        "Year": "2005",
+        "ID": "memoirs-of-a-geisha"
+    },
+    {
+        "Title": "King Kong",
+        "Year": "2005",
+        "ID": "king-kong-2005"
+    },
+    {
+        "Title": "The Pianist",
+        "Year": "2002",
+        "ID": "the-pianist"
+    },
+    {
+        "Title": "Life Is Beautiful",
+        "Year": "1997",
+        "ID": "life-is-beautiful"
+    },
+    {
+        "Title": "The Piano",
+        "Year": "1993",
+        "ID": "the-piano"
+    },
+    {
+        "Title": "Jurassic Park",
+        "Year": "1993",
+        "ID": "jurassic-park"
+    },
+    {
+        "Title": "Howards End",
+        "Year": "1992",
+        "ID": "howards-end"
+    },
+    {
+        "Title": "Bram Stoker's Dracula",
+        "Year": "1992",
+        "ID": "bram-stokers-dracula"
+    },
+    {
+        "Title": "Dick Tracy",
+        "Year": "1990",
+        "ID": "dick-tracy"
+    },
+    {
+        "Title": "Glory",
+        "Year": "1989",
+        "ID": "glory"
+    },
+    {
+        "Title": "Dangerous Liaisons",
+        "Year": "1988",
+        "ID": "dangerous-liaisons"
+    },
+    {
+        "Title": "Who Framed Roger Rabbit",
+        "Year": "1988",
+        "ID": "who-framed-roger-rabbit"
+    },
+    {
+        "Title": "Moonstruck",
+        "Year": "1987",
+        "ID": "moonstruck"
+    },
+    {
+        "Title": "A Room with a View",
+        "Year": "1986",
+        "ID": "a-room-with-a-view"
+    },
+    {
+        "Title": "Hannah and Her Sisters",
+        "Year": "1986",
+        "ID": "hannah-and-her-sisters"
+    },
+    {
+        "Title": "The Killing Fields",
+        "Year": "1984",
+        "ID": "the-killing-fields"
+    },
+    {
+        "Title": "Reds",
+        "Year": "1981",
+        "ID": "reds"
+    },
+    {
+        "Title": "On Golden Pond",
+        "Year": "1981",
+        "ID": "on-golden-pond"
+    },
+    {
+        "Title": "Tess",
+        "Year": "1979",
+        "ID": "tess"
+    },
+    {
+        "Title": "Coming Home",
+        "Year": "1978",
+        "ID": "coming-home"
+    },
+    {
+        "Title": "Julia",
+        "Year": "1977",
+        "ID": "julia"
+    },
+    {
+        "Title": "Jaws",
+        "Year": "1975",
+        "ID": "jaws"
+    },
+    {
+        "Title": "The Towering Inferno",
+        "Year": "1974",
+        "ID": "the-towering-inferno"
+    },
+    {
+        "Title": "The Godfather",
+        "Year": "1972",
+        "ID": "the-godfather"
+    },
+    {
+        "Title": "Fiddler on the Roof",
+        "Year": "1971",
+        "ID": "fiddler-on-the-roof"
+    },
+    {
+        "Title": "Midnight Cowboy",
+        "Year": "1969",
+        "ID": "midnight-cowboy"
+    },
+    {
+        "Title": "Hello, Dolly!",
+        "Year": "1969",
+        "ID": "hello-dolly"
+    },
+    {
+        "Title": "The Lion in Winter",
+        "Year": "1968",
+        "ID": "the-lion-in-winter"
+    },
+    {
+        "Title": "Camelot",
+        "Year": "1967",
+        "ID": "camelot"
+    },
+    {
+        "Title": "Grand Prix",
+        "Year": "1966",
+        "ID": "grand-prix"
+    },
+    {
+        "Title": "Darling",
+        "Year": "1965",
+        "ID": "darling"
+    },
+    {
+        "Title": "7th Heaven",
+        "Year": "1927",
+        "ID": "7th-heaven"
+    },
+    {
+        "Title": "The Adventures of Robin Hood",
+        "Year": "1938",
+        "ID": "the-adventures-of-robin-hood"
+    },
+    {
+        "Title": "All the King's Men",
+        "Year": "1949",
+        "ID": "all-the-kings-men"
+    },
+    {
+        "Title": "Casablanca",
+        "Year": "1942",
+        "ID": "casablanca"
+    },
+    {
+        "Title": "Cavalcade",
+        "Year": "1933",
+        "ID": "cavalcade"
+    },
+    {
+        "Title": "Cimarron",
+        "Year": "1931",
+        "ID": "cimarron"
+    },
+    {
+        "Title": "The Diary of Anne Frank",
+        "Year": "1959",
+        "ID": "the-diary-of-anne-frank"
+    },
+    {
+        "Title": "Elmer Gantry",
+        "Year": "1960",
+        "ID": "elmer-gantry"
+    },
+    {
+        "Title": "Gentleman's Agreement",
+        "Year": "1947",
+        "ID": "gentlemans-agreement"
+    },
+    {
+        "Title": "The Great Ziegfeld",
+        "Year": "1936",
+        "ID": "the-great-ziegfeld"
+    },
+    {
+        "Title": "How the West Was Won",
+        "Year": "1962",
+        "ID": "how-the-west-was-won"
+    },
+    {
+        "Title": "Hud",
+        "Year": "1963",
+        "ID": "hud"
+    },
+    {
+        "Title": "The Life of Emile Zola",
+        "Year": "1937",
+        "ID": "the-life-of-emile-zola"
+    },
+    {
+        "Title": "Love Is a Many-Splendored Thing",
+        "Year": "1955",
+        "ID": "love-is-a-many-splendored-thing"
+    },
+    {
+        "Title": "Miracle on 34th Street",
+        "Year": "1947",
+        "ID": "miracle-on-34th-street"
+    },
+    {
+        "Title": "Roman Holiday",
+        "Year": "1953",
+        "ID": "roman-holiday"
+    },
+    {
+        "Title": "The Rose Tattoo",
+        "Year": "1955",
+        "ID": "the-rose-tattoo"
+    },
+    {
+        "Title": "The Story of Louis Pasteur",
+        "Year": "1936",
+        "ID": "the-story-of-louis-pasteur"
+    },
+    {
+        "Title": "Sunrise: A Song of Two Humans",
+        "Year": "1927",
+        "ID": "sunrise-a-song-of-two-humans"
+    },
+    {
+        "Title": "Sunset Boulevard",
+        "Year": "1950",
+        "ID": "sunset-boulevard"
+    },
+    {
+        "Title": "The Thief of Bagdad",
+        "Year": "1940",
+        "ID": "the-thief-of-bagdad-1940"
+    },
+    {
+        "Title": "To Kill a Mockingbird",
+        "Year": "1962",
+        "ID": "to-kill-a-mockingbird"
+    },
+    {
+        "Title": "The Treasure of the Sierra Madre",
+        "Year": "1948",
+        "ID": "the-treasure-of-the-sierra-madre"
+    },
+    {
+        "Title": "Yankee Doodle Dandy",
+        "Year": "1942",
+        "ID": "yankee-doodle-dandy"
+    },
+    {
+        "Title": "Zorba the Greek",
+        "Year": "1964",
+        "ID": "zorba-the-greek"
+    },
+    {
+        "Title": "The Lord of the Rings: The Return of the King",
+        "Year": "2003",
+        "ID": "the-lord-of-the-rings-the-return-of-the-king"
+    },
+    {
+        "Title": "Anora",
+        "Year": "2024",
+        "ID": "anora"
+    },
+    {
+        "Title": "The Brutalist",
+        "Year": "2024",
+        "ID": "the-brutalist"
+    }
+]
