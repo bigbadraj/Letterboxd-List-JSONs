@@ -1,0 +1,602 @@
+[
+    {
+        "ListNumber": 1,
+        "Title": "Spider-Man: Across the Spider-Verse",
+        "Year": "2023",
+        "ID": "spider-man-across-the-spider-verse"
+    },
+    {
+        "ListNumber": 2,
+        "Title": "Do the Right Thing",
+        "Year": "1989",
+        "ID": "do-the-right-thing"
+    },
+    {
+        "ListNumber": 3,
+        "Title": "Spider-Man: Into the Spider-Verse",
+        "Year": "2018",
+        "ID": "spider-man-into-the-spider-verse"
+    },
+    {
+        "ListNumber": 4,
+        "Title": "Malcolm X",
+        "Year": "1992",
+        "ID": "malcolm-x-1992"
+    },
+    {
+        "ListNumber": 5,
+        "Title": "Moonlight",
+        "Year": "2016",
+        "ID": "moonlight-2016"
+    },
+    {
+        "ListNumber": 6,
+        "Title": "Who Killed Captain Alex?",
+        "Year": "2010",
+        "ID": "who-killed-captain-alex"
+    },
+    {
+        "ListNumber": 7,
+        "Title": "12 Years a Slave",
+        "Year": "2013",
+        "ID": "12-years-a-slave"
+    },
+    {
+        "ListNumber": 8,
+        "Title": "Get Out",
+        "Year": "2017",
+        "ID": "get-out-2017"
+    },
+    {
+        "ListNumber": 9,
+        "Title": "Sinners",
+        "Year": "2025",
+        "ID": "sinners-2025"
+    },
+    {
+        "ListNumber": 10,
+        "Title": "Mangrove",
+        "Year": "2020",
+        "ID": "mangrove-2020"
+    },
+    {
+        "ListNumber": 11,
+        "Title": "Camp de Thiaroye",
+        "Year": "1988",
+        "ID": "camp-de-thiaroye"
+    },
+    {
+        "ListNumber": 12,
+        "Title": "Black Girl",
+        "Year": "1966",
+        "ID": "black-girl-1966"
+    },
+    {
+        "ListNumber": 13,
+        "Title": "West Indies",
+        "Year": "1979",
+        "ID": "west-indies"
+    },
+    {
+        "ListNumber": 14,
+        "Title": "The Watermelon Woman",
+        "Year": "1996",
+        "ID": "the-watermelon-woman"
+    },
+    {
+        "ListNumber": 15,
+        "Title": "Boyz n the Hood",
+        "Year": "1991",
+        "ID": "boyz-n-the-hood"
+    },
+    {
+        "ListNumber": 16,
+        "Title": "Lovers Rock",
+        "Year": "2020",
+        "ID": "lovers-rock-2020"
+    },
+    {
+        "ListNumber": 17,
+        "Title": "Hyenas",
+        "Year": "1992",
+        "ID": "hyenas-1992"
+    },
+    {
+        "ListNumber": 18,
+        "Title": "This Is Not a Burial, It’s a Resurrection",
+        "Year": "2019",
+        "ID": "this-is-not-a-burial-its-a-resurrection"
+    },
+    {
+        "ListNumber": 19,
+        "Title": "Looking for Langston",
+        "Year": "1989",
+        "ID": "looking-for-langston"
+    },
+    {
+        "ListNumber": 20,
+        "Title": "Judas and the Black Messiah",
+        "Year": "2021",
+        "ID": "judas-and-the-black-messiah"
+    },
+    {
+        "ListNumber": 21,
+        "Title": "Oh, Sun",
+        "Year": "1970",
+        "ID": "oh-sun"
+    },
+    {
+        "ListNumber": 22,
+        "Title": "Pariah",
+        "Year": "2011",
+        "ID": "pariah"
+    },
+    {
+        "ListNumber": 23,
+        "Title": "Hunger",
+        "Year": "2008",
+        "ID": "hunger"
+    },
+    {
+        "ListNumber": 24,
+        "Title": "Black Dynamite",
+        "Year": "2009",
+        "ID": "black-dynamite"
+    },
+    {
+        "ListNumber": 25,
+        "Title": "Personal Problems",
+        "Year": "1980",
+        "ID": "personal-problems"
+    },
+    {
+        "ListNumber": 26,
+        "Title": "Training Day",
+        "Year": "2001",
+        "ID": "training-day"
+    },
+    {
+        "ListNumber": 27,
+        "Title": "Nickel Boys",
+        "Year": "2024",
+        "ID": "nickel-boys"
+    },
+    {
+        "ListNumber": 28,
+        "Title": "Compensation",
+        "Year": "1999",
+        "ID": "compensation-1999"
+    },
+    {
+        "ListNumber": 29,
+        "Title": "Moolaadé",
+        "Year": "2004",
+        "ID": "moolaade"
+    },
+    {
+        "ListNumber": 30,
+        "Title": "Killer of Sheep",
+        "Year": "1978",
+        "ID": "killer-of-sheep"
+    },
+    {
+        "ListNumber": 31,
+        "Title": "Chocolate Babies",
+        "Year": "1996",
+        "ID": "chocolate-babies"
+    },
+    {
+        "ListNumber": 32,
+        "Title": "Fruitvale Station",
+        "Year": "2013",
+        "ID": "fruitvale-station"
+    },
+    {
+        "ListNumber": 33,
+        "Title": "BlacKkKlansman",
+        "Year": "2018",
+        "ID": "blackkklansman"
+    },
+    {
+        "ListNumber": 34,
+        "Title": "The Little Girl Who Sold the Sun",
+        "Year": "1999",
+        "ID": "the-little-girl-who-sold-the-sun"
+    },
+    {
+        "ListNumber": 35,
+        "Title": "The Spook Who Sat by the Door",
+        "Year": "1973",
+        "ID": "the-spook-who-sat-by-the-door"
+    },
+    {
+        "ListNumber": 36,
+        "Title": "Soul",
+        "Year": "2020",
+        "ID": "soul-2020"
+    },
+    {
+        "ListNumber": 37,
+        "Title": "If Beale Street Could Talk",
+        "Year": "2018",
+        "ID": "if-beale-street-could-talk"
+    },
+    {
+        "ListNumber": 38,
+        "Title": "Goodbye Julia",
+        "Year": "2023",
+        "ID": "goodbye-julia"
+    },
+    {
+        "ListNumber": 39,
+        "Title": "Bush Mama",
+        "Year": "1979",
+        "ID": "bush-mama"
+    },
+    {
+        "ListNumber": 40,
+        "Title": "Bless Their Little Hearts",
+        "Year": "1983",
+        "ID": "bless-their-little-hearts"
+    },
+    {
+        "ListNumber": 41,
+        "Title": "Deep Cover",
+        "Year": "1992",
+        "ID": "deep-cover"
+    },
+    {
+        "ListNumber": 42,
+        "Title": "To Sleep with Anger",
+        "Year": "1990",
+        "ID": "to-sleep-with-anger"
+    },
+    {
+        "ListNumber": 43,
+        "Title": "Bad Black",
+        "Year": "2016",
+        "ID": "bad-black"
+    },
+    {
+        "ListNumber": 44,
+        "Title": "Menace II Society",
+        "Year": "1993",
+        "ID": "menace-ii-society"
+    },
+    {
+        "ListNumber": 45,
+        "Title": "Crooklyn",
+        "Year": "1994",
+        "ID": "crooklyn"
+    },
+    {
+        "ListNumber": 46,
+        "Title": "Rye Lane",
+        "Year": "2023",
+        "ID": "rye-lane"
+    },
+    {
+        "ListNumber": 47,
+        "Title": "Crazy World",
+        "Year": "2014",
+        "ID": "crazy-world-2014"
+    },
+    {
+        "ListNumber": 48,
+        "Title": "Emitaï",
+        "Year": "1971",
+        "ID": "emitai"
+    },
+    {
+        "ListNumber": 49,
+        "Title": "Mars One",
+        "Year": "2022",
+        "ID": "mars-one"
+    },
+    {
+        "ListNumber": 50,
+        "Title": "Drylongso",
+        "Year": "1998",
+        "ID": "drylongso"
+    },
+    {
+        "ListNumber": 51,
+        "Title": "Submarine",
+        "Year": "2010",
+        "ID": "submarine"
+    },
+    {
+        "ListNumber": 52,
+        "Title": "25th Hour",
+        "Year": "2002",
+        "ID": "25th-hour"
+    },
+    {
+        "ListNumber": 53,
+        "Title": "The Annihilation of Fish",
+        "Year": "1999",
+        "ID": "the-annihilation-of-fish"
+    },
+    {
+        "ListNumber": 54,
+        "Title": "Sambizanga",
+        "Year": "1972",
+        "ID": "sambizanga"
+    },
+    {
+        "ListNumber": 55,
+        "Title": "The Story of a Three-Day Pass",
+        "Year": "1967",
+        "ID": "the-story-of-a-three-day-pass"
+    },
+    {
+        "ListNumber": 56,
+        "Title": "Losing Ground",
+        "Year": "1982",
+        "ID": "losing-ground"
+    },
+    {
+        "ListNumber": 57,
+        "Title": "Bamboozled",
+        "Year": "2000",
+        "ID": "bamboozled"
+    },
+    {
+        "ListNumber": 58,
+        "Title": "Sometimes in April",
+        "Year": "2005",
+        "ID": "sometimes-in-april"
+    },
+    {
+        "ListNumber": 59,
+        "Title": "Touki Bouki",
+        "Year": "1973",
+        "ID": "touki-bouki"
+    },
+    {
+        "ListNumber": 60,
+        "Title": "I Am Not a Witch",
+        "Year": "2017",
+        "ID": "i-am-not-a-witch"
+    },
+    {
+        "ListNumber": 61,
+        "Title": "Paid in Full",
+        "Year": "2002",
+        "ID": "paid-in-full-2002"
+    },
+    {
+        "ListNumber": 62,
+        "Title": "Les Misérables",
+        "Year": "2019",
+        "ID": "les-miserables-2019"
+    },
+    {
+        "ListNumber": 63,
+        "Title": "Sidewalk Stories",
+        "Year": "1989",
+        "ID": "sidewalk-stories"
+    },
+    {
+        "ListNumber": 64,
+        "Title": "Sugar Cane Alley",
+        "Year": "1983",
+        "ID": "sugar-cane-alley"
+    },
+    {
+        "ListNumber": 65,
+        "Title": "Supa Modo",
+        "Year": "2018",
+        "ID": "supa-modo"
+    },
+    {
+        "ListNumber": 66,
+        "Title": "Education",
+        "Year": "2020",
+        "ID": "education-2020"
+    },
+    {
+        "ListNumber": 67,
+        "Title": "On the Count of Three",
+        "Year": "2021",
+        "ID": "on-the-count-of-three"
+    },
+    {
+        "ListNumber": 68,
+        "Title": "Red, White and Blue",
+        "Year": "2020",
+        "ID": "red-white-and-blue-2020"
+    },
+    {
+        "ListNumber": 69,
+        "Title": "Chameleon Street",
+        "Year": "1989",
+        "ID": "chameleon-street"
+    },
+    {
+        "ListNumber": 70,
+        "Title": "Muna Moto",
+        "Year": "1975",
+        "ID": "muna-moto"
+    },
+    {
+        "ListNumber": 71,
+        "Title": "Creed",
+        "Year": "2015",
+        "ID": "creed"
+    },
+    {
+        "ListNumber": 72,
+        "Title": "Pressure",
+        "Year": "1975",
+        "ID": "pressure-1975"
+    },
+    {
+        "ListNumber": 73,
+        "Title": "Coffee With Cinnamon",
+        "Year": "2017",
+        "ID": "coffee-with-cinnamon"
+    },
+    {
+        "ListNumber": 74,
+        "Title": "On Becoming a Guinea Fowl",
+        "Year": "2024",
+        "ID": "on-becoming-a-guinea-fowl"
+    },
+    {
+        "ListNumber": 75,
+        "Title": "Mandabi",
+        "Year": "1968",
+        "ID": "mandabi"
+    },
+    {
+        "ListNumber": 76,
+        "Title": "Straight Outta Compton",
+        "Year": "2015",
+        "ID": "straight-outta-compton"
+    },
+    {
+        "ListNumber": 77,
+        "Title": "Eve's Bayou",
+        "Year": "1997",
+        "ID": "eves-bayou"
+    },
+    {
+        "ListNumber": 78,
+        "Title": "Coach Carter",
+        "Year": "2005",
+        "ID": "coach-carter"
+    },
+    {
+        "ListNumber": 79,
+        "Title": "Love Jones",
+        "Year": "1997",
+        "ID": "love-jones"
+    },
+    {
+        "ListNumber": 80,
+        "Title": "Selma",
+        "Year": "2014",
+        "ID": "selma"
+    },
+    {
+        "ListNumber": 81,
+        "Title": "A Thousand and One",
+        "Year": "2023",
+        "ID": "a-thousand-and-one"
+    },
+    {
+        "ListNumber": 82,
+        "Title": "The Forty-Year-Old Version",
+        "Year": "2020",
+        "ID": "the-forty-year-old-version"
+    },
+    {
+        "ListNumber": 83,
+        "Title": "Shame",
+        "Year": "2011",
+        "ID": "shame-2011"
+    },
+    {
+        "ListNumber": 84,
+        "Title": "The Killing Floor",
+        "Year": "1984",
+        "ID": "the-killing-floor-1984"
+    },
+    {
+        "ListNumber": 85,
+        "Title": "Timbuktu",
+        "Year": "2014",
+        "ID": "timbuktu-2014"
+    },
+    {
+        "ListNumber": 86,
+        "Title": "Saint Omer",
+        "Year": "2022",
+        "ID": "saint-omer"
+    },
+    {
+        "ListNumber": 87,
+        "Title": "Mudbound",
+        "Year": "2017",
+        "ID": "mudbound"
+    },
+    {
+        "ListNumber": 88,
+        "Title": "Exhibiting Forgiveness",
+        "Year": "2024",
+        "ID": "exhibiting-forgiveness"
+    },
+    {
+        "ListNumber": 89,
+        "Title": "A Bruddah's Mind",
+        "Year": "2020",
+        "ID": "a-bruddahs-mind"
+    },
+    {
+        "ListNumber": 90,
+        "Title": "American Fiction",
+        "Year": "2023",
+        "ID": "american-fiction"
+    },
+    {
+        "ListNumber": 91,
+        "Title": "Bamako",
+        "Year": "2006",
+        "ID": "bamako"
+    },
+    {
+        "ListNumber": 92,
+        "Title": "Daughters of the Dust",
+        "Year": "1991",
+        "ID": "daughters-of-the-dust"
+    },
+    {
+        "ListNumber": 93,
+        "Title": "Sorry to Bother You",
+        "Year": "2018",
+        "ID": "sorry-to-bother-you"
+    },
+    {
+        "ListNumber": 94,
+        "Title": "One False Move",
+        "Year": "1991",
+        "ID": "one-false-move"
+    },
+    {
+        "ListNumber": 95,
+        "Title": "My Brother's Wedding",
+        "Year": "1983",
+        "ID": "my-brothers-wedding"
+    },
+    {
+        "ListNumber": 96,
+        "Title": "Eyimofe (This Is My Desire)",
+        "Year": "2020",
+        "ID": "eyimofe-this-is-my-desire"
+    },
+    {
+        "ListNumber": 97,
+        "Title": "Yaaba",
+        "Year": "1989",
+        "ID": "yaaba"
+    },
+    {
+        "ListNumber": 98,
+        "Title": "Set It Off",
+        "Year": "1996",
+        "ID": "set-it-off"
+    },
+    {
+        "ListNumber": 99,
+        "Title": "Le Franc",
+        "Year": "1994",
+        "ID": "le-franc"
+    },
+    {
+        "ListNumber": 100,
+        "Title": "Watermelon Man",
+        "Year": "1970",
+        "ID": "watermelon-man"
+    }
+]
