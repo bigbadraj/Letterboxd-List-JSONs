@@ -1,0 +1,602 @@
+[
+    {
+        "ListNumber": 1,
+        "Title": "All That Jazz",
+        "Year": "1979",
+        "ID": "all-that-jazz"
+    },
+    {
+        "ListNumber": 2,
+        "Title": "Lawrence of Arabia",
+        "Year": "1962",
+        "ID": "lawrence-of-arabia"
+    },
+    {
+        "ListNumber": 3,
+        "Title": "Casablanca",
+        "Year": "1942",
+        "ID": "casablanca"
+    },
+    {
+        "ListNumber": 4,
+        "Title": "The Shawshank Redemption",
+        "Year": "1994",
+        "ID": "the-shawshank-redemption"
+    },
+    {
+        "ListNumber": 5,
+        "Title": "The Godfather",
+        "Year": "1972",
+        "ID": "the-godfather"
+    },
+    {
+        "ListNumber": 6,
+        "Title": "The Human Condition I: No Greater Love",
+        "Year": "1959",
+        "ID": "the-human-condition-i-no-greater-love"
+    },
+    {
+        "ListNumber": 7,
+        "Title": "The Tree of Life",
+        "Year": "2011",
+        "ID": "the-tree-of-life-2011"
+    },
+    {
+        "ListNumber": 8,
+        "Title": "The Godfather Part II",
+        "Year": "1974",
+        "ID": "the-godfather-part-ii"
+    },
+    {
+        "ListNumber": 9,
+        "Title": "Ikiru",
+        "Year": "1952",
+        "ID": "ikiru"
+    },
+    {
+        "ListNumber": 10,
+        "Title": "Lone Star",
+        "Year": "1996",
+        "ID": "lone-star-1996"
+    },
+    {
+        "ListNumber": 11,
+        "Title": "Citizen Kane",
+        "Year": "1941",
+        "ID": "citizen-kane"
+    },
+    {
+        "ListNumber": 12,
+        "Title": "Jaws",
+        "Year": "1975",
+        "ID": "jaws"
+    },
+    {
+        "ListNumber": 13,
+        "Title": "Come and See",
+        "Year": "1985",
+        "ID": "come-and-see"
+    },
+    {
+        "ListNumber": 14,
+        "Title": "Paris, Texas",
+        "Year": "1984",
+        "ID": "paris-texas"
+    },
+    {
+        "ListNumber": 15,
+        "Title": "Before Midnight",
+        "Year": "2013",
+        "ID": "before-midnight"
+    },
+    {
+        "ListNumber": 16,
+        "Title": "Before Sunset",
+        "Year": "2004",
+        "ID": "before-sunset"
+    },
+    {
+        "ListNumber": 17,
+        "Title": "Before Sunrise",
+        "Year": "1995",
+        "ID": "before-sunrise"
+    },
+    {
+        "ListNumber": 18,
+        "Title": "Rear Window",
+        "Year": "1954",
+        "ID": "rear-window"
+    },
+    {
+        "ListNumber": 19,
+        "Title": "Harakiri",
+        "Year": "1962",
+        "ID": "harakiri"
+    },
+    {
+        "ListNumber": 20,
+        "Title": "The Bridge on the River Kwai",
+        "Year": "1957",
+        "ID": "the-bridge-on-the-river-kwai"
+    },
+    {
+        "ListNumber": 21,
+        "Title": "Amadeus",
+        "Year": "1984",
+        "ID": "amadeus"
+    },
+    {
+        "ListNumber": 22,
+        "Title": "Badlands",
+        "Year": "1973",
+        "ID": "badlands"
+    },
+    {
+        "ListNumber": 23,
+        "Title": "Vertigo",
+        "Year": "1958",
+        "ID": "vertigo"
+    },
+    {
+        "ListNumber": 24,
+        "Title": "Apocalypse Now",
+        "Year": "1979",
+        "ID": "apocalypse-now"
+    },
+    {
+        "ListNumber": 25,
+        "Title": "The Thin Red Line",
+        "Year": "1998",
+        "ID": "the-thin-red-line"
+    },
+    {
+        "ListNumber": 26,
+        "Title": "Alien",
+        "Year": "1979",
+        "ID": "alien"
+    },
+    {
+        "ListNumber": 27,
+        "Title": "The Vietnam War",
+        "Year": "2017",
+        "ID": "the-vietnam-war"
+    },
+    {
+        "ListNumber": 28,
+        "Title": "All the President's Men",
+        "Year": "1976",
+        "ID": "all-the-presidents-men"
+    },
+    {
+        "ListNumber": 29,
+        "Title": "Judgment at Nuremberg",
+        "Year": "1961",
+        "ID": "judgment-at-nuremberg"
+    },
+    {
+        "ListNumber": 30,
+        "Title": "Don't Look Now",
+        "Year": "1973",
+        "ID": "dont-look-now"
+    },
+    {
+        "ListNumber": 31,
+        "Title": "Chinatown",
+        "Year": "1974",
+        "ID": "chinatown"
+    },
+    {
+        "ListNumber": 32,
+        "Title": "The Exorcist",
+        "Year": "1973",
+        "ID": "the-exorcist"
+    },
+    {
+        "ListNumber": 33,
+        "Title": "Searching for Bobby Fischer",
+        "Year": "1993",
+        "ID": "searching-for-bobby-fischer"
+    },
+    {
+        "ListNumber": 34,
+        "Title": "Never Look Away",
+        "Year": "2018",
+        "ID": "never-look-away"
+    },
+    {
+        "ListNumber": 35,
+        "Title": "Schindler's List",
+        "Year": "1993",
+        "ID": "schindlers-list"
+    },
+    {
+        "ListNumber": 36,
+        "Title": "The Natural",
+        "Year": "1984",
+        "ID": "the-natural"
+    },
+    {
+        "ListNumber": 37,
+        "Title": "The Night of the Hunter",
+        "Year": "1955",
+        "ID": "the-night-of-the-hunter"
+    },
+    {
+        "ListNumber": 38,
+        "Title": "Cool Hand Luke",
+        "Year": "1967",
+        "ID": "cool-hand-luke"
+    },
+    {
+        "ListNumber": 39,
+        "Title": "Quiz Show",
+        "Year": "1994",
+        "ID": "quiz-show"
+    },
+    {
+        "ListNumber": 40,
+        "Title": "Das Boot",
+        "Year": "1981",
+        "ID": "das-boot"
+    },
+    {
+        "ListNumber": 41,
+        "Title": "Boogie Nights",
+        "Year": "1997",
+        "ID": "boogie-nights"
+    },
+    {
+        "ListNumber": 42,
+        "Title": "Crouching Tiger, Hidden Dragon",
+        "Year": "2000",
+        "ID": "crouching-tiger-hidden-dragon"
+    },
+    {
+        "ListNumber": 43,
+        "Title": "The Hustler",
+        "Year": "1961",
+        "ID": "the-hustler"
+    },
+    {
+        "ListNumber": 44,
+        "Title": "Se7en",
+        "Year": "1995",
+        "ID": "se7en"
+    },
+    {
+        "ListNumber": 45,
+        "Title": "Fargo",
+        "Year": "1996",
+        "ID": "fargo"
+    },
+    {
+        "ListNumber": 46,
+        "Title": "Die Hard",
+        "Year": "1988",
+        "ID": "die-hard"
+    },
+    {
+        "ListNumber": 47,
+        "Title": "Glory",
+        "Year": "1989",
+        "ID": "glory"
+    },
+    {
+        "ListNumber": 48,
+        "Title": "Heat",
+        "Year": "1995",
+        "ID": "heat-1995"
+    },
+    {
+        "ListNumber": 49,
+        "Title": "Zodiac",
+        "Year": "2007",
+        "ID": "zodiac"
+    },
+    {
+        "ListNumber": 50,
+        "Title": "The Lives of Others",
+        "Year": "2006",
+        "ID": "the-lives-of-others"
+    },
+    {
+        "ListNumber": 51,
+        "Title": "GoodFellas",
+        "Year": "1990",
+        "ID": "goodfellas"
+    },
+    {
+        "ListNumber": 52,
+        "Title": "Field of Dreams",
+        "Year": "1989",
+        "ID": "field-of-dreams"
+    },
+    {
+        "ListNumber": 53,
+        "Title": "Babe",
+        "Year": "1995",
+        "ID": "babe"
+    },
+    {
+        "ListNumber": 54,
+        "Title": "Lady Vengeance",
+        "Year": "2005",
+        "ID": "lady-vengeance"
+    },
+    {
+        "ListNumber": 55,
+        "Title": "Oldboy",
+        "Year": "2003",
+        "ID": "oldboy"
+    },
+    {
+        "ListNumber": 56,
+        "Title": "Sympathy for Mr. Vengeance",
+        "Year": "2002",
+        "ID": "sympathy-for-mr-vengeance"
+    },
+    {
+        "ListNumber": 57,
+        "Title": "The Thing",
+        "Year": "1982",
+        "ID": "the-thing"
+    },
+    {
+        "ListNumber": 58,
+        "Title": "Scream",
+        "Year": "1996",
+        "ID": "scream"
+    },
+    {
+        "ListNumber": 59,
+        "Title": "Rudy",
+        "Year": "1993",
+        "ID": "rudy"
+    },
+    {
+        "ListNumber": 60,
+        "Title": "Aliens",
+        "Year": "1986",
+        "ID": "aliens"
+    },
+    {
+        "ListNumber": 61,
+        "Title": "Back to the Future",
+        "Year": "1985",
+        "ID": "back-to-the-future"
+    },
+    {
+        "ListNumber": 62,
+        "Title": "Dead Poets Society",
+        "Year": "1989",
+        "ID": "dead-poets-society"
+    },
+    {
+        "ListNumber": 63,
+        "Title": "Everything Everywhere All at Once",
+        "Year": "2022",
+        "ID": "everything-everywhere-all-at-once"
+    },
+    {
+        "ListNumber": 64,
+        "Title": "Fearless",
+        "Year": "1993",
+        "ID": "fearless"
+    },
+    {
+        "ListNumber": 65,
+        "Title": "The Fly",
+        "Year": "1986",
+        "ID": "the-fly-1986"
+    },
+    {
+        "ListNumber": 66,
+        "Title": "The Grey",
+        "Year": "2011",
+        "ID": "the-grey"
+    },
+    {
+        "ListNumber": 67,
+        "Title": "Ferris Bueller's Day Off",
+        "Year": "1986",
+        "ID": "ferris-buellers-day-off"
+    },
+    {
+        "ListNumber": 68,
+        "Title": "Interview with the Vampire",
+        "Year": "1994",
+        "ID": "interview-with-the-vampire"
+    },
+    {
+        "ListNumber": 69,
+        "Title": "JFK",
+        "Year": "1991",
+        "ID": "jfk"
+    },
+    {
+        "ListNumber": 70,
+        "Title": "Lake Mungo",
+        "Year": "2008",
+        "ID": "lake-mungo"
+    },
+    {
+        "ListNumber": 71,
+        "Title": "Eternal Sunshine of the Spotless Mind",
+        "Year": "2004",
+        "ID": "eternal-sunshine-of-the-spotless-mind"
+    },
+    {
+        "ListNumber": 72,
+        "Title": "Nosferatu the Vampyre",
+        "Year": "1979",
+        "ID": "nosferatu-the-vampyre"
+    },
+    {
+        "ListNumber": 73,
+        "Title": "A River Runs Through It",
+        "Year": "1992",
+        "ID": "a-river-runs-through-it"
+    },
+    {
+        "ListNumber": 74,
+        "Title": "Miller's Crossing",
+        "Year": "1990",
+        "ID": "millers-crossing"
+    },
+    {
+        "ListNumber": 75,
+        "Title": "The New World",
+        "Year": "2005",
+        "ID": "the-new-world"
+    },
+    {
+        "ListNumber": 76,
+        "Title": "Once Upon a Time in America",
+        "Year": "1984",
+        "ID": "once-upon-a-time-in-america"
+    },
+    {
+        "ListNumber": 77,
+        "Title": "Memories of Murder",
+        "Year": "2003",
+        "ID": "memories-of-murder"
+    },
+    {
+        "ListNumber": 78,
+        "Title": "The Shining",
+        "Year": "1980",
+        "ID": "the-shining"
+    },
+    {
+        "ListNumber": 79,
+        "Title": "The Good, the Bad and the Ugly",
+        "Year": "1966",
+        "ID": "the-good-the-bad-and-the-ugly"
+    },
+    {
+        "ListNumber": 80,
+        "Title": "One Flew Over the Cuckoo's Nest",
+        "Year": "1975",
+        "ID": "one-flew-over-the-cuckoos-nest"
+    },
+    {
+        "ListNumber": 81,
+        "Title": "The Others",
+        "Year": "2001",
+        "ID": "the-others"
+    },
+    {
+        "ListNumber": 82,
+        "Title": "Wings of Desire",
+        "Year": "1987",
+        "ID": "wings-of-desire"
+    },
+    {
+        "ListNumber": 83,
+        "Title": "The Silence of the Lambs",
+        "Year": "1991",
+        "ID": "the-silence-of-the-lambs"
+    },
+    {
+        "ListNumber": 84,
+        "Title": "Stand by Me",
+        "Year": "1986",
+        "ID": "stand-by-me"
+    },
+    {
+        "ListNumber": 85,
+        "Title": "Unforgiven",
+        "Year": "1992",
+        "ID": "unforgiven"
+    },
+    {
+        "ListNumber": 86,
+        "Title": "Pig",
+        "Year": "2021",
+        "ID": "pig-2021"
+    },
+    {
+        "ListNumber": 87,
+        "Title": "Possession",
+        "Year": "1981",
+        "ID": "possession"
+    },
+    {
+        "ListNumber": 88,
+        "Title": "The Princess Bride",
+        "Year": "1987",
+        "ID": "the-princess-bride"
+    },
+    {
+        "ListNumber": 89,
+        "Title": "The Sweet Hereafter",
+        "Year": "1997",
+        "ID": "the-sweet-hereafter"
+    },
+    {
+        "ListNumber": 90,
+        "Title": "Society of the Snow",
+        "Year": "2023",
+        "ID": "society-of-the-snow"
+    },
+    {
+        "ListNumber": 91,
+        "Title": "You Can Count on Me",
+        "Year": "2000",
+        "ID": "you-can-count-on-me"
+    },
+    {
+        "ListNumber": 92,
+        "Title": "In America",
+        "Year": "2002",
+        "ID": "in-america"
+    },
+    {
+        "ListNumber": 93,
+        "Title": "Past Lives",
+        "Year": "2023",
+        "ID": "past-lives"
+    },
+    {
+        "ListNumber": 94,
+        "Title": "The Usual Suspects",
+        "Year": "1995",
+        "ID": "the-usual-suspects"
+    },
+    {
+        "ListNumber": 95,
+        "Title": "Terminator 2: Judgment Day",
+        "Year": "1991",
+        "ID": "terminator-2-judgment-day"
+    },
+    {
+        "ListNumber": 96,
+        "Title": "The Brutalist",
+        "Year": "2024",
+        "ID": "the-brutalist"
+    },
+    {
+        "ListNumber": 97,
+        "Title": "Munich",
+        "Year": "2005",
+        "ID": "munich"
+    },
+    {
+        "ListNumber": 98,
+        "Title": "A Tale of Two Sisters",
+        "Year": "2003",
+        "ID": "a-tale-of-two-sisters"
+    },
+    {
+        "ListNumber": 99,
+        "Title": "Letters from Iwo Jima",
+        "Year": "2006",
+        "ID": "letters-from-iwo-jima"
+    },
+    {
+        "ListNumber": 100,
+        "Title": "In the Mood for Love",
+        "Year": "2000",
+        "ID": "in-the-mood-for-love"
+    }
+]
