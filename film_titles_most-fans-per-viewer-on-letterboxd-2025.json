@@ -1,0 +1,602 @@
+[
+  {
+    "ListNumber": 1,
+    "Title": "All About Lily Chou-Chou",
+    "Year": "2001",
+    "ID": "all-about-lily-chou-chou"
+  },
+  {
+    "ListNumber": 2,
+    "Title": "Kamikaze Girls",
+    "Year": "2004",
+    "ID": "kamikaze-girls"
+  },
+  {
+    "ListNumber": 3,
+    "Title": "Love Exposure",
+    "Year": "2008",
+    "ID": "love-exposure"
+  },
+  {
+    "ListNumber": 4,
+    "Title": "Ritual",
+    "Year": "2000",
+    "ID": "ritual-2000"
+  },
+  {
+    "ListNumber": 5,
+    "Title": "Better Days",
+    "Year": "2019",
+    "ID": "better-days-2019"
+  },
+  {
+    "ListNumber": 6,
+    "Title": "Zero Day",
+    "Year": "2002",
+    "ID": "zero-day"
+  },
+  {
+    "ListNumber": 7,
+    "Title": "As I Was Moving Ahead, Occasionally I Saw Brief Glimpses of Beauty",
+    "Year": "2000",
+    "ID": "as-i-was-moving-ahead-occasionally-i-saw"
+  },
+  {
+    "ListNumber": 8,
+    "Title": "Swing Girls",
+    "Year": "2004",
+    "ID": "swing-girls"
+  },
+  {
+    "ListNumber": 9,
+    "Title": "Manic",
+    "Year": "2001",
+    "ID": "manic"
+  },
+  {
+    "ListNumber": 10,
+    "Title": "My Suicide",
+    "Year": "2009",
+    "ID": "my-suicide"
+  },
+  {
+    "ListNumber": 11,
+    "Title": "Vada Chennai",
+    "Year": "2018",
+    "ID": "vada-chennai"
+  },
+  {
+    "ListNumber": 12,
+    "Title": "One Million Yen Girl",
+    "Year": "2008",
+    "ID": "one-million-yen-girl"
+  },
+  {
+    "ListNumber": 13,
+    "Title": "Dead Poets Society",
+    "Year": "1989",
+    "ID": "dead-poets-society"
+  },
+  {
+    "ListNumber": 14,
+    "Title": "Pyaasa",
+    "Year": "1957",
+    "ID": "pyaasa"
+  },
+  {
+    "ListNumber": 15,
+    "Title": "Your Name Engraved Herein",
+    "Year": "2020",
+    "ID": "your-name-engraved-herein"
+  },
+  {
+    "ListNumber": 16,
+    "Title": "Cinema Paradiso",
+    "Year": "1988",
+    "ID": "cinema-paradiso"
+  },
+  {
+    "ListNumber": 17,
+    "Title": "La Haine",
+    "Year": "1995",
+    "ID": "la-haine"
+  },
+  {
+    "ListNumber": 18,
+    "Title": "My Sweet Orange Tree",
+    "Year": "2013",
+    "ID": "my-sweet-orange-tree-2013"
+  },
+  {
+    "ListNumber": 19,
+    "Title": "Helter Skelter",
+    "Year": "2012",
+    "ID": "helter-skelter-2012"
+  },
+  {
+    "ListNumber": 20,
+    "Title": "Central Station",
+    "Year": "1998",
+    "ID": "central-station"
+  },
+  {
+    "ListNumber": 21,
+    "Title": "Jersey",
+    "Year": "2019",
+    "ID": "jersey"
+  },
+  {
+    "ListNumber": 22,
+    "Title": "Pride & Prejudice",
+    "Year": "2005",
+    "ID": "pride-prejudice"
+  },
+  {
+    "ListNumber": 23,
+    "Title": "Falling in Love Like in Movies",
+    "Year": "2023",
+    "ID": "falling-in-love-like-in-movies"
+  },
+  {
+    "ListNumber": 24,
+    "Title": "Paris, Texas",
+    "Year": "1984",
+    "ID": "paris-texas"
+  },
+  {
+    "ListNumber": 25,
+    "Title": "Anbe Sivam",
+    "Year": "2003",
+    "ID": "anbe-sivam"
+  },
+  {
+    "ListNumber": 26,
+    "Title": "Soulmate",
+    "Year": "2023",
+    "ID": "soulmate-2023"
+  },
+  {
+    "ListNumber": 27,
+    "Title": "Interstellar",
+    "Year": "2014",
+    "ID": "interstellar"
+  },
+  {
+    "ListNumber": 28,
+    "Title": "Yi Yi",
+    "Year": "2000",
+    "ID": "yi-yi"
+  },
+  {
+    "ListNumber": 29,
+    "Title": "Sidewalls",
+    "Year": "2011",
+    "ID": "sidewalls"
+  },
+  {
+    "ListNumber": 30,
+    "Title": "Portrait of a Lady on Fire",
+    "Year": "2019",
+    "ID": "portrait-of-a-lady-on-fire"
+  },
+  {
+    "ListNumber": 31,
+    "Title": "The Best of Youth",
+    "Year": "2003",
+    "ID": "the-best-of-youth"
+  },
+  {
+    "ListNumber": 32,
+    "Title": "Like Minds",
+    "Year": "2006",
+    "ID": "like-minds"
+  },
+  {
+    "ListNumber": 33,
+    "Title": "Waves",
+    "Year": "2019",
+    "ID": "waves-2019"
+  },
+  {
+    "ListNumber": 34,
+    "Title": "Parachute",
+    "Year": "2023",
+    "ID": "parachute-2023"
+  },
+  {
+    "ListNumber": 35,
+    "Title": "La La Land",
+    "Year": "2016",
+    "ID": "la-la-land"
+  },
+  {
+    "ListNumber": 36,
+    "Title": "Twin Peaks: Fire Walk with Me",
+    "Year": "1992",
+    "ID": "twin-peaks-fire-walk-with-me"
+  },
+  {
+    "ListNumber": 37,
+    "Title": "The Fall",
+    "Year": "2006",
+    "ID": "the-fall"
+  },
+  {
+    "ListNumber": 38,
+    "Title": "Sore: Wife From The Future",
+    "Year": "2025",
+    "ID": "sore-wife-from-the-future"
+  },
+  {
+    "ListNumber": 39,
+    "Title": "I Dream in Another Language",
+    "Year": "2017",
+    "ID": "i-dream-in-another-language"
+  },
+  {
+    "ListNumber": 40,
+    "Title": "The Man Who Sleeps",
+    "Year": "1974",
+    "ID": "the-man-who-sleeps"
+  },
+  {
+    "ListNumber": 41,
+    "Title": "In the Mood for Love",
+    "Year": "2000",
+    "ID": "in-the-mood-for-love"
+  },
+  {
+    "ListNumber": 42,
+    "Title": "Blue Spring",
+    "Year": "2001",
+    "ID": "blue-spring"
+  },
+  {
+    "ListNumber": 43,
+    "Title": "Aftersun",
+    "Year": "2022",
+    "ID": "aftersun"
+  },
+  {
+    "ListNumber": 44,
+    "Title": "Monster",
+    "Year": "2023",
+    "ID": "monster-2023"
+  },
+  {
+    "ListNumber": 45,
+    "Title": "Jack and the Cuckoo-Clock Heart",
+    "Year": "2013",
+    "ID": "jack-and-the-cuckoo-clock-heart"
+  },
+  {
+    "ListNumber": 46,
+    "Title": "Güeros",
+    "Year": "2014",
+    "ID": "gueros"
+  },
+  {
+    "ListNumber": 47,
+    "Title": "Before Sunrise",
+    "Year": "1995",
+    "ID": "before-sunrise"
+  },
+  {
+    "ListNumber": 48,
+    "Title": "Mysterious Skin",
+    "Year": "2004",
+    "ID": "mysterious-skin"
+  },
+  {
+    "ListNumber": 49,
+    "Title": "The Man from the Future",
+    "Year": "2011",
+    "ID": "the-man-from-the-future"
+  },
+  {
+    "ListNumber": 50,
+    "Title": "Nowhere",
+    "Year": "1997",
+    "ID": "nowhere"
+  },
+  {
+    "ListNumber": 51,
+    "Title": "Neon Genesis Evangelion: The End of Evangelion",
+    "Year": "1997",
+    "ID": "neon-genesis-evangelion-the-end-of-evangelion"
+  },
+  {
+    "ListNumber": 52,
+    "Title": "Little Women",
+    "Year": "2019",
+    "ID": "little-women-2019"
+  },
+  {
+    "ListNumber": 53,
+    "Title": "Eternity and a Day",
+    "Year": "1998",
+    "ID": "eternity-and-a-day"
+  },
+  {
+    "ListNumber": 54,
+    "Title": "Drawing Closer",
+    "Year": "2024",
+    "ID": "drawing-closer"
+  },
+  {
+    "ListNumber": 55,
+    "Title": "Nayakan",
+    "Year": "1987",
+    "ID": "nayakan"
+  },
+  {
+    "ListNumber": 56,
+    "Title": "Young Hearts",
+    "Year": "2024",
+    "ID": "young-hearts-2024"
+  },
+  {
+    "ListNumber": 57,
+    "Title": "Himizu",
+    "Year": "2011",
+    "ID": "himizu"
+  },
+  {
+    "ListNumber": 58,
+    "Title": "Before the Fall",
+    "Year": "2004",
+    "ID": "before-the-fall"
+  },
+  {
+    "ListNumber": 59,
+    "Title": "Puella Magi Madoka Magica the Movie Part III: Rebellion",
+    "Year": "2013",
+    "ID": "puella-magi-madoka-magica-the-movie-part-iii-rebellion"
+  },
+  {
+    "ListNumber": 60,
+    "Title": "The Young Girls of Rochefort",
+    "Year": "1967",
+    "ID": "the-young-girls-of-rochefort"
+  },
+  {
+    "ListNumber": 61,
+    "Title": "Chungking Express",
+    "Year": "1994",
+    "ID": "chungking-express"
+  },
+  {
+    "ListNumber": 62,
+    "Title": "We All Loved Each Other So Much",
+    "Year": "1974",
+    "ID": "we-all-loved-each-other-so-much"
+  },
+  {
+    "ListNumber": 63,
+    "Title": "Eternal Sunshine of the Spotless Mind",
+    "Year": "2004",
+    "ID": "eternal-sunshine-of-the-spotless-mind"
+  },
+  {
+    "ListNumber": 64,
+    "Title": "Foreign Land",
+    "Year": "1995",
+    "ID": "foreign-land"
+  },
+  {
+    "ListNumber": 65,
+    "Title": "An Elephant Sitting Still",
+    "Year": "2018",
+    "ID": "an-elephant-sitting-still"
+  },
+  {
+    "ListNumber": 66,
+    "Title": "Love Letter",
+    "Year": "1995",
+    "ID": "love-letter"
+  },
+  {
+    "ListNumber": 67,
+    "Title": "Little Fish",
+    "Year": "2020",
+    "ID": "little-fish-2020"
+  },
+  {
+    "ListNumber": 68,
+    "Title": "City of God",
+    "Year": "2002",
+    "ID": "city-of-god"
+  },
+  {
+    "ListNumber": 69,
+    "Title": "The Taste of Tea",
+    "Year": "2004",
+    "ID": "the-taste-of-tea"
+  },
+  {
+    "ListNumber": 70,
+    "Title": "Fallen Angels",
+    "Year": "1995",
+    "ID": "fallen-angels"
+  },
+  {
+    "ListNumber": 71,
+    "Title": "Captains of the Sands",
+    "Year": "2011",
+    "ID": "captains-of-the-sands"
+  },
+  {
+    "ListNumber": 72,
+    "Title": "Super Deluxe",
+    "Year": "2019",
+    "ID": "super-deluxe"
+  },
+  {
+    "ListNumber": 73,
+    "Title": "Withnail & I",
+    "Year": "1987",
+    "ID": "withnail-i"
+  },
+  {
+    "ListNumber": 74,
+    "Title": "Elena",
+    "Year": "2012",
+    "ID": "elena-2013"
+  },
+  {
+    "ListNumber": 75,
+    "Title": "Linda Linda Linda",
+    "Year": "2005",
+    "ID": "linda-linda-linda"
+  },
+  {
+    "ListNumber": 76,
+    "Title": "Phantom of the Paradise",
+    "Year": "1974",
+    "ID": "phantom-of-the-paradise"
+  },
+  {
+    "ListNumber": 77,
+    "Title": "Stalker",
+    "Year": "1979",
+    "ID": "stalker"
+  },
+  {
+    "ListNumber": 78,
+    "Title": "Lilya 4-ever",
+    "Year": "2002",
+    "ID": "lilya-4-ever"
+  },
+  {
+    "ListNumber": 79,
+    "Title": "Almost Famous",
+    "Year": "2000",
+    "ID": "almost-famous"
+  },
+  {
+    "ListNumber": 80,
+    "Title": "Dinner in America",
+    "Year": "2020",
+    "ID": "dinner-in-america"
+  },
+  {
+    "ListNumber": 81,
+    "Title": "It's Such a Beautiful Day",
+    "Year": "2012",
+    "ID": "its-such-a-beautiful-day"
+  },
+  {
+    "ListNumber": 82,
+    "Title": "Mulholland Drive",
+    "Year": "2001",
+    "ID": "mulholland-drive"
+  },
+  {
+    "ListNumber": 83,
+    "Title": "Kumbalangi Nights",
+    "Year": "2019",
+    "ID": "kumbalangi-nights"
+  },
+  {
+    "ListNumber": 84,
+    "Title": "The Last 10 Years",
+    "Year": "2022",
+    "ID": "the-last-10-years"
+  },
+  {
+    "ListNumber": 85,
+    "Title": "I Believe in Unicorns",
+    "Year": "2014",
+    "ID": "i-believe-in-unicorns"
+  },
+  {
+    "ListNumber": 86,
+    "Title": "Farewell My Concubine",
+    "Year": "1993",
+    "ID": "farewell-my-concubine"
+  },
+  {
+    "ListNumber": 87,
+    "Title": "A Brighter Summer Day",
+    "Year": "1991",
+    "ID": "a-brighter-summer-day"
+  },
+  {
+    "ListNumber": 88,
+    "Title": "The Handmaiden",
+    "Year": "2016",
+    "ID": "the-handmaiden"
+  },
+  {
+    "ListNumber": 89,
+    "Title": "Perfect Days",
+    "Year": "2023",
+    "ID": "perfect-days-2023"
+  },
+  {
+    "ListNumber": 90,
+    "Title": "Wings of Desire",
+    "Year": "1987",
+    "ID": "wings-of-desire"
+  },
+  {
+    "ListNumber": 91,
+    "Title": "Us and Them",
+    "Year": "2018",
+    "ID": "us-and-them-2018"
+  },
+  {
+    "ListNumber": 92,
+    "Title": "Twenty Years Later",
+    "Year": "1984",
+    "ID": "twenty-years-later"
+  },
+  {
+    "ListNumber": 93,
+    "Title": "White Oleander",
+    "Year": "2002",
+    "ID": "white-oleander"
+  },
+  {
+    "ListNumber": 94,
+    "Title": "Bones and All",
+    "Year": "2022",
+    "ID": "bones-and-all"
+  },
+  {
+    "ListNumber": 95,
+    "Title": "About Time",
+    "Year": "2013",
+    "ID": "about-time"
+  },
+  {
+    "ListNumber": 96,
+    "Title": "Tales of an Immoral Couple",
+    "Year": "2016",
+    "ID": "tales-of-an-immoral-couple"
+  },
+  {
+    "ListNumber": 97,
+    "Title": "Lisbela and the Prisoner",
+    "Year": "2003",
+    "ID": "lisbela-and-the-prisoner"
+  },
+  {
+    "ListNumber": 98,
+    "Title": "Satantango",
+    "Year": "1994",
+    "ID": "satantango"
+  },
+  {
+    "ListNumber": 99,
+    "Title": "Imagine Me & You",
+    "Year": "2005",
+    "ID": "imagine-me-you"
+  },
+  {
+    "ListNumber": 100,
+    "Title": "Good Will Hunting",
+    "Year": "1997",
+    "ID": "good-will-hunting"
+  }
+]
