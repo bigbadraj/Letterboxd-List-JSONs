@@ -1,122 +1,452 @@
 [
     {
         "ListNumber": 1,
-        "Title": "Mysterious Skin",
-        "Year": "2004",
-        "ID": "mysterious-skin"
+        "Title": "The Lord of the Rings: The Return of the King",
+        "Year": "2003",
+        "ID": "the-lord-of-the-rings-the-return-of-the-king"
     },
     {
         "ListNumber": 2,
+        "Title": "The Lord of the Rings: The Two Towers",
+        "Year": "2002",
+        "ID": "the-lord-of-the-rings-the-two-towers"
+    },
+    {
+        "ListNumber": 3,
+        "Title": "The Lord of the Rings: The Fellowship of the Ring",
+        "Year": "2001",
+        "ID": "the-lord-of-the-rings-the-fellowship-of-the-ring"
+    },
+    {
+        "ListNumber": 4,
+        "Title": "Mary and Max",
+        "Year": "2009",
+        "ID": "mary-and-max"
+    },
+    {
+        "ListNumber": 5,
         "Title": "Threads",
         "Year": "1984",
         "ID": "threads"
     },
     {
-        "ListNumber": 3,
-        "Title": "Castration Movie Anthology i. Traps",
-        "Year": "2024",
-        "ID": "castration-movie-anthology-i-traps"
-    },
-    {
-        "ListNumber": 4,
-        "Title": "Midnight Cowboy",
-        "Year": "1969",
-        "ID": "midnight-cowboy"
-    },
-    {
-        "ListNumber": 5,
-        "Title": "A Clockwork Orange",
-        "Year": "1971",
-        "ID": "a-clockwork-orange"
-    },
-    {
         "ListNumber": 6,
-        "Title": "Santa Sangre",
-        "Year": "1989",
-        "ID": "santa-sangre"
+        "Title": "Mad Max: Fury Road",
+        "Year": "2015",
+        "ID": "mad-max-fury-road"
     },
     {
         "ListNumber": 7,
-        "Title": "El Infierno",
-        "Year": "2010",
-        "ID": "el-infierno"
+        "Title": "Memoir of a Snail",
+        "Year": "2024",
+        "ID": "memoir-of-a-snail"
     },
     {
         "ListNumber": 8,
-        "Title": "Lust, Caution",
-        "Year": "2007",
-        "ID": "lust-caution"
+        "Title": "What We Do in the Shadows",
+        "Year": "2014",
+        "ID": "what-we-do-in-the-shadows"
     },
     {
         "ListNumber": 9,
-        "Title": "Happiness",
-        "Year": "1998",
-        "ID": "happiness"
+        "Title": "Hunt for the Wilderpeople",
+        "Year": "2016",
+        "ID": "hunt-for-the-wilderpeople"
     },
     {
         "ListNumber": 10,
-        "Title": "Bad Education",
-        "Year": "2004",
-        "ID": "bad-education"
+        "Title": "Boy",
+        "Year": "2010",
+        "ID": "boy-2010"
     },
     {
         "ListNumber": 11,
-        "Title": "Female Trouble",
-        "Year": "1974",
-        "ID": "female-trouble"
+        "Title": "Jojo Rabbit",
+        "Year": "2019",
+        "ID": "jojo-rabbit"
     },
     {
         "ListNumber": 12,
-        "Title": "Law of Desire",
-        "Year": "1987",
-        "ID": "law-of-desire"
+        "Title": "Wake in Fright",
+        "Year": "1971",
+        "ID": "wake-in-fright"
     },
     {
         "ListNumber": 13,
-        "Title": "Man Bites Dog",
-        "Year": "1992",
-        "ID": "man-bites-dog"
+        "Title": "The Boys",
+        "Year": "1998",
+        "ID": "the-boys"
     },
     {
         "ListNumber": 14,
-        "Title": "Bad Lieutenant",
-        "Year": "1992",
-        "ID": "bad-lieutenant"
+        "Title": "Hacksaw Ridge",
+        "Year": "2016",
+        "ID": "hacksaw-ridge"
     },
     {
         "ListNumber": 15,
-        "Title": "Shame",
-        "Year": "2011",
-        "ID": "shame-2011"
+        "Title": "Boiling Point",
+        "Year": "2021",
+        "ID": "boiling-point-2021"
     },
     {
         "ListNumber": 16,
-        "Title": "Desperate Living",
-        "Year": "1977",
-        "ID": "desperate-living"
+        "Title": "Once Were Warriors",
+        "Year": "1994",
+        "ID": "once-were-warriors"
     },
     {
         "ListNumber": 17,
-        "Title": "Blind Beast",
-        "Year": "1969",
-        "ID": "blind-beast"
+        "Title": "Breaker Morant",
+        "Year": "1980",
+        "ID": "breaker-morant"
     },
     {
         "ListNumber": 18,
-        "Title": "The Bacchus Lady",
-        "Year": "2016",
-        "ID": "the-bacchus-lady"
+        "Title": "Braindead",
+        "Year": "1992",
+        "ID": "braindead-1992"
     },
     {
         "ListNumber": 19,
-        "Title": "Taxi zum Klo",
-        "Year": "1980",
-        "ID": "taxi-zum-klo"
+        "Title": "The Adventures of Priscilla, Queen of the Desert",
+        "Year": "1994",
+        "ID": "the-adventures-of-priscilla-queen-of-the-desert"
     },
     {
         "ListNumber": 20,
-        "Title": "Crash",
+        "Title": "The Lego Batman Movie",
+        "Year": "2017",
+        "ID": "the-lego-batman-movie"
+    },
+    {
+        "ListNumber": 21,
+        "Title": "Merry Christmas, Mr. Lawrence",
+        "Year": "1983",
+        "ID": "merry-christmas-mr-lawrence"
+    },
+    {
+        "ListNumber": 22,
+        "Title": "Until the End of the World",
+        "Year": "1991",
+        "ID": "until-the-end-of-the-world"
+    },
+    {
+        "ListNumber": 23,
+        "Title": "Lion",
+        "Year": "2016",
+        "ID": "lion"
+    },
+    {
+        "ListNumber": 24,
+        "Title": "Control",
+        "Year": "2007",
+        "ID": "control-2007"
+    },
+    {
+        "ListNumber": 25,
+        "Title": "Mad Max 2",
+        "Year": "1981",
+        "ID": "mad-max-2"
+    },
+    {
+        "ListNumber": 26,
+        "Title": "The Castle",
+        "Year": "1997",
+        "ID": "the-castle-1997"
+    },
+    {
+        "ListNumber": 27,
+        "Title": "An Angel at My Table",
+        "Year": "1990",
+        "ID": "an-angel-at-my-table"
+    },
+    {
+        "ListNumber": 28,
+        "Title": "The Piano",
+        "Year": "1993",
+        "ID": "the-piano"
+    },
+    {
+        "ListNumber": 29,
+        "Title": "The Secret Life of Walter Mitty",
+        "Year": "2013",
+        "ID": "the-secret-life-of-walter-mitty-2013"
+    },
+    {
+        "ListNumber": 30,
+        "Title": "The Lego Movie",
+        "Year": "2014",
+        "ID": "the-lego-movie"
+    },
+    {
+        "ListNumber": 31,
+        "Title": "Picnic at Hanging Rock",
+        "Year": "1975",
+        "ID": "picnic-at-hanging-rock"
+    },
+    {
+        "ListNumber": 32,
+        "Title": "My First Summer",
+        "Year": "2020",
+        "ID": "my-first-summer"
+    },
+    {
+        "ListNumber": 33,
+        "Title": "Tinā",
+        "Year": "2024",
+        "ID": "tina-2024-1"
+    },
+    {
+        "ListNumber": 34,
+        "Title": "Italian Spiderman",
+        "Year": "2007",
+        "ID": "italian-spiderman"
+    },
+    {
+        "ListNumber": 35,
+        "Title": "District 9",
+        "Year": "2009",
+        "ID": "district-9"
+    },
+    {
+        "ListNumber": 36,
+        "Title": "Cousins",
+        "Year": "2021",
+        "ID": "cousins-2021"
+    },
+    {
+        "ListNumber": 37,
+        "Title": "The Dark Horse",
+        "Year": "2014",
+        "ID": "the-dark-horse-2014"
+    },
+    {
+        "ListNumber": 38,
+        "Title": "Muriel's Wedding",
+        "Year": "1994",
+        "ID": "muriels-wedding"
+    },
+    {
+        "ListNumber": 39,
+        "Title": "Moulin Rouge!",
+        "Year": "2001",
+        "ID": "moulin-rouge-2001"
+    },
+    {
+        "ListNumber": 40,
+        "Title": "The Fringe Dwellers",
+        "Year": "1986",
+        "ID": "the-fringe-dwellers"
+    },
+    {
+        "ListNumber": 41,
+        "Title": "House of Flying Daggers",
+        "Year": "2004",
+        "ID": "house-of-flying-daggers"
+    },
+    {
+        "ListNumber": 42,
+        "Title": "Gallipoli",
+        "Year": "1981",
+        "ID": "gallipoli"
+    },
+    {
+        "ListNumber": 43,
+        "Title": "Furiosa: A Mad Max Saga",
+        "Year": "2024",
+        "ID": "furiosa-a-mad-max-saga"
+    },
+    {
+        "ListNumber": 44,
+        "Title": "Better Man",
+        "Year": "2024",
+        "ID": "better-man-2024"
+    },
+    {
+        "ListNumber": 45,
+        "Title": "Heavenly Creatures",
+        "Year": "1994",
+        "ID": "heavenly-creatures"
+    },
+    {
+        "ListNumber": 46,
+        "Title": "Lesbian Space Princess",
+        "Year": "2025",
+        "ID": "lesbian-space-princess"
+    },
+    {
+        "ListNumber": 47,
+        "Title": "The Proposition",
+        "Year": "2005",
+        "ID": "the-proposition-2005"
+    },
+    {
+        "ListNumber": 48,
+        "Title": "Strictly Ballroom",
+        "Year": "1992",
+        "ID": "strictly-ballroom"
+    },
+    {
+        "ListNumber": 49,
+        "Title": "Animal Kingdom",
+        "Year": "2010",
+        "ID": "animal-kingdom"
+    },
+    {
+        "ListNumber": 50,
+        "Title": "Candy",
+        "Year": "2006",
+        "ID": "candy-2006"
+    },
+    {
+        "ListNumber": 51,
+        "Title": "Babyteeth",
+        "Year": "2019",
+        "ID": "babyteeth"
+    },
+    {
+        "ListNumber": 52,
+        "Title": "Holding the Man",
+        "Year": "2015",
+        "ID": "holding-the-man"
+    },
+    {
+        "ListNumber": 53,
+        "Title": "One Life",
+        "Year": "2023",
+        "ID": "one-life-2023"
+    },
+    {
+        "ListNumber": 54,
+        "Title": "He Died with a Felafel in His Hand",
+        "Year": "2001",
+        "ID": "he-died-with-a-felafel-in-his-hand"
+    },
+    {
+        "ListNumber": 55,
+        "Title": "Bad Boy Bubby",
+        "Year": "1993",
+        "ID": "bad-boy-bubby"
+    },
+    {
+        "ListNumber": 56,
+        "Title": "Of an Age",
+        "Year": "2022",
+        "ID": "of-an-age"
+    },
+    {
+        "ListNumber": 57,
+        "Title": "Whale Rider",
+        "Year": "2002",
+        "ID": "whale-rider"
+    },
+    {
+        "ListNumber": 58,
+        "Title": "My Brilliant Career",
+        "Year": "1979",
+        "ID": "my-brilliant-career"
+    },
+    {
+        "ListNumber": 59,
+        "Title": "The Nightingale",
+        "Year": "2018",
+        "ID": "the-nightingale-2018"
+    },
+    {
+        "ListNumber": 60,
+        "Title": "Russian Doll",
+        "Year": "2001",
+        "ID": "russian-doll"
+    },
+    {
+        "ListNumber": 61,
+        "Title": "The Tracker",
+        "Year": "2002",
+        "ID": "the-tracker-2002"
+    },
+    {
+        "ListNumber": 62,
+        "Title": "The Year My Voice Broke",
+        "Year": "1987",
+        "ID": "the-year-my-voice-broke"
+    },
+    {
+        "ListNumber": 63,
+        "Title": "Charlie's Country",
+        "Year": "2013",
+        "ID": "charlies-country"
+    },
+    {
+        "ListNumber": 64,
+        "Title": "The Chant of Jimmie Blacksmith",
+        "Year": "1978",
+        "ID": "the-chant-of-jimmie-blacksmith"
+    },
+    {
+        "ListNumber": 65,
+        "Title": "Shine",
         "Year": "1996",
-        "ID": "crash"
+        "ID": "shine"
+    },
+    {
+        "ListNumber": 66,
+        "Title": "Ten Canoes",
+        "Year": "2006",
+        "ID": "ten-canoes"
+    },
+    {
+        "ListNumber": 67,
+        "Title": "A Goofy Movie",
+        "Year": "1995",
+        "ID": "a-goofy-movie"
+    },
+    {
+        "ListNumber": 68,
+        "Title": "Hotel Mumbai",
+        "Year": "2018",
+        "ID": "hotel-mumbai"
+    },
+    {
+        "ListNumber": 69,
+        "Title": "Bright Star",
+        "Year": "2009",
+        "ID": "bright-star"
+    },
+    {
+        "ListNumber": 70,
+        "Title": "Dark City",
+        "Year": "1998",
+        "ID": "dark-city-1998"
+    },
+    {
+        "ListNumber": 71,
+        "Title": "Buoyancy",
+        "Year": "2019",
+        "ID": "buoyancy"
+    },
+    {
+        "ListNumber": 72,
+        "Title": "Bring Her Back",
+        "Year": "2025",
+        "ID": "bring-her-back"
+    },
+    {
+        "ListNumber": 73,
+        "Title": "Mulan",
+        "Year": "1998",
+        "ID": "mulan-1998"
+    },
+    {
+        "ListNumber": 74,
+        "Title": "In My Father's Den",
+        "Year": "2004",
+        "ID": "in-my-fathers-den"
+    },
+    {
+        "ListNumber": 75,
+        "Title": "Forgotten Silver",
+        "Year": "1995",
+        "ID": "forgotten-silver"
     }
 ]
