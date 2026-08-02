@@ -1,5 +1,10 @@
 [
     {
+        "Title": "Interstellar",
+        "Year": "2014",
+        "ID": "interstellar"
+    },
+    {
         "Title": "Fight Club",
         "Year": "1999",
         "ID": "fight-club"
@@ -30,9 +35,19 @@
         "ID": "dead-poets-society"
     },
     {
+        "Title": "Oppenheimer",
+        "Year": "2023",
+        "ID": "oppenheimer-2023"
+    },
+    {
         "Title": "Eternal Sunshine of the Spotless Mind",
         "Year": "2004",
         "ID": "eternal-sunshine-of-the-spotless-mind"
+    },
+    {
+        "Title": "10 Things I Hate About You",
+        "Year": "1999",
+        "ID": "10-things-i-hate-about-you"
     },
     {
         "Title": "Joker",
@@ -50,6 +65,16 @@
         "ID": "american-psycho"
     },
     {
+        "Title": "The Wolf of Wall Street",
+        "Year": "2013",
+        "ID": "the-wolf-of-wall-street"
+    },
+    {
+        "Title": "Marty Supreme",
+        "Year": "2025",
+        "ID": "marty-supreme"
+    },
+    {
         "Title": "Forrest Gump",
         "Year": "1994",
         "ID": "forrest-gump"
@@ -60,6 +85,11 @@
         "ID": "good-will-hunting"
     },
     {
+        "Title": "The Grand Budapest Hotel",
+        "Year": "2014",
+        "ID": "the-grand-budapest-hotel"
+    },
+    {
         "Title": "The Perks of Being a Wallflower",
         "Year": "2012",
         "ID": "the-perks-of-being-a-wallflower"
@@ -68,6 +98,11 @@
         "Title": "Black Swan",
         "Year": "2010",
         "ID": "black-swan"
+    },
+    {
+        "Title": "Inglourious Basterds",
+        "Year": "2009",
+        "ID": "inglourious-basterds"
     },
     {
         "Title": "(500) Days of Summer",
@@ -115,6 +150,11 @@
         "ID": "little-women-2019"
     },
     {
+        "Title": "The Godfather",
+        "Year": "1972",
+        "ID": "the-godfather"
+    },
+    {
         "Title": "Gone Girl",
         "Year": "2014",
         "ID": "gone-girl"
@@ -128,6 +168,11 @@
         "Title": "Once Upon a Time... in Hollywood",
         "Year": "2019",
         "ID": "once-upon-a-time-in-hollywood"
+    },
+    {
+        "Title": "Django Unchained",
+        "Year": "2012",
+        "ID": "django-unchained"
     },
     {
         "Title": "Wicked",
@@ -220,6 +265,11 @@
         "ID": "past-lives"
     },
     {
+        "Title": "Prisoners",
+        "Year": "2013",
+        "ID": "prisoners"
+    },
+    {
         "Title": "It",
         "Year": "2017",
         "ID": "it-2017"
@@ -228,6 +278,11 @@
         "Title": "Catch Me If You Can",
         "Year": "2002",
         "ID": "catch-me-if-you-can-2002"
+    },
+    {
+        "Title": "Blade Runner 2049",
+        "Year": "2017",
+        "ID": "blade-runner-2049"
     },
     {
         "Title": "Conclave",
@@ -295,6 +350,11 @@
         "ID": "brokeback-mountain"
     },
     {
+        "Title": "Gladiator",
+        "Year": "2000",
+        "ID": "gladiator-2000"
+    },
+    {
         "Title": "Don't Look Up",
         "Year": "2021",
         "ID": "dont-look-up-2021"
@@ -308,6 +368,11 @@
         "Title": "The Holdovers",
         "Year": "2023",
         "ID": "the-holdovers"
+    },
+    {
+        "Title": "12 Angry Men",
+        "Year": "1957",
+        "ID": "12-angry-men"
     },
     {
         "Title": "The Lighthouse",
@@ -335,6 +400,11 @@
         "ID": "michael-2026"
     },
     {
+        "Title": "Eyes Wide Shut",
+        "Year": "1999",
+        "ID": "eyes-wide-shut"
+    },
+    {
         "Title": "Batman Begins",
         "Year": "2005",
         "ID": "batman-begins"
@@ -350,6 +420,11 @@
         "ID": "nightcrawler"
     },
     {
+        "Title": "Scarface",
+        "Year": "1983",
+        "ID": "scarface-1983"
+    },
+    {
         "Title": "1917",
         "Year": "2019",
         "ID": "1917"
@@ -358,6 +433,11 @@
         "Title": "About Time",
         "Year": "2013",
         "ID": "about-time"
+    },
+    {
+        "Title": "Schindler's List",
+        "Year": "1993",
+        "ID": "schindlers-list"
     },
     {
         "Title": "The Dark Knight Rises",
@@ -385,6 +465,11 @@
         "ID": "girl-interrupted"
     },
     {
+        "Title": "There Will Be Blood",
+        "Year": "2007",
+        "ID": "there-will-be-blood"
+    },
+    {
         "Title": "Bones and All",
         "Year": "2022",
         "ID": "bones-and-all"
@@ -395,6 +480,11 @@
         "ID": "wuthering-heights-2026"
     },
     {
+        "Title": "The Lion King",
+        "Year": "1994",
+        "ID": "the-lion-king"
+    },
+    {
         "Title": "Edward Scissorhands",
         "Year": "1990",
         "ID": "edward-scissorhands"
@@ -403,6 +493,11 @@
         "Title": "Juno",
         "Year": "2007",
         "ID": "juno"
+    },
+    {
+        "Title": "The Departed",
+        "Year": "2006",
+        "ID": "the-departed"
     },
     {
         "Title": "A Quiet Place",
@@ -420,14 +515,39 @@
         "ID": "materialists"
     },
     {
+        "Title": "The Godfather Part II",
+        "Year": "1974",
+        "ID": "the-godfather-part-ii"
+    },
+    {
+        "Title": "When Harry Met Sally...",
+        "Year": "1989",
+        "ID": "when-harry-met-sally"
+    },
+    {
         "Title": "Crazy, Stupid, Love.",
         "Year": "2011",
         "ID": "crazy-stupid-love"
     },
     {
+        "Title": "Grave of the Fireflies",
+        "Year": "1988",
+        "ID": "grave-of-the-fireflies"
+    },
+    {
         "Title": "The Witch",
         "Year": "2015",
         "ID": "the-witch-2015"
+    },
+    {
+        "Title": "Fargo",
+        "Year": "1996",
+        "ID": "fargo"
+    },
+    {
+        "Title": "In the Mood for Love",
+        "Year": "2000",
+        "ID": "in-the-mood-for-love"
     },
     {
         "Title": "The Martian",
@@ -443,6 +563,31 @@
         "Title": "Priscilla",
         "Year": "2023",
         "ID": "priscilla"
+    },
+    {
+        "Title": "La Haine",
+        "Year": "1995",
+        "ID": "la-haine"
+    },
+    {
+        "Title": "Stand by Me",
+        "Year": "1986",
+        "ID": "stand-by-me"
+    },
+    {
+        "Title": "Killers of the Flower Moon",
+        "Year": "2023",
+        "ID": "killers-of-the-flower-moon"
+    },
+    {
+        "Title": "The Pianist",
+        "Year": "2002",
+        "ID": "the-pianist"
+    },
+    {
+        "Title": "Trainspotting",
+        "Year": "1996",
+        "ID": "trainspotting"
     },
     {
         "Title": "The Boy and the Heron",
@@ -463,6 +608,16 @@
         "Title": "The Sixth Sense",
         "Year": "1999",
         "ID": "the-sixth-sense"
+    },
+    {
+        "Title": "Babylon",
+        "Year": "2022",
+        "ID": "babylon-2022"
+    },
+    {
+        "Title": "Saving Private Ryan",
+        "Year": "1998",
+        "ID": "saving-private-ryan"
     },
     {
         "Title": "Gladiator II",
@@ -495,9 +650,19 @@
         "ID": "the-banshees-of-inisherin"
     },
     {
+        "Title": "The Green Mile",
+        "Year": "1999",
+        "ID": "the-green-mile"
+    },
+    {
         "Title": "The Great Gatsby",
         "Year": "2013",
         "ID": "the-great-gatsby-2013"
+    },
+    {
+        "Title": "Heat",
+        "Year": "1995",
+        "ID": "heat-1995"
     },
     {
         "Title": "Léon: The Professional",
@@ -565,6 +730,11 @@
         "ID": "the-iron-claw-2023"
     },
     {
+        "Title": "The Revenant",
+        "Year": "2015",
+        "ID": "the-revenant-2015"
+    },
+    {
         "Title": "I, Tonya",
         "Year": "2017",
         "ID": "i-tonya"
@@ -590,6 +760,11 @@
         "ID": "american-beauty"
     },
     {
+        "Title": "Moonrise Kingdom",
+        "Year": "2012",
+        "ID": "moonrise-kingdom"
+    },
+    {
         "Title": "Love Actually",
         "Year": "2003",
         "ID": "love-actually"
@@ -613,6 +788,11 @@
         "Title": "The French Dispatch of the Liberty, Kansas Evening Sun",
         "Year": "2021",
         "ID": "the-french-dispatch-of-the-liberty-kansas"
+    },
+    {
+        "Title": "Before Sunset",
+        "Year": "2004",
+        "ID": "before-sunset"
     },
     {
         "Title": "The Royal Tenenbaums",
@@ -645,6 +825,11 @@
         "ID": "perfect-days-2023"
     },
     {
+        "Title": "The Hateful Eight",
+        "Year": "2015",
+        "ID": "the-hateful-eight"
+    },
+    {
         "Title": "All Quiet on the Western Front",
         "Year": "2022",
         "ID": "all-quiet-on-the-western-front-2022"
@@ -675,9 +860,19 @@
         "ID": "chungking-express"
     },
     {
+        "Title": "The Brutalist",
+        "Year": "2024",
+        "ID": "the-brutalist"
+    },
+    {
         "Title": "One Flew Over the Cuckoo's Nest",
         "Year": "1975",
         "ID": "one-flew-over-the-cuckoos-nest"
+    },
+    {
+        "Title": "Casablanca",
+        "Year": "1942",
+        "ID": "casablanca"
     },
     {
         "Title": "It Chapter Two",
@@ -708,6 +903,11 @@
         "Title": "Green Book",
         "Year": "2018",
         "ID": "green-book"
+    },
+    {
+        "Title": "Last Night in Soho",
+        "Year": "2021",
+        "ID": "last-night-in-soho"
     },
     {
         "Title": "Sound of Metal",
@@ -743,6 +943,11 @@
         "Title": "The Favourite",
         "Year": "2018",
         "ID": "the-favourite"
+    },
+    {
+        "Title": "Uptown Girls",
+        "Year": "2003",
+        "ID": "uptown-girls"
     },
     {
         "Title": "Hacksaw Ridge",
@@ -800,6 +1005,11 @@
         "ID": "its-a-wonderful-life"
     },
     {
+        "Title": "Ford v Ferrari",
+        "Year": "2019",
+        "ID": "ford-v-ferrari"
+    },
+    {
         "Title": "mid90s",
         "Year": "2018",
         "ID": "mid90s"
@@ -843,6 +1053,16 @@
         "Title": "The Curious Case of Benjamin Button",
         "Year": "2008",
         "ID": "the-curious-case-of-benjamin-button"
+    },
+    {
+        "Title": "Magnolia",
+        "Year": "1999",
+        "ID": "magnolia"
+    },
+    {
+        "Title": "The Irishman",
+        "Year": "2019",
+        "ID": "the-irishman-2019"
     },
     {
         "Title": "Joker: Folie à Deux",
@@ -895,6 +1115,16 @@
         "ID": "silver-linings-playbook"
     },
     {
+        "Title": "Frances Ha",
+        "Year": "2012",
+        "ID": "frances-ha"
+    },
+    {
+        "Title": "Boogie Nights",
+        "Year": "1997",
+        "ID": "boogie-nights"
+    },
+    {
         "Title": "Dirty Dancing",
         "Year": "1987",
         "ID": "dirty-dancing"
@@ -913,6 +1143,11 @@
         "Title": "Carol",
         "Year": "2015",
         "ID": "carol-2015"
+    },
+    {
+        "Title": "Casino",
+        "Year": "1995",
+        "ID": "casino"
     },
     {
         "Title": "Incendies",
@@ -945,6 +1180,11 @@
         "ID": "waves-2019"
     },
     {
+        "Title": "TÁR",
+        "Year": "2022",
+        "ID": "tar-2022"
+    },
+    {
         "Title": "Promising Young Woman",
         "Year": "2020",
         "ID": "promising-young-woman"
@@ -968,6 +1208,11 @@
         "Title": "Shiva Baby",
         "Year": "2020",
         "ID": "shiva-baby-2020"
+    },
+    {
+        "Title": "Cinema Paradiso",
+        "Year": "1988",
+        "ID": "cinema-paradiso"
     },
     {
         "Title": "The Darjeeling Limited",
@@ -1003,250 +1248,5 @@
         "Title": "The Boy in the Striped Pyjamas",
         "Year": "2008",
         "ID": "the-boy-in-the-striped-pyjamas"
-    },
-    {
-        "Title": "Rosemary's Baby",
-        "Year": "1968",
-        "ID": "rosemarys-baby"
-    },
-    {
-        "Title": "Dazed and Confused",
-        "Year": "1993",
-        "ID": "dazed-and-confused"
-    },
-    {
-        "Title": "Thirteen",
-        "Year": "2003",
-        "ID": "thirteen"
-    },
-    {
-        "Title": "Rise of the Planet of the Apes",
-        "Year": "2011",
-        "ID": "rise-of-the-planet-of-the-apes"
-    },
-    {
-        "Title": "Moneyball",
-        "Year": "2011",
-        "ID": "moneyball"
-    },
-    {
-        "Title": "The Intouchables",
-        "Year": "2011",
-        "ID": "the-intouchables"
-    },
-    {
-        "Title": "Thelma & Louise",
-        "Year": "1991",
-        "ID": "thelma-louise"
-    },
-    {
-        "Title": "Raging Bull",
-        "Year": "1980",
-        "ID": "raging-bull"
-    },
-    {
-        "Title": "12 Years a Slave",
-        "Year": "2013",
-        "ID": "12-years-a-slave"
-    },
-    {
-        "Title": "The Idea of You",
-        "Year": "2024",
-        "ID": "the-idea-of-you-2024"
-    },
-    {
-        "Title": "Another Round",
-        "Year": "2020",
-        "ID": "another-round"
-    },
-    {
-        "Title": "Leave the World Behind",
-        "Year": "2023",
-        "ID": "leave-the-world-behind-2023"
-    },
-    {
-        "Title": "Romeo + Juliet",
-        "Year": "1996",
-        "ID": "romeo-juliet-1996"
-    },
-    {
-        "Title": "Dog Day Afternoon",
-        "Year": "1975",
-        "ID": "dog-day-afternoon"
-    },
-    {
-        "Title": "May December",
-        "Year": "2023",
-        "ID": "may-december"
-    },
-    {
-        "Title": "The Twilight Saga: Breaking Dawn – Part 2",
-        "Year": "2012",
-        "ID": "the-twilight-saga-breaking-dawn-part-2"
-    },
-    {
-        "Title": "Do the Right Thing",
-        "Year": "1989",
-        "ID": "do-the-right-thing"
-    },
-    {
-        "Title": "The Talented Mr. Ripley",
-        "Year": "1999",
-        "ID": "the-talented-mr-ripley"
-    },
-    {
-        "Title": "Suspiria",
-        "Year": "2018",
-        "ID": "suspiria-2018"
-    },
-    {
-        "Title": "Blue Valentine",
-        "Year": "2010",
-        "ID": "blue-valentine"
-    },
-    {
-        "Title": "Gravity",
-        "Year": "2013",
-        "ID": "gravity-2013"
-    },
-    {
-        "Title": "Die My Love",
-        "Year": "2025",
-        "ID": "die-my-love"
-    },
-    {
-        "Title": "Kinds of Kindness",
-        "Year": "2024",
-        "ID": "kinds-of-kindness"
-    },
-    {
-        "Title": "Before Midnight",
-        "Year": "2013",
-        "ID": "before-midnight"
-    },
-    {
-        "Title": "Guillermo del Toro's Pinocchio",
-        "Year": "2022",
-        "ID": "guillermo-del-toros-pinocchio"
-    },
-    {
-        "Title": "Cast Away",
-        "Year": "2000",
-        "ID": "cast-away"
-    },
-    {
-        "Title": "Close",
-        "Year": "2022",
-        "ID": "close-2022"
-    },
-    {
-        "Title": "The Platform",
-        "Year": "2019",
-        "ID": "the-platform"
-    },
-    {
-        "Title": "Y Tu Mamá También",
-        "Year": "2001",
-        "ID": "y-tu-mama-tambien"
-    },
-    {
-        "Title": "The Babadook",
-        "Year": "2014",
-        "ID": "the-babadook"
-    },
-    {
-        "Title": "Voicemails for Isabelle",
-        "Year": "2026",
-        "ID": "voicemails-for-isabelle"
-    },
-    {
-        "Title": "Minari",
-        "Year": "2020",
-        "ID": "minari"
-    },
-    {
-        "Title": "Room",
-        "Year": "2015",
-        "ID": "room-2015"
-    },
-    {
-        "Title": "It Ends with Us",
-        "Year": "2024",
-        "ID": "it-ends-with-us"
-    },
-    {
-        "Title": "Monster",
-        "Year": "2023",
-        "ID": "monster-2023"
-    },
-    {
-        "Title": "The Game",
-        "Year": "1997",
-        "ID": "the-game"
-    },
-    {
-        "Title": "Into the Wild",
-        "Year": "2007",
-        "ID": "into-the-wild"
-    },
-    {
-        "Title": "The Green Knight",
-        "Year": "2021",
-        "ID": "the-green-knight"
-    },
-    {
-        "Title": "Queer",
-        "Year": "2024",
-        "ID": "queer-2024"
-    },
-    {
-        "Title": "Breakfast at Tiffany's",
-        "Year": "1961",
-        "ID": "breakfast-at-tiffanys"
-    },
-    {
-        "Title": "Bridge to Terabithia",
-        "Year": "2007",
-        "ID": "bridge-to-terabithia"
-    },
-    {
-        "Title": "The Elephant Man",
-        "Year": "1980",
-        "ID": "the-elephant-man"
-    },
-    {
-        "Title": "Misery",
-        "Year": "1990",
-        "ID": "misery"
-    },
-    {
-        "Title": "Lost Highway",
-        "Year": "1997",
-        "ID": "lost-highway"
-    },
-    {
-        "Title": "Being John Malkovich",
-        "Year": "1999",
-        "ID": "being-john-malkovich"
-    },
-    {
-        "Title": "I'm Thinking of Ending Things",
-        "Year": "2020",
-        "ID": "im-thinking-of-ending-things"
-    },
-    {
-        "Title": "Moulin Rouge!",
-        "Year": "2001",
-        "ID": "moulin-rouge-2001"
-    },
-    {
-        "Title": "The Help",
-        "Year": "2011",
-        "ID": "the-help"
-    },
-    {
-        "Title": "Dawn of the Planet of the Apes",
-        "Year": "2014",
-        "ID": "dawn-of-the-planet-of-the-apes"
     }
 ]
