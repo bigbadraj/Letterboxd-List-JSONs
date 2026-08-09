@@ -45,11 +45,6 @@
         "ID": "sunrise-a-song-of-two-humans"
     },
     {
-        "Title": "The Lodger: A Story of the London Fog",
-        "Year": "1927",
-        "ID": "the-lodger-a-story-of-the-london-fog"
-    },
-    {
         "Title": "Steamboat Bill, Jr.",
         "Year": "1928",
         "ID": "steamboat-bill-jr"
@@ -58,11 +53,6 @@
         "Title": "The Passion of Joan of Arc",
         "Year": "1928",
         "ID": "the-passion-of-joan-of-arc"
-    },
-    {
-        "Title": "Underground",
-        "Year": "1928",
-        "ID": "underground"
     },
     {
         "Title": "Blackmail",
@@ -95,11 +85,6 @@
         "ID": "morocco"
     },
     {
-        "Title": "People on Sunday",
-        "Year": "1930",
-        "ID": "people-on-sunday"
-    },
-    {
         "Title": "City Lights",
         "Year": "1931",
         "ID": "city-lights"
@@ -125,6 +110,11 @@
         "ID": "m"
     },
     {
+        "Title": "Mädchen in Uniform",
+        "Year": "1931",
+        "ID": "madchen-in-uniform"
+    },
+    {
         "Title": "Monkey Business",
         "Year": "1931",
         "ID": "monkey-business"
@@ -140,14 +130,14 @@
         "ID": "freaks"
     },
     {
+        "Title": "I Am a Fugitive from a Chain Gang",
+        "Year": "1932",
+        "ID": "i-am-a-fugitive-from-a-chain-gang"
+    },
+    {
         "Title": "Island of Lost Souls",
         "Year": "1932",
         "ID": "island-of-lost-souls"
-    },
-    {
-        "Title": "Love Me Tonight",
-        "Year": "1932",
-        "ID": "love-me-tonight"
     },
     {
         "Title": "Scarface",
@@ -200,11 +190,6 @@
         "ID": "mystery-of-the-wax-museum"
     },
     {
-        "Title": "Sons of the Desert",
-        "Year": "1933",
-        "ID": "sons-of-the-desert"
-    },
-    {
         "Title": "The Invisible Man",
         "Year": "1933",
         "ID": "the-invisible-man"
@@ -218,6 +203,11 @@
         "Title": "Dames",
         "Year": "1934",
         "ID": "dames"
+    },
+    {
+        "Title": "It Happened One Night",
+        "Year": "1934",
+        "ID": "it-happened-one-night"
     },
     {
         "Title": "The Man Who Knew Too Much",
@@ -253,6 +243,11 @@
         "Title": "Bride of Frankenstein",
         "Year": "1935",
         "ID": "bride-of-frankenstein"
+    },
+    {
+        "Title": "Captain Blood",
+        "Year": "1935",
+        "ID": "captain-blood"
     },
     {
         "Title": "Top Hat",
@@ -318,11 +313,6 @@
         "Title": "The Wizard of Oz",
         "Year": "1939",
         "ID": "the-wizard-of-oz-1939"
-    },
-    {
-        "Title": "Dance, Girl, Dance",
-        "Year": "1940",
-        "ID": "dance-girl-dance"
     },
     {
         "Title": "Foreign Correspondent",
@@ -410,11 +400,6 @@
         "ID": "went-the-day-well"
     },
     {
-        "Title": "I Walked with a Zombie",
-        "Year": "1943",
-        "ID": "i-walked-with-a-zombie"
-    },
-    {
         "Title": "Shadow of a Doubt",
         "Year": "1943",
         "ID": "shadow-of-a-doubt"
@@ -425,11 +410,6 @@
         "ID": "the-life-and-death-of-colonel-blimp"
     },
     {
-        "Title": "Arsenic and Old Lace",
-        "Year": "1944",
-        "ID": "arsenic-and-old-lace"
-    },
-    {
         "Title": "Double Indemnity",
         "Year": "1944",
         "ID": "double-indemnity"
@@ -438,11 +418,6 @@
         "Title": "Lifeboat",
         "Year": "1944",
         "ID": "lifeboat"
-    },
-    {
-        "Title": "Murder, My Sweet",
-        "Year": "1944",
-        "ID": "murder-my-sweet"
     },
     {
         "Title": "Brief Encounter",
@@ -485,6 +460,11 @@
         "ID": "beauty-and-the-beast"
     },
     {
+        "Title": "Great Expectations",
+        "Year": "1946",
+        "ID": "great-expectations"
+    },
+    {
         "Title": "Green for Danger",
         "Year": "1946",
         "ID": "green-for-danger"
@@ -520,11 +500,6 @@
         "ID": "black-narcissus"
     },
     {
-        "Title": "Out of the Past",
-        "Year": "1947",
-        "ID": "out-of-the-past"
-    },
-    {
         "Title": "Crossfire",
         "Year": "1947",
         "ID": "crossfire"
@@ -543,6 +518,11 @@
         "Title": "Odd Man Out",
         "Year": "1947",
         "ID": "odd-man-out"
+    },
+    {
+        "Title": "Out of the Past",
+        "Year": "1947",
+        "ID": "out-of-the-past"
     },
     {
         "Title": "They Made Me a Fugitive",
@@ -665,11 +645,6 @@
         "ID": "la-ronde"
     },
     {
-        "Title": "The Young and the Damned",
-        "Year": "1950",
-        "ID": "the-young-and-the-damned"
-    },
-    {
         "Title": "Rashomon",
         "Year": "1950",
         "ID": "rashomon"
@@ -688,6 +663,16 @@
         "Title": "The Breaking Point",
         "Year": "1950",
         "ID": "the-breaking-point"
+    },
+    {
+        "Title": "The Young and the Damned",
+        "Year": "1950",
+        "ID": "the-young-and-the-damned"
+    },
+    {
+        "Title": "Wagon Master",
+        "Year": "1950",
+        "ID": "wagon-master"
     },
     {
         "Title": "A Place in the Sun",
@@ -715,6 +700,11 @@
         "ID": "strangers-on-a-train"
     },
     {
+        "Title": "The Lavender Hill Mob",
+        "Year": "1951",
+        "ID": "the-lavender-hill-mob"
+    },
+    {
         "Title": "The Thing from Another World",
         "Year": "1951",
         "ID": "the-thing-from-another-world"
@@ -740,11 +730,6 @@
         "ID": "singin-in-the-rain"
     },
     {
-        "Title": "Stolen Face",
-        "Year": "1952",
-        "ID": "stolen-face"
-    },
-    {
         "Title": "Umberto D.",
         "Year": "1952",
         "ID": "umberto-d"
@@ -753,11 +738,6 @@
         "Title": "Duck Amuck",
         "Year": "1953",
         "ID": "duck-amuck"
-    },
-    {
-        "Title": "Glen or Glenda",
-        "Year": "1953",
-        "ID": "glen-or-glenda"
     },
     {
         "Title": "House of Wax",
@@ -778,11 +758,6 @@
         "Title": "Summer with Monika",
         "Year": "1953",
         "ID": "summer-with-monika"
-    },
-    {
-        "Title": "The Band Wagon",
-        "Year": "1953",
-        "ID": "the-band-wagon"
     },
     {
         "Title": "The Big Heat",
@@ -813,6 +788,11 @@
         "Title": "20,000 Leagues Under the Sea",
         "Year": "1954",
         "ID": "20000-leagues-under-the-sea-1954"
+    },
+    {
+        "Title": "Creature from the Black Lagoon",
+        "Year": "1954",
+        "ID": "creature-from-the-black-lagoon"
     },
     {
         "Title": "Godzilla",
@@ -995,11 +975,6 @@
         "ID": "paths-of-glory"
     },
     {
-        "Title": "Quatermass 2",
-        "Year": "1957",
-        "ID": "quatermass-2"
-    },
-    {
         "Title": "Sweet Smell of Success",
         "Year": "1957",
         "ID": "sweet-smell-of-success"
@@ -1065,14 +1040,14 @@
         "ID": "dracula-1958"
     },
     {
-        "Title": "Ice Cold in Alex",
-        "Year": "1958",
-        "ID": "ice-cold-in-alex"
-    },
-    {
         "Title": "Elevator to the Gallows",
         "Year": "1958",
         "ID": "elevator-to-the-gallows"
+    },
+    {
+        "Title": "Ice Cold in Alex",
+        "Year": "1958",
+        "ID": "ice-cold-in-alex"
     },
     {
         "Title": "Mon Oncle",
@@ -1120,9 +1095,9 @@
         "ID": "floating-weeds"
     },
     {
-        "Title": "Horrors of the Black Museum",
+        "Title": "Hiroshima Mon Amour",
         "Year": "1959",
-        "ID": "horrors-of-the-black-museum"
+        "ID": "hiroshima-mon-amour"
     },
     {
         "Title": "Imitation of Life",
@@ -1235,11 +1210,6 @@
         "ID": "the-league-of-gentlemen"
     },
     {
-        "Title": "The Running Jumping & Standing Still Film",
-        "Year": "1959",
-        "ID": "the-running-jumping-standing-still-film"
-    },
-    {
         "Title": "The Virgin Spring",
         "Year": "1960",
         "ID": "the-virgin-spring"
@@ -1250,6 +1220,11 @@
         "ID": "village-of-the-damned"
     },
     {
+        "Title": "When a Woman Ascends the Stairs",
+        "Year": "1960",
+        "ID": "when-a-woman-ascends-the-stairs"
+    },
+    {
         "Title": "Zazie dans le Métro",
         "Year": "1960",
         "ID": "zazie-dans-le-metro"
@@ -1258,6 +1233,11 @@
         "Title": "A Taste of Honey",
         "Year": "1961",
         "ID": "a-taste-of-honey"
+    },
+    {
+        "Title": "Accattone",
+        "Year": "1961",
+        "ID": "accattone"
     },
     {
         "Title": "La Notte",
@@ -1335,14 +1315,19 @@
         "ID": "jules-and-jim"
     },
     {
-        "Title": "Knife in the Water",
-        "Year": "1962",
-        "ID": "knife-in-the-water"
-    },
-    {
         "Title": "L'Eclisse",
         "Year": "1962",
         "ID": "leclisse"
+    },
+    {
+        "Title": "Lawrence of Arabia",
+        "Year": "1962",
+        "ID": "lawrence-of-arabia"
+    },
+    {
+        "Title": "Lolita",
+        "Year": "1962",
+        "ID": "lolita"
     },
     {
         "Title": "Il Sorpasso",
@@ -1400,6 +1385,11 @@
         "ID": "charade"
     },
     {
+        "Title": "Contempt",
+        "Year": "1963",
+        "ID": "contempt"
+    },
+    {
         "Title": "From Russia with Love",
         "Year": "1963",
         "ID": "from-russia-with-love"
@@ -1433,6 +1423,11 @@
         "Title": "The Haunting",
         "Year": "1963",
         "ID": "the-haunting"
+    },
+    {
+        "Title": "The Pink Panther",
+        "Year": "1963",
+        "ID": "the-pink-panther-1963"
     },
     {
         "Title": "The Servant",
@@ -1480,6 +1475,11 @@
         "ID": "goldfinger"
     },
     {
+        "Title": "Guns at Batasi",
+        "Year": "1964",
+        "ID": "guns-at-batasi"
+    },
+    {
         "Title": "I Am Cuba",
         "Year": "1964",
         "ID": "i-am-cuba"
@@ -1498,6 +1498,11 @@
         "Title": "Seance on a Wet Afternoon",
         "Year": "1964",
         "ID": "seance-on-a-wet-afternoon"
+    },
+    {
+        "Title": "The Gospel According to St. Matthew",
+        "Year": "1964",
+        "ID": "the-gospel-according-to-st-matthew"
     },
     {
         "Title": "The Masque of the Red Death",
@@ -1585,11 +1590,6 @@
         "ID": "the-10th-victim"
     },
     {
-        "Title": "The Collector",
-        "Year": "1965",
-        "ID": "the-collector"
-    },
-    {
         "Title": "The Hill",
         "Year": "1965",
         "ID": "the-hill"
@@ -1638,11 +1638,6 @@
         "Title": "Fantastic Voyage",
         "Year": "1966",
         "ID": "fantastic-voyage"
-    },
-    {
-        "Title": "Gambit",
-        "Year": "1966",
-        "ID": "gambit"
     },
     {
         "Title": "Kill, Baby... Kill!",
@@ -1725,11 +1720,6 @@
         "ID": "quatermass-and-the-pit"
     },
     {
-        "Title": "Robbery",
-        "Year": "1967",
-        "ID": "robbery"
-    },
-    {
         "Title": "The Dirty Dozen",
         "Year": "1967",
         "ID": "the-dirty-dozen"
@@ -1743,11 +1733,6 @@
         "Title": "The Graduate",
         "Year": "1967",
         "ID": "the-graduate"
-    },
-    {
-        "Title": "The President's Analyst",
-        "Year": "1967",
-        "ID": "the-presidents-analyst"
     },
     {
         "Title": "The Producers",
@@ -1800,6 +1785,11 @@
         "ID": "dark-of-the-sun"
     },
     {
+        "Title": "Faces",
+        "Year": "1968",
+        "ID": "faces-1968"
+    },
+    {
         "Title": "Head",
         "Year": "1968",
         "ID": "head"
@@ -1843,11 +1833,6 @@
         "Title": "The Boston Strangler",
         "Year": "1968",
         "ID": "the-boston-strangler"
-    },
-    {
-        "Title": "The Devil Rides Out",
-        "Year": "1968",
-        "ID": "the-devil-rides-out"
     },
     {
         "Title": "The Great Silence",
@@ -1910,11 +1895,6 @@
         "ID": "funeral-parade-of-roses"
     },
     {
-        "Title": "I Start Counting",
-        "Year": "1970",
-        "ID": "i-start-counting"
-    },
-    {
         "Title": "Kes",
         "Year": "1969",
         "ID": "kes"
@@ -1960,9 +1940,9 @@
         "ID": "the-wild-bunch"
     },
     {
-        "Title": "What Ever Happened to Aunt Alice?",
+        "Title": "They Shoot Horses, Don't They?",
         "Year": "1969",
-        "ID": "what-ever-happened-to-aunt-alice"
+        "ID": "they-shoot-horses-dont-they"
     },
     {
         "Title": "Women in Love",
@@ -2000,9 +1980,9 @@
         "ID": "five-easy-pieces"
     },
     {
-        "Title": "Mumsy, Nanny, Sonny & Girly",
+        "Title": "I Start Counting",
         "Year": "1970",
-        "ID": "mumsy-nanny-sonny-girly"
+        "ID": "i-start-counting"
     },
     {
         "Title": "Hatchet for the Honeymoon",
@@ -2018,6 +1998,11 @@
         "Title": "M*A*S*H",
         "Year": "1970",
         "ID": "mash"
+    },
+    {
+        "Title": "Mumsy, Nanny, Sonny & Girly",
+        "Year": "1970",
+        "ID": "mumsy-nanny-sonny-girly"
     },
     {
         "Title": "Performance",
@@ -2063,11 +2048,6 @@
         "Title": "A Clockwork Orange",
         "Year": "1971",
         "ID": "a-clockwork-orange"
-    },
-    {
-        "Title": "A New Leaf",
-        "Year": "1971",
-        "ID": "a-new-leaf"
     },
     {
         "Title": "A Touch of Zen",
@@ -2220,9 +2200,19 @@
         "ID": "cabaret"
     },
     {
+        "Title": "Death Line",
+        "Year": "1972",
+        "ID": "death-line"
+    },
+    {
         "Title": "Deliverance",
         "Year": "1972",
         "ID": "deliverance"
+    },
+    {
+        "Title": "Female Prisoner #701: Scorpion",
+        "Year": "1972",
+        "ID": "female-prisoner-701-scorpion"
     },
     {
         "Title": "Five Fingers of Death",
@@ -2245,24 +2235,19 @@
         "ID": "prime-cut"
     },
     {
-        "Title": "Death Line",
-        "Year": "1972",
-        "ID": "death-line"
-    },
-    {
         "Title": "Silent Running",
         "Year": "1972",
         "ID": "silent-running"
     },
     {
-        "Title": "Sisters",
-        "Year": "1972",
-        "ID": "sisters"
-    },
-    {
         "Title": "Tales from the Crypt",
         "Year": "1972",
         "ID": "tales-from-the-crypt"
+    },
+    {
+        "Title": "The Asphyx",
+        "Year": "1972",
+        "ID": "the-asphyx"
     },
     {
         "Title": "The Discreet Charm of the Bourgeoisie",
@@ -2288,11 +2273,6 @@
         "Title": "The Hot Rock",
         "Year": "1972",
         "ID": "the-hot-rock"
-    },
-    {
-        "Title": "The Mechanic",
-        "Year": "1972",
-        "ID": "the-mechanic"
     },
     {
         "Title": "The Ruling Class",
@@ -2375,9 +2355,19 @@
         "ID": "paper-moon"
     },
     {
+        "Title": "Scarecrow",
+        "Year": "1973",
+        "ID": "scarecrow"
+    },
+    {
         "Title": "Serpico",
         "Year": "1973",
         "ID": "serpico"
+    },
+    {
+        "Title": "Sisters",
+        "Year": "1972",
+        "ID": "sisters"
     },
     {
         "Title": "Sleeper",
@@ -2388,11 +2378,6 @@
         "Title": "Slither",
         "Year": "1973",
         "ID": "slither-1973"
-    },
-    {
-        "Title": "The Asphyx",
-        "Year": "1972",
-        "ID": "the-asphyx"
     },
     {
         "Title": "The Exorcist",
@@ -2425,6 +2410,11 @@
         "ID": "the-long-goodbye"
     },
     {
+        "Title": "The Outfit",
+        "Year": "1973",
+        "ID": "the-outfit"
+    },
+    {
         "Title": "The Spirit of the Beehive",
         "Year": "1973",
         "ID": "the-spirit-of-the-beehive"
@@ -2450,11 +2440,6 @@
         "ID": "westworld"
     },
     {
-        "Title": "White Lightning",
-        "Year": "1973",
-        "ID": "white-lightning"
-    },
-    {
         "Title": "Ali: Fear Eats the Soul",
         "Year": "1974",
         "ID": "ali-fear-eats-the-soul"
@@ -2473,11 +2458,6 @@
         "Title": "Blazing Saddles",
         "Year": "1974",
         "ID": "blazing-saddles"
-    },
-    {
-        "Title": "Blood for Dracula",
-        "Year": "1974",
-        "ID": "blood-for-dracula"
     },
     {
         "Title": "Bring Me the Head of Alfredo Garcia",
@@ -2500,19 +2480,14 @@
         "ID": "dirty-mary-crazy-larry"
     },
     {
-        "Title": "From Beyond the Grave",
+        "Title": "Female Trouble",
         "Year": "1974",
-        "ID": "from-beyond-the-grave"
+        "ID": "female-trouble"
     },
     {
         "Title": "Lenny",
         "Year": "1974",
         "ID": "lenny"
-    },
-    {
-        "Title": "The Living Dead at Manchester Morgue",
-        "Year": "1974",
-        "ID": "the-living-dead-at-manchester-morgue"
     },
     {
         "Title": "Phantom of the Paradise",
@@ -2538,6 +2513,11 @@
         "Title": "The Godfather Part II",
         "Year": "1974",
         "ID": "the-godfather-part-ii"
+    },
+    {
+        "Title": "The Living Dead at Manchester Morgue",
+        "Year": "1974",
+        "ID": "the-living-dead-at-manchester-morgue"
     },
     {
         "Title": "The Parallax View",
@@ -2618,6 +2598,11 @@
         "Title": "Picnic at Hanging Rock",
         "Year": "1975",
         "ID": "picnic-at-hanging-rock"
+    },
+    {
+        "Title": "The Rocky Horror Picture Show",
+        "Year": "1975",
+        "ID": "the-rocky-horror-picture-show"
     },
     {
         "Title": "The Stepford Wives",
@@ -2755,6 +2740,11 @@
         "ID": "the-spy-who-loved-me"
     },
     {
+        "Title": "Animal House",
+        "Year": "1978",
+        "ID": "animal-house"
+    },
+    {
         "Title": "Coma",
         "Year": "1978",
         "ID": "coma"
@@ -2788,11 +2778,6 @@
         "Title": "Long Weekend",
         "Year": "1978",
         "ID": "long-weekend"
-    },
-    {
-        "Title": "Animal House",
-        "Year": "1978",
-        "ID": "animal-house"
     },
     {
         "Title": "Piranha",
@@ -2865,6 +2850,11 @@
         "ID": "being-there"
     },
     {
+        "Title": "Life of Brian",
+        "Year": "1979",
+        "ID": "life-of-brian"
+    },
+    {
         "Title": "Mad Max",
         "Year": "1979",
         "ID": "mad-max"
@@ -2873,11 +2863,6 @@
         "Title": "Manhattan",
         "Year": "1979",
         "ID": "manhattan"
-    },
-    {
-        "Title": "Life of Brian",
-        "Year": "1979",
-        "ID": "life-of-brian"
     },
     {
         "Title": "Scum",
@@ -2935,11 +2920,6 @@
         "ID": "raging-bull"
     },
     {
-        "Title": "The Empire Strikes Back",
-        "Year": "1980",
-        "ID": "the-empire-strikes-back"
-    },
-    {
         "Title": "Superman II",
         "Year": "1980",
         "ID": "superman-ii"
@@ -2958,6 +2938,11 @@
         "Title": "The Elephant Man",
         "Year": "1980",
         "ID": "the-elephant-man"
+    },
+    {
+        "Title": "The Empire Strikes Back",
+        "Year": "1980",
+        "ID": "the-empire-strikes-back"
     },
     {
         "Title": "The Fog",
@@ -3005,11 +2990,6 @@
         "ID": "cutters-way"
     },
     {
-        "Title": "Dance Craze",
-        "Year": "1981",
-        "ID": "dance-craze"
-    },
-    {
         "Title": "Diva",
         "Year": "1981",
         "ID": "diva"
@@ -3043,11 +3023,6 @@
         "Title": "Raiders of the Lost Ark",
         "Year": "1981",
         "ID": "raiders-of-the-lost-ark"
-    },
-    {
-        "Title": "Roadgames",
-        "Year": "1981",
-        "ID": "roadgames"
     },
     {
         "Title": "Southern Comfort",
@@ -3170,6 +3145,11 @@
         "ID": "local-hero"
     },
     {
+        "Title": "Meantime",
+        "Year": "1983",
+        "ID": "meantime"
+    },
+    {
         "Title": "Project A",
         "Year": "1983",
         "ID": "project-a"
@@ -3245,11 +3225,6 @@
         "ID": "indiana-jones-and-the-temple-of-doom"
     },
     {
-        "Title": "Meantime",
-        "Year": "1983",
-        "ID": "meantime"
-    },
-    {
         "Title": "Paris, Texas",
         "Year": "1984",
         "ID": "paris-texas"
@@ -3300,11 +3275,6 @@
         "ID": "top-secret"
     },
     {
-        "Title": "Wheels on Meals",
-        "Year": "1984",
-        "ID": "wheels-on-meals"
-    },
-    {
         "Title": "After Hours",
         "Year": "1985",
         "ID": "after-hours"
@@ -3338,6 +3308,11 @@
         "Title": "Lost in America",
         "Year": "1985",
         "ID": "lost-in-america"
+    },
+    {
+        "Title": "My Beautiful Laundrette",
+        "Year": "1985",
+        "ID": "my-beautiful-laundrette"
     },
     {
         "Title": "Pee-wee's Big Adventure",
@@ -3440,6 +3415,11 @@
         "ID": "a-chinese-ghost-story"
     },
     {
+        "Title": "Au Revoir les Enfants",
+        "Year": "1987",
+        "ID": "au-revoir-les-enfants"
+    },
+    {
         "Title": "Evil Dead II",
         "Year": "1987",
         "ID": "evil-dead-ii"
@@ -3483,6 +3463,11 @@
         "Title": "Raising Arizona",
         "Year": "1987",
         "ID": "raising-arizona"
+    },
+    {
+        "Title": "Rita, Sue and Bob Too",
+        "Year": "1987",
+        "ID": "rita-sue-and-bob-too"
     },
     {
         "Title": "RoboCop",
@@ -3610,6 +3595,11 @@
         "ID": "the-killer"
     },
     {
+        "Title": "When Harry Met Sally...",
+        "Year": "1989",
+        "ID": "when-harry-met-sally"
+    },
+    {
         "Title": "Arachnophobia",
         "Year": "1990",
         "ID": "arachnophobia"
@@ -3643,6 +3633,11 @@
         "Title": "Misery",
         "Year": "1990",
         "ID": "misery"
+    },
+    {
+        "Title": "Total Recall",
+        "Year": "1990",
+        "ID": "total-recall"
     },
     {
         "Title": "Tremors",
@@ -3715,14 +3710,14 @@
         "ID": "the-silence-of-the-lambs"
     },
     {
-        "Title": "Bad Lieutenant",
-        "Year": "1992",
-        "ID": "bad-lieutenant"
-    },
-    {
         "Title": "Braindead",
         "Year": "1992",
         "ID": "braindead-1992"
+    },
+    {
+        "Title": "Cronos",
+        "Year": "1992",
+        "ID": "cronos"
     },
     {
         "Title": "Deep Cover",
@@ -3765,19 +3760,9 @@
         "ID": "the-player"
     },
     {
-        "Title": "Twin Peaks: Fire Walk with Me",
-        "Year": "1992",
-        "ID": "twin-peaks-fire-walk-with-me"
-    },
-    {
         "Title": "Unforgiven",
         "Year": "1992",
         "ID": "unforgiven"
-    },
-    {
-        "Title": "I Love a Man in Uniform",
-        "Year": "1993",
-        "ID": "i-love-a-man-in-uniform"
     },
     {
         "Title": "Bad Boy Bubby",
@@ -3790,11 +3775,6 @@
         "ID": "carlitos-way"
     },
     {
-        "Title": "Cronos",
-        "Year": "1992",
-        "ID": "cronos"
-    },
-    {
         "Title": "Dazed and Confused",
         "Year": "1993",
         "ID": "dazed-and-confused"
@@ -3803,6 +3783,11 @@
         "Title": "Groundhog Day",
         "Year": "1993",
         "ID": "groundhog-day"
+    },
+    {
+        "Title": "I Love a Man in Uniform",
+        "Year": "1993",
+        "ID": "i-love-a-man-in-uniform"
     },
     {
         "Title": "Jurassic Park",
@@ -3848,11 +3833,6 @@
         "Title": "Ed Wood",
         "Year": "1994",
         "ID": "ed-wood"
-    },
-    {
-        "Title": "Fist of Legend",
-        "Year": "1994",
-        "ID": "fist-of-legend"
     },
     {
         "Title": "Heavenly Creatures",
@@ -3905,6 +3885,11 @@
         "ID": "before-sunrise"
     },
     {
+        "Title": "Desperado",
+        "Year": "1995",
+        "ID": "desperado"
+    },
+    {
         "Title": "Heat",
         "Year": "1995",
         "ID": "heat-1995"
@@ -3953,11 +3938,6 @@
         "Title": "Citizen Ruth",
         "Year": "1996",
         "ID": "citizen-ruth"
-    },
-    {
-        "Title": "Desperado",
-        "Year": "1995",
-        "ID": "desperado"
     },
     {
         "Title": "Fargo",
@@ -4055,19 +4035,9 @@
         "ID": "buffalo-66"
     },
     {
-        "Title": "The Celebration",
-        "Year": "1998",
-        "ID": "the-celebration"
-    },
-    {
         "Title": "Happiness",
         "Year": "1998",
         "ID": "happiness"
-    },
-    {
-        "Title": "I Stand Alone",
-        "Year": "1998",
-        "ID": "i-stand-alone"
     },
     {
         "Title": "Last Night",
@@ -4100,9 +4070,9 @@
         "ID": "rushmore"
     },
     {
-        "Title": "Show Me Love",
+        "Title": "The Celebration",
         "Year": "1998",
-        "ID": "show-me-love"
+        "ID": "the-celebration"
     },
     {
         "Title": "There's Something About Mary",
@@ -4133,6 +4103,11 @@
         "Title": "Election",
         "Year": "1999",
         "ID": "election"
+    },
+    {
+        "Title": "Go",
+        "Year": "1999",
+        "ID": "go"
     },
     {
         "Title": "Magnolia",
@@ -4415,11 +4390,6 @@
         "ID": "team-america-world-police"
     },
     {
-        "Title": "Vera Drake",
-        "Year": "2004",
-        "ID": "vera-drake"
-    },
-    {
         "Title": "A History of Violence",
         "Year": "2005",
         "ID": "a-history-of-violence"
@@ -4433,11 +4403,6 @@
         "Title": "Brokeback Mountain",
         "Year": "2005",
         "ID": "brokeback-mountain"
-    },
-    {
-        "Title": "Caché",
-        "Year": "2005",
-        "ID": "cache"
     },
     {
         "Title": "Apocalypto",
@@ -4615,6 +4580,11 @@
         "ID": "four-lions"
     },
     {
+        "Title": "Incendies",
+        "Year": "2010",
+        "ID": "incendies"
+    },
+    {
         "Title": "Inception",
         "Year": "2010",
         "ID": "inception"
@@ -4623,11 +4593,6 @@
         "Title": "Senna",
         "Year": "2010",
         "ID": "senna"
-    },
-    {
-        "Title": "The Arbor",
-        "Year": "2010",
-        "ID": "the-arbor"
     },
     {
         "Title": "The Social Network",
@@ -4770,11 +4735,6 @@
         "ID": "boyhood"
     },
     {
-        "Title": "Ex Machina",
-        "Year": "2015",
-        "ID": "ex-machina-2015"
-    },
-    {
         "Title": "Interstellar",
         "Year": "2014",
         "ID": "interstellar"
@@ -4790,9 +4750,9 @@
         "ID": "nightcrawler"
     },
     {
-        "Title": "The Duke of Burgundy",
+        "Title": "Phoenix",
         "Year": "2014",
-        "ID": "the-duke-of-burgundy"
+        "ID": "phoenix-2014"
     },
     {
         "Title": "The Grand Budapest Hotel",
@@ -4810,11 +4770,6 @@
         "ID": "whiplash-2014"
     },
     {
-        "Title": "Wild Tales",
-        "Year": "2014",
-        "ID": "wild-tales"
-    },
-    {
         "Title": "45 Years",
         "Year": "2015",
         "ID": "45-years"
@@ -4823,6 +4778,11 @@
         "Title": "Anomalisa",
         "Year": "2015",
         "ID": "anomalisa"
+    },
+    {
+        "Title": "Ex Machina",
+        "Year": "2015",
+        "ID": "ex-machina-2015"
     },
     {
         "Title": "Mad Max: Fury Road",
@@ -4868,11 +4828,6 @@
         "Title": "Raw",
         "Year": "2016",
         "ID": "raw-2016"
-    },
-    {
-        "Title": "The Autopsy of Jane Doe",
-        "Year": "2016",
-        "ID": "the-autopsy-of-jane-doe"
     },
     {
         "Title": "The Handmaiden",
@@ -4980,18 +4935,68 @@
         "ID": "everything-everywhere-all-at-once"
     },
     {
+        "Title": "How to Blow Up a Pipeline",
+        "Year": "2022",
+        "ID": "how-to-blow-up-a-pipeline"
+    },
+    {
+        "Title": "Sisu",
+        "Year": "2022",
+        "ID": "sisu-2022"
+    },
+    {
+        "Title": "The Eight Mountains",
+        "Year": "2022",
+        "ID": "the-eight-mountains"
+    },
+    {
+        "Title": "Triangle of Sadness",
+        "Year": "2022",
+        "ID": "triangle-of-sadness"
+    },
+    {
         "Title": "All of Us Strangers",
         "Year": "2023",
         "ID": "all-of-us-strangers"
     },
     {
-        "Title": "Fallen Leaves",
+        "Title": "Do Not Expect Too Much from the End of the World",
         "Year": "2023",
-        "ID": "fallen-leaves-2023"
+        "ID": "do-not-expect-too-much-from-the-end-of-the-world"
+    },
+    {
+        "Title": "Past Lives",
+        "Year": "2023",
+        "ID": "past-lives"
     },
     {
         "Title": "Perfect Days",
         "Year": "2023",
         "ID": "perfect-days-2023"
+    },
+    {
+        "Title": "The Zone of Interest",
+        "Year": "2023",
+        "ID": "the-zone-of-interest"
+    },
+    {
+        "Title": "Love Lies Bleeding",
+        "Year": "2024",
+        "ID": "love-lies-bleeding-2024"
+    },
+    {
+        "Title": "One Battle After Another",
+        "Year": "2025",
+        "ID": "one-battle-after-another"
+    },
+    {
+        "Title": "Pillion",
+        "Year": "2025",
+        "ID": "pillion-2025"
+    },
+    {
+        "Title": "Sirāt",
+        "Year": "2025",
+        "ID": "sirat-2025"
     }
 ]
