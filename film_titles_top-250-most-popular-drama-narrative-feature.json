@@ -20,6 +20,11 @@
         "ID": "la-la-land"
     },
     {
+        "Title": "Whiplash",
+        "Year": "2014",
+        "ID": "whiplash-2014"
+    },
+    {
         "Title": "The Truman Show",
         "Year": "1998",
         "ID": "the-truman-show"
@@ -295,6 +300,11 @@
         "ID": "hamnet"
     },
     {
+        "Title": "Soul",
+        "Year": "2020",
+        "ID": "soul-2020"
+    },
+    {
         "Title": "Twilight",
         "Year": "2008",
         "ID": "twilight-2008"
@@ -313,6 +323,11 @@
         "Title": "F1",
         "Year": "2025",
         "ID": "f1"
+    },
+    {
+        "Title": "The Prestige",
+        "Year": "2006",
+        "ID": "the-prestige"
     },
     {
         "Title": "Before Sunrise",
@@ -1233,20 +1248,5 @@
         "Title": "Seven Samurai",
         "Year": "1954",
         "ID": "seven-samurai"
-    },
-    {
-        "Title": "Rosemary's Baby",
-        "Year": "1968",
-        "ID": "rosemarys-baby"
-    },
-    {
-        "Title": "Dazed and Confused",
-        "Year": "1993",
-        "ID": "dazed-and-confused"
-    },
-    {
-        "Title": "Thirteen",
-        "Year": "2003",
-        "ID": "thirteen"
     }
 ]
