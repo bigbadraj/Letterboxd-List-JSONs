@@ -1,20 +1,5 @@
 [
     {
-        "Title": "Interstellar",
-        "Year": "2014",
-        "ID": "interstellar"
-    },
-    {
-        "Title": "La La Land",
-        "Year": "2016",
-        "ID": "la-la-land"
-    },
-    {
-        "Title": "Whiplash",
-        "Year": "2014",
-        "ID": "whiplash-2014"
-    },
-    {
         "Title": "The Truman Show",
         "Year": "1998",
         "ID": "the-truman-show"
@@ -80,16 +65,6 @@
         "ID": "the-grand-budapest-hotel"
     },
     {
-        "Title": "Black Swan",
-        "Year": "2010",
-        "ID": "black-swan"
-    },
-    {
-        "Title": "Inglourious Basterds",
-        "Year": "2009",
-        "ID": "inglourious-basterds"
-    },
-    {
         "Title": "The Silence of the Lambs",
         "Year": "1991",
         "ID": "the-silence-of-the-lambs"
@@ -100,29 +75,14 @@
         "ID": "the-drama"
     },
     {
-        "Title": "(500) Days of Summer",
-        "Year": "2009",
-        "ID": "500-days-of-summer"
-    },
-    {
         "Title": "Call Me by Your Name",
         "Year": "2017",
         "ID": "call-me-by-your-name"
     },
     {
-        "Title": "Shutter Island",
-        "Year": "2010",
-        "ID": "shutter-island"
-    },
-    {
         "Title": "Challengers",
         "Year": "2024",
         "ID": "challengers"
-    },
-    {
-        "Title": "The Devil Wears Prada",
-        "Year": "2006",
-        "ID": "the-devil-wears-prada"
     },
     {
         "Title": "Lady Bird",
@@ -198,11 +158,6 @@
         "Title": "Titanic",
         "Year": "1997",
         "ID": "titanic-1997"
-    },
-    {
-        "Title": "Taxi Driver",
-        "Year": "1976",
-        "ID": "taxi-driver"
     },
     {
         "Title": "Pride & Prejudice",
@@ -285,11 +240,6 @@
         "ID": "jojo-rabbit"
     },
     {
-        "Title": "Conclave",
-        "Year": "2024",
-        "ID": "conclave"
-    },
-    {
         "Title": "Drive",
         "Year": "2011",
         "ID": "drive-2011"
@@ -318,11 +268,6 @@
         "Title": "Beautiful Boy",
         "Year": "2018",
         "ID": "beautiful-boy-2018"
-    },
-    {
-        "Title": "Brokeback Mountain",
-        "Year": "2005",
-        "ID": "brokeback-mountain"
     },
     {
         "Title": "12 Angry Men",
@@ -455,11 +400,6 @@
         "ID": "edward-scissorhands"
     },
     {
-        "Title": "The Departed",
-        "Year": "2006",
-        "ID": "the-departed"
-    },
-    {
         "Title": "When Harry Met Sally...",
         "Year": "1989",
         "ID": "when-harry-met-sally"
@@ -478,16 +418,6 @@
         "Title": "Juno",
         "Year": "2007",
         "ID": "juno"
-    },
-    {
-        "Title": "Crazy, Stupid, Love.",
-        "Year": "2011",
-        "ID": "crazy-stupid-love"
-    },
-    {
-        "Title": "Blade Runner",
-        "Year": "1982",
-        "ID": "blade-runner"
     },
     {
         "Title": "The Godfather Part II",
@@ -568,11 +498,6 @@
         "Title": "Saving Private Ryan",
         "Year": "1998",
         "ID": "saving-private-ryan"
-    },
-    {
-        "Title": "The Worst Person in the World",
-        "Year": "2021",
-        "ID": "the-worst-person-in-the-world"
     },
     {
         "Title": "The Invite",
@@ -665,16 +590,6 @@
         "ID": "marriage-story-2019"
     },
     {
-        "Title": "The Lobster",
-        "Year": "2015",
-        "ID": "the-lobster"
-    },
-    {
-        "Title": "Mr. & Mrs. Smith",
-        "Year": "2005",
-        "ID": "mr-mrs-smith-2005"
-    },
-    {
         "Title": "Asteroid City",
         "Year": "2023",
         "ID": "asteroid-city"
@@ -693,11 +608,6 @@
         "Title": "The Revenant",
         "Year": "2015",
         "ID": "the-revenant-2015"
-    },
-    {
-        "Title": "I Saw the TV Glow",
-        "Year": "2024",
-        "ID": "i-saw-the-tv-glow"
     },
     {
         "Title": "A Complete Unknown",
@@ -728,11 +638,6 @@
         "Title": "Before Sunset",
         "Year": "2004",
         "ID": "before-sunset"
-    },
-    {
-        "Title": "But I'm a Cheerleader",
-        "Year": "1999",
-        "ID": "but-im-a-cheerleader"
     },
     {
         "Title": "The Royal Tenenbaums",
@@ -808,11 +713,6 @@
         "Title": "Civil War",
         "Year": "2024",
         "ID": "civil-war-2024"
-    },
-    {
-        "Title": "The Zone of Interest",
-        "Year": "2023",
-        "ID": "the-zone-of-interest"
     },
     {
         "Title": "Pan's Labyrinth",
@@ -975,11 +875,6 @@
         "ID": "tick-tick-boom-2021"
     },
     {
-        "Title": "The Imitation Game",
-        "Year": "2014",
-        "ID": "the-imitation-game"
-    },
-    {
         "Title": "Dirty Dancing",
         "Year": "1987",
         "ID": "dirty-dancing"
@@ -998,11 +893,6 @@
         "Title": "The Irishman",
         "Year": "2019",
         "ID": "the-irishman-2019"
-    },
-    {
-        "Title": "Phantom Thread",
-        "Year": "2017",
-        "ID": "phantom-thread"
     },
     {
         "Title": "American History X",
@@ -1035,19 +925,9 @@
         "ID": "joker-folie-a-deux"
     },
     {
-        "Title": "Citizen Kane",
-        "Year": "1941",
-        "ID": "citizen-kane"
-    },
-    {
         "Title": "Licorice Pizza",
         "Year": "2021",
         "ID": "licorice-pizza"
-    },
-    {
-        "Title": "Frances Ha",
-        "Year": "2012",
-        "ID": "frances-ha"
     },
     {
         "Title": "Good Time",
@@ -1068,11 +948,6 @@
         "Title": "Carol",
         "Year": "2015",
         "ID": "carol-2015"
-    },
-    {
-        "Title": "Life Is Beautiful",
-        "Year": "1997",
-        "ID": "life-is-beautiful"
     },
     {
         "Title": "The Edge of Seventeen",
@@ -1103,26 +978,6 @@
         "Title": "Digger",
         "Year": "2026",
         "ID": "digger-2026"
-    },
-    {
-        "Title": "Bridget Jones's Diary",
-        "Year": "2001",
-        "ID": "bridget-joness-diary"
-    },
-    {
-        "Title": "Cinema Paradiso",
-        "Year": "1988",
-        "ID": "cinema-paradiso"
-    },
-    {
-        "Title": "Voicemails for Isabelle",
-        "Year": "2026",
-        "ID": "voicemails-for-isabelle"
-    },
-    {
-        "Title": "Promising Young Woman",
-        "Year": "2020",
-        "ID": "promising-young-woman"
     },
     {
         "Title": "Life of Pi",
@@ -1158,11 +1013,6 @@
         "Title": "The Twilight Saga: Breaking Dawn – Part 2",
         "Year": "2012",
         "ID": "the-twilight-saga-breaking-dawn-part-2"
-    },
-    {
-        "Title": "The Boy in the Striped Pyjamas",
-        "Year": "2008",
-        "ID": "the-boy-in-the-striped-pyjamas"
     },
     {
         "Title": "Dazed and Confused",
@@ -1220,11 +1070,6 @@
         "ID": "after-hours"
     },
     {
-        "Title": "Dog Day Afternoon",
-        "Year": "1975",
-        "ID": "dog-day-afternoon"
-    },
-    {
         "Title": "Raging Bull",
         "Year": "1980",
         "ID": "raging-bull"
@@ -1235,18 +1080,173 @@
         "ID": "amadeus"
     },
     {
-        "Title": "Romeo + Juliet",
-        "Year": "1996",
-        "ID": "romeo-juliet-1996"
-    },
-    {
         "Title": "Barry Lyndon",
         "Year": "1975",
         "ID": "barry-lyndon"
     },
     {
-        "Title": "The Idea of You",
+        "Title": "Do the Right Thing",
+        "Year": "1989",
+        "ID": "do-the-right-thing"
+    },
+    {
+        "Title": "12 Years a Slave",
+        "Year": "2013",
+        "ID": "12-years-a-slave"
+    },
+    {
+        "Title": "Persona",
+        "Year": "1966",
+        "ID": "persona"
+    },
+    {
+        "Title": "Blue Valentine",
+        "Year": "2010",
+        "ID": "blue-valentine"
+    },
+    {
+        "Title": "Suspiria",
+        "Year": "2018",
+        "ID": "suspiria-2018"
+    },
+    {
+        "Title": "The Fabelmans",
+        "Year": "2022",
+        "ID": "the-fabelmans"
+    },
+    {
+        "Title": "Leave the World Behind",
+        "Year": "2023",
+        "ID": "leave-the-world-behind-2023"
+    },
+    {
+        "Title": "Die My Love",
+        "Year": "2025",
+        "ID": "die-my-love"
+    },
+    {
+        "Title": "Before Midnight",
+        "Year": "2013",
+        "ID": "before-midnight"
+    },
+    {
+        "Title": "Y Tu Mamá También",
+        "Year": "2001",
+        "ID": "y-tu-mama-tambien"
+    },
+    {
+        "Title": "Gravity",
+        "Year": "2013",
+        "ID": "gravity-2013"
+    },
+    {
+        "Title": "The Elephant Man",
+        "Year": "1980",
+        "ID": "the-elephant-man"
+    },
+    {
+        "Title": "Twin Peaks: Fire Walk with Me",
+        "Year": "1992",
+        "ID": "twin-peaks-fire-walk-with-me"
+    },
+    {
+        "Title": "Close",
+        "Year": "2022",
+        "ID": "close-2022"
+    },
+    {
+        "Title": "May December",
+        "Year": "2023",
+        "ID": "may-december"
+    },
+    {
+        "Title": "Moulin Rouge!",
+        "Year": "2001",
+        "ID": "moulin-rouge-2001"
+    },
+    {
+        "Title": "The Craft",
+        "Year": "1996",
+        "ID": "the-craft"
+    },
+    {
+        "Title": "Cast Away",
+        "Year": "2000",
+        "ID": "cast-away"
+    },
+    {
+        "Title": "The Platform",
+        "Year": "2019",
+        "ID": "the-platform"
+    },
+    {
+        "Title": "Monster",
+        "Year": "2023",
+        "ID": "monster-2023"
+    },
+    {
+        "Title": "Bridge to Terabithia",
+        "Year": "2007",
+        "ID": "bridge-to-terabithia"
+    },
+    {
+        "Title": "Misery",
+        "Year": "1990",
+        "ID": "misery"
+    },
+    {
+        "Title": "The Game",
+        "Year": "1997",
+        "ID": "the-game"
+    },
+    {
+        "Title": "Stalker",
+        "Year": "1979",
+        "ID": "stalker"
+    },
+    {
+        "Title": "The Babadook",
+        "Year": "2014",
+        "ID": "the-babadook"
+    },
+    {
+        "Title": "Kinds of Kindness",
         "Year": "2024",
-        "ID": "the-idea-of-you-2024"
+        "ID": "kinds-of-kindness"
+    },
+    {
+        "Title": "Into the Wild",
+        "Year": "2007",
+        "ID": "into-the-wild"
+    },
+    {
+        "Title": "The Help",
+        "Year": "2011",
+        "ID": "the-help"
+    },
+    {
+        "Title": "It Ends with Us",
+        "Year": "2024",
+        "ID": "it-ends-with-us"
+    },
+    {
+        "Title": "Fury",
+        "Year": "2014",
+        "ID": "fury-2014"
+    },
+    {
+        "Title": "The Green Knight",
+        "Year": "2021",
+        "ID": "the-green-knight"
+    },
+    {
+        "Title": "Being John Malkovich",
+        "Year": "1999",
+        "ID": "being-john-malkovich"
+    },
+    {
+        "Title": "Interview with the Vampire",
+        "Year": "1994",
+        "ID": "interview-with-the-vampire"
     }
 ]
